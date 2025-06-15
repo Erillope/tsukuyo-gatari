@@ -10,7 +10,7 @@ export const RTypography = (props: TypographyProps) => {
     const { ref, visible } = useStartTransition()
 
     const sizes: { [key: string]: number } = {
-        'body1':1.5,
+        'body1': 1,
         'h3': 3,
         'h5': 1.5,
         'h4': 2,
@@ -18,9 +18,17 @@ export const RTypography = (props: TypographyProps) => {
 
     const getSize = (size: string) => {
         const sizeValue = sizes[size]
+        if (size === "body1"){
+            return {
+                xs: `${sizeValue}rem`,
+                sm: `${sizeValue * 0.875}rem`,
+                md: `${sizeValue}rem`,
+                lg: `${sizeValue}rem`,
+            }
+        }
         return {
             xs: `${sizeValue * 0.5}rem`,
-            sm: `${sizeValue * 1}rem`,
+            sm: `${sizeValue * 0.6}rem`,
             md: `${sizeValue * 0.75}rem`,
             lg: `${sizeValue}rem`,
         }
