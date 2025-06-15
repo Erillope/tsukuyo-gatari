@@ -1,2 +1,1 @@
-# TsukuyoGatari
-Yurry Canon/ Tsukuyomi fan page
+# Yurry Canon / Tsukuyomi fan page
