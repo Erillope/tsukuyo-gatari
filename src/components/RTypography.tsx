@@ -20,7 +20,7 @@ export const RTypography = (props: TypographyProps) => {
         const sizeValue = sizes[size]
         if (size === "body1"){
             return {
-                xs: `${sizeValue}rem`,
+                xs: `${sizeValue*0.8}rem`,
                 sm: `${sizeValue * 0.875}rem`,
                 md: `${sizeValue}rem`,
                 lg: `${sizeValue}rem`,
