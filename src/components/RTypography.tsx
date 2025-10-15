@@ -11,6 +11,8 @@ export const RTypography = (props: TypographyProps) => {
 
     const sizes: { [key: string]: number } = {
         'body1': 1,
+        'h1': 5,
+        'h2': 4,
         'h3': 3,
         'h5': 1.5,
         'h4': 2,
@@ -18,9 +20,9 @@ export const RTypography = (props: TypographyProps) => {
 
     const getSize = (size: string) => {
         const sizeValue = sizes[size]
-        if (size === "body1"){
+        if (size === "body1") {
             return {
-                xs: `${sizeValue*0.8}rem`,
+                xs: `${sizeValue * 0.8}rem`,
                 sm: `${sizeValue * 0.875}rem`,
                 md: `${sizeValue}rem`,
                 lg: `${sizeValue}rem`,
@@ -35,18 +37,18 @@ export const RTypography = (props: TypographyProps) => {
     }
 
     return (
-        <>
-            <Typography {...props}
-                ref={ref}
-                sx={{
-                    fontSize: getSize(props.variant as string),
-                    opacity: visible ? 1 : 0,
-                    transform: visible ? 'translateY(0)' : 'translateY(20px)',
-                    transition: 'opacity 0.8s ease-out, transform 0.8s ease-out',
-                    ...props.sx
-                }}
-            />
-        </>
+
+        <Typography {...props}
+            ref={ref}
+            sx={{
+                fontSize: getSize(props.variant as string),
+                opacity: visible ? 1 : 0,
+                transform: visible ? 'translateY(0)' : 'translateY(20px)',
+                transition: 'opacity 0.8s ease-out, transform 0.8s ease-out',
+                ...props.sx
+            }}
+        />
+
 
 
     )
@@ -55,7 +57,7 @@ export const RTypography = (props: TypographyProps) => {
 export const LectureTypography = (props: TypographyProps) => {
     return <RTypography
         {...props}
-        sx={{ color: props.color ?? "white !important", textShadow: '1px 1px 2px black',...props.sx }}>
+        sx={{ color: props.color ?? "white !important", textShadow: '1px 1px 2px black', ...props.sx }}>
 
     </RTypography>
 }

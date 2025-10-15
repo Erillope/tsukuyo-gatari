@@ -28,9 +28,18 @@
 }
 
 .icon {
-  transition: filter 0.4s ease-in-out;
+    transition: filter 0.4s ease-in-out;
 }
 
-.icon:hover{
+.icon:hover {
     filter: drop-shadow(0 0 0.2em rgba(255, 255, 2558, 1));
+}
+
+.shinzou-bg {
+    background:
+        linear-gradient(to right, rgba(0, 0, 0, 0.85) 40%, transparent 100%),
+        url("./assets/heart3.png") right center / cover no-repeat !important;
+
+    background-blend-mode: normal !important;
+    
 }
