@@ -6,13 +6,16 @@ import shinzouResume from "../assets/heart.png"
 import soreKamiResume from "../assets/kami.png"
 import paradeResume from "../assets/parade.jpg"
 import ningenResume from "../assets/ningen.jpg"
-import shinzouSumary from "../traducciones/shinzou_summary.txt"
-import soreKamiSumary from "../traducciones/sorekami_sumary.txt"
-import paradeSumary from "../traducciones/parade_sumary.txt"
-import ningenSumary from "../traducciones/ningen_sumary.txt"
+import shinzouSummary from "../traducciones/shinzou_summary.txt"
+import soreKamiSummary from "../traducciones/sorekami_summary.txt"
+import paradeSummary from "../traducciones/parade_summary.txt"
+import ningenSummary from "../traducciones/ningen_summary.txt"
 import { useEffect, useState } from "react"
-import { readSumaryFile, type SumaryInfo } from "../hooks/reader"
+import { readSummaryFile, type SumaryInfo } from "../hooks/reader"
 import AnimatedButton from "./AnimatedButton"
+import { NovelBody } from "./NovelBody"
+import { redirectTo } from "../hooks/redirect"
+import { LectureTitle } from "./LectureTitle"
 
 export const CatalogoNovelas = () => {
     return (
@@ -21,21 +24,21 @@ export const CatalogoNovelas = () => {
                 Catálogo de Novelas
             </LectureTypography>
             <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 10 } }} />
-            <NovelResume sumaryFile={shinzouSumary} image={shinzouResume} to="shinzou/" />
+            <NovelResume sumaryFile={shinzouSummary} image={shinzouResume} to="shinzou/" videoLink="https://www.youtube.com/watch?v=jS-Ws3x-39o" />
+            <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 10 } }}/>
+            <NovelResume sumaryFile={soreKamiSummary} image={soreKamiResume} to="sorekami/" videoLink="https://www.youtube.com/watch?v=4aulzXoY6ME"/>
             <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 10 } }} />
-            <NovelResume sumaryFile={soreKamiSumary} image={soreKamiResume} to="sorekami/" />
+            <NovelResume sumaryFile={paradeSummary} image={paradeResume} to="parade/" videoLink="https://www.youtube.com/watch?v=cNvsug-S38Y"/>
             <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 10 } }} />
-            <NovelResume sumaryFile={paradeSumary} image={paradeResume} to="parade/" />
-            <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 10 } }} />
-            <NovelResume sumaryFile={ningenSumary} image={ningenResume} to="ningen/" />
+            <NovelResume sumaryFile={ningenSummary} image={ningenResume} to="ningen/" videoLink="https://www.youtube.com/watch?v=0qY9rsBAKPk"/>
         </RBox>
     )
 }
 
-const NovelResume = (props: { sumaryFile?: string, image?: string, to?: string }) => {
+const NovelResume = (props: { sumaryFile?: string, image?: string, to?: string, videoLink?: string }) => {
     const readMore = () => {
         const fullUrl = window.location.origin + window.location.pathname + props.to;
-        window.open(fullUrl, "_blank", "noopener,noreferrer");
+        redirectTo(fullUrl);
     }
 
     const [sumaryInfo, setSumaryInfo] = useState<SumaryInfo>({
@@ -47,7 +50,7 @@ const NovelResume = (props: { sumaryFile?: string, image?: string, to?: string }
     });
 
     const initData = async () => {
-        const content = await readSumaryFile(props.sumaryFile ?? '');
+        const content = await readSummaryFile(props.sumaryFile ?? '');
         setSumaryInfo(content);
     }
 
@@ -57,10 +60,12 @@ const NovelResume = (props: { sumaryFile?: string, image?: string, to?: string }
         <RBox display={"flex"} flexDirection="column" gap={6} width={'100%'} ignorePadding>
             <NovelTitles {...sumaryInfo} />
             <Box display={"flex"} flexDirection={{ xs: 'column', md: 'row' }} gap={{ xs: 2, md: 6 }} width={'100%'}>
-                <Image src={props.image} sx={{ width: { xs: '100%', md: '50%' }, height: '100%' }} />
+                <Image src={props.image} sx={{ width: { xs: '100%', md: '100%' }, height: '100%' }} to={props.videoLink} />
                 <Box display={"flex"} flexDirection="column" width={'100%'}>
                     <NovelBody bodyParagraphs={sumaryInfo.bodyParagraphs} />
-                    <AnimatedButton text="Leer más" width="25%" marginTop="30px" onClick={readMore} />
+                    <Box width={'100%'}>
+                        <AnimatedButton text="Leer más" marginTop="30px" onClick={readMore} />
+                    </Box>
                 </Box>
             </Box>
         </RBox>
@@ -69,17 +74,7 @@ const NovelResume = (props: { sumaryFile?: string, image?: string, to?: string }
 
 const NovelTitles = (props: SumaryInfo) => {
     return <Box display={"flex"} flexDirection="column" width={'100%'} justifyContent="center" alignItems="center" gap={2}>
-        <Box display={"flex"} flexDirection="row" width={'100%'} justifyContent="center" alignItems="center">
-            <LectureTypography variant="body1" sx={{ display: { xs: 'none', md: 'block' } }}>
-                ────────────────────
-            </LectureTypography>
-            <LectureTypography variant="h3" >
-                {props.engTitle}
-            </LectureTypography>
-            <LectureTypography variant="body1" sx={{ display: { xs: 'none', md: 'block' } }}>
-                ────────────────────
-            </LectureTypography>
-        </Box>
+        <LectureTitle text={props.engTitle} />
         <LectureTypography variant="h5" sx={{ color: '#dddddd !important' }}>
             {props.jpTitle}
         </LectureTypography>
@@ -92,14 +87,3 @@ const NovelTitles = (props: SumaryInfo) => {
     </Box>
 }
 
-const NovelBody = (props: { bodyParagraphs: string[] }) => {
-    return (
-        <Box display={"flex"} flexDirection="column" width={'100%'}>
-            {props.bodyParagraphs.map((paragraph) => (
-                <LectureTypography key={paragraph} variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
-                    {paragraph}
-                </LectureTypography>
-            ))}
-        </Box>
-    )
-}

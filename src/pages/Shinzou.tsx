@@ -1,87 +1,116 @@
-import { Box } from "@mui/material";
+import { Box, Divider } from "@mui/material";
 import "../styles.css";
 import shinzouBG from "../assets/heart3.png"
 import shinzouBSmall from "../assets/heart4.png"
+import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData } from "../hooks/shinzouData";
+import { NovelTitle } from "../components/NovelTitle";
+import { ChapterSection } from "../components/ChapterSection";
 import { RBox } from "../components/RBox";
 import { LectureTypography, RTypography } from "../components/RTypography";
+import shinzouSummary from "../traducciones/shinzou_summary.txt"
+import { Introduction } from "../components/Introduction";
+import { useStartTransition } from "../hooks/useStartTransition";
+import { LectureTitle } from "../components/LectureTitle";
+import { Video } from "../components/Video";
 
 export const Shinzou = () => {
 
     return (
-        <Box width="100vw" height="100vh" component="main" display={'flex'} flexDirection={'column'}>
-            <NovelTitle />
-            <Extra />
+        <Box width="100vw" component="main" display={'flex'} flexDirection={'column'}>
+            <NovelTitle smallTitleImg={shinzouBSmall} largeTitleImg={shinzouBG}
+                engTitle="I want to be your heart" jpTitle="誰かの心臓になれたなら"
+                romajiTitle="Dareka no Shinzou ni Naretanara" esTitle="Quisiera ser el corazón de alguien"
+                videoLink="https://www.youtube.com/watch?v=hZFBTnzKa54"
+            />
+            <Introduction summaryFilePath={shinzouSummary} />
+            <TraductionDetails />
+            <InfoChapters />
+            <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 } }} />
+            <TeaserVideo />
+            <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 } }} />
+            <ChapterSection {...shinshouSectionData} />
+            <ChapterSection {...tsuisouSectionData} />
+            <ChapterSection {...kaisouSectionData} />
+            <ChapterSection {...extraSectionData} />
+            <VisualNovel />
         </Box>
     )
 }
 
-const NovelTitle = () => {
-    const getBackgroundImage = (image: string) => `
-      linear-gradient(to right, rgba(0, 0, 0, 0.85) 40%, transparent 100%),
-      url(${image})
-    `;
-
+const TraductionDetails = () => {
+    const shinzouLink = () => <a href="https://sorekami.tsukuyomi2943.com/1ststory_summary/" target="_blank" rel="noopener noreferrer">Tsukuyomi Official Page</a>;
     return (
-        <Box width={'100%'}
-            sx={{
-                backgroundImage: { xs: getBackgroundImage(shinzouBSmall), lg: getBackgroundImage(shinzouBG),
-                    md : getBackgroundImage(shinzouBG), sm: getBackgroundImage(shinzouBG) },
-                backgroundPosition: 'right center',
-                backgroundSize: 'cover',
-                backgroundRepeat: 'no-repeat',
-                backgroundBlendMode: 'normal',
-            }}>
-            <Box display={'flex'} flexDirection={'column'} width={'50%'}
-                marginTop={10} marginBottom={10} marginLeft={{ xs: 3, lg: 5 }} marginRight={{ xs: 3, lg: 5 }}
-                textAlign={'left'} gap={{ xs: 3, lg: 5 }}>
-                <LectureTypography variant="h1">
-                    I want to be your heart
-                </LectureTypography>
-                <LectureTypography variant="h3">
-                    誰かの心臓になれたなら
-                </LectureTypography>
-                <LectureTypography variant="h4">
-                    Quisiera ser el corazón de alguien
-                </LectureTypography>
+        <RBox className="black-bg"
+            component="section">
+            <RTypography variant="h3" className="title text-center mt-4">
+                Detalles de la traducción
+            </RTypography>
+            <RTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
+                El sitio oficial de la novela es {shinzouLink()}. He traducido la novela de aquí y también del canal y contenido de los albumes de Tsukuyomi / Yurry Canon.
+                <br /> Solo hay un pequeño detalle de la traducción que me gustaría aclarar: Los nombres de las protagonistas ユマ(Yuma) y リノ(Rino).
+                <br /> En especial el nombre de リノ que en letras romanas se escribe "Rino", sin embargo en español la pronunciación de la letra "R" al inicio de una palabra
+                es diferente a la pronunciación de la "R" en japonés (En español es una "R" fuerte, mientras que en japonés es una "R" suave),
+                por lo que decidí cambiar la "R" por una "L" para que la pronunciación fuera más cercana a la original. (De todas maneras en el japonés no hay distinción entre "R" y "L").
+            </RTypography>
+            <RTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
+                <br /> Así que en esta traducción, el nombre de リノ(Rino) lo verán escrito como "Lino".
+                <br /> Espero que disfruten la lectura tanto como yo disfruté traducirla 💖
+            </RTypography>
+        </RBox>
+    )
+}
+
+const InfoChapters = () => {
+    return (
+        <RBox >
+            <Box display={"flex"} flexDirection="row" width={'100%'} justifyContent="center" alignItems="center">
+                <LectureTitle text="Secciones" />
             </Box>
-        </Box>
+            <LectureTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
+                Esta novela se divide en 3 partes:
+                <br /><br /> La parte 1 <a href="#shinsou" className="link-text">"Shinshou Roku"(Imágenes mentales)</a> pertencese al primer album de Tsukuyomi "Kaketa shinzou, yono yosuga" (Mis rotas imágenes mentales, la razón de este mundo)
+                <br /><br /> La parte 2 <a href="#tsuisou" className="link-text">"Tsuisou Roku"(Imágenes retrospectivas)</a> pertencese al fan club de Tsukuyomi "Tsuki no ura"
+                <br /><br /> La parte 3 <a href="#kaisou" className="link-text">"Kaisou Roku"(Reminiscencias)</a> pertencese al segundo album de Tsukuyomi "Tsuki ga michiru" (Luna LLena)
+                <br /><br /> No hay parte 4 pero agregué un <a href="#extra" className="link-text">Extra</a> que son capítulos que no pertenecen a los álbumes pero aparecen en las canciones de Yurry Canon.
+                <br /><br /> Por si les interesa, también hay <a href="#novela" className="link-text">Novela visual</a> subida en el canal de Tsukuyomi
+                <br /><br /> También he agregado <a href="#entrevista" className="link-text">Comentarios del autor</a> que agregan un poco más de detalle a la obra.
+            </LectureTypography>
+        </RBox>
     )
 }
 
-const Extra = () => {
-    const tsukuyomiLink = () => <a href="https://www.tsukuyomi2943.com" target="_blank" rel="noopener noreferrer">https://www.tsukuyomi2943.com</a>;
-    return (
-        <>
-            <RBox className="black-bg"
-                id="about-this-page"
-                component="section">
-                <RTypography variant="h3" className="title text-center mt-4">
-                    Sobre esta página
-                </RTypography>
-                <RTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
-                    Esta es una fan-page de Tsukuyomi de Yurry Canon <br />Principalmente, aquí publicaré las traducciones que he hecho sobre sus novelas ligeras :)<br />Me enamoré de esta banda y de este autor desde que escuché sus canciones, creo que más gente debería de conocer sus obras.<br />El sitio oficial de Tsukuyomi es {tsukuyomiLink()}<br />Las novelas que encontrarás aquí son en las que se basan las canciones de Tsukuyomi y Yurry Canon. Fue todo un reto recopilarlas y traducirlas, pero lo hice con mucho cariño y dedicación💖.
-                </RTypography>
-            </RBox>
-            <RBox className="black-bg"
-                id="about-this-page"
-                component="section">
-                <RTypography variant="h3" className="title text-center mt-4">
-                    Sobre esta página
-                </RTypography>
-                <RTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
-                    Esta es una fan-page de Tsukuyomi de Yurry Canon <br />Principalmente, aquí publicaré las traducciones que he hecho sobre sus novelas ligeras :)<br />Me enamoré de esta banda y de este autor desde que escuché sus canciones, creo que más gente debería de conocer sus obras.<br />El sitio oficial de Tsukuyomi es {tsukuyomiLink()}<br />Las novelas que encontrarás aquí son en las que se basan las canciones de Tsukuyomi y Yurry Canon. Fue todo un reto recopilarlas y traducirlas, pero lo hice con mucho cariño y dedicación💖.
-                </RTypography>
-            </RBox>
-            <RBox className="black-bg"
-                id="about-this-page"
-                component="section">
-                <RTypography variant="h3" className="title text-center mt-4">
-                    Sobre esta página
-                </RTypography>
-                <RTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
-                    Esta es una fan-page de Tsukuyomi de Yurry Canon <br />Principalmente, aquí publicaré las traducciones que he hecho sobre sus novelas ligeras :)<br />Me enamoré de esta banda y de este autor desde que escuché sus canciones, creo que más gente debería de conocer sus obras.<br />El sitio oficial de Tsukuyomi es {tsukuyomiLink()}<br />Las novelas que encontrarás aquí son en las que se basan las canciones de Tsukuyomi y Yurry Canon. Fue todo un reto recopilarlas y traducirlas, pero lo hice con mucho cariño y dedicación💖.
-                </RTypography>
-            </RBox>
-        </>
-    )
+const TeaserVideo = () => {
+
+    return <RBox display={'flex'} alignItems={'center'} flexDirection={'column'}>
+        <LectureTitle text="Teaser" />
+        <Video videoLink="https://www.youtube.com/embed/jS-Ws3x-39o?si=--aSE4Ayuw-vd51o" />
+    </RBox>
 }
+
+const VisualNovel = () => {
+    return <RBox display={'flex'} alignItems={'center'} flexDirection={'column'} width={'100%'} component="section" id="novela">
+        <LectureTitle text="Novela Visual" />
+        <Box display={'flex'} flexDirection="column" alignItems="center"></Box>
+        <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 }, width: '90%' }} />
+        <LectureTypography variant="h3" className="title text-center mt-4">
+            Memorias: Parte 1
+        </LectureTypography>
+        <Video videoLink="https://www.youtube.com/embed/L8U4OU5580M?si=AhDAKwNCXBh2fdk" />
+        <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 }, width: '90%' }} />
+        <LectureTypography variant="h3" className="title text-center mt-4">
+            Memorias: Parte 2
+        </LectureTypography>
+        <Video videoLink="https://www.youtube.com/embed/8_-86ObPB5Q?si=QeKF1e-Gqvqjc-sL" />
+        <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 }, width: '90%' }} />
+        <LectureTypography variant="h3" className="title text-center mt-4">
+            Memorias: Parte 3
+        </LectureTypography>
+        <Video videoLink="https://www.youtube.com/embed/f_ft7MtzQyc?si=yCBkaHQbvGGOGFnH" />
+        <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 }, width: '90%' }} />
+        <LectureTypography variant="h3" className="title text-center mt-4">
+            I want to be your heart
+        </LectureTypography>
+        <Video videoLink="https://www.youtube.com/embed/drux1An59E4?si=lb74pw49pcfSPmWE" />
+    </RBox>
+}
+

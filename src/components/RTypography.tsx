@@ -16,6 +16,7 @@ export const RTypography = (props: TypographyProps) => {
         'h3': 3,
         'h5': 1.5,
         'h4': 2,
+        'h6': 1,
     }
 
     const getSize = (size: string) => {
@@ -48,9 +49,6 @@ export const RTypography = (props: TypographyProps) => {
                 ...props.sx
             }}
         />
-
-
-
     )
 }
 
