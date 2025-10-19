@@ -11,11 +11,14 @@ import shinzouSummary from "../traducciones/shinzou_summary.txt"
 import { Introduction } from "../components/Introduction";
 import { LectureTitle } from "../components/LectureTitle";
 import { Video } from "../components/Video";
+import { ScrollLink } from "../components/ScrollLink";
+import MenuBar from "../components/MenuBar";
 
 export const Shinzou = () => {
 
     return (
-        <Box width="100vw" component="main" display={'flex'} flexDirection={'column'}>
+        <Box width="100vw" component="main" display={'flex'} flexDirection={'column'} id="principal">
+            <MenuBar />
             <NovelTitle smallTitleImg={shinzouBSmall} largeTitleImg={shinzouBG}
                 engTitle="I want to be your heart" jpTitle="誰かの心臓になれたなら"
                 romajiTitle="Dareka no Shinzou ni Naretanara" esTitle="Quisiera ser el corazón de alguien"
@@ -67,12 +70,12 @@ const InfoChapters = () => {
             </Box>
             <LectureTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
                 Esta novela se divide en 3 partes:
-                <br /><br /> La parte 1 <a href="#shinsou" className="link-text">"Shinshou Roku"(Imágenes mentales)</a> pertencese al primer album de Tsukuyomi "Kaketa shinzou, yono yosuga" (Mis rotas imágenes mentales, la razón de este mundo)
-                <br /><br /> La parte 2 <a href="#tsuisou" className="link-text">"Tsuisou Roku"(Imágenes retrospectivas)</a> pertencese al fan club de Tsukuyomi "Tsuki no ura"
-                <br /><br /> La parte 3 <a href="#kaisou" className="link-text">"Kaisou Roku"(Reminiscencias)</a> pertencese al segundo album de Tsukuyomi "Tsuki ga michiru" (Luna LLena)
-                <br /><br /> No hay parte 4 pero agregué un <a href="#extra" className="link-text">Extra</a> que son capítulos que no pertenecen a los álbumes pero aparecen en las canciones de Yurry Canon.
-                <br /><br /> Por si les interesa, también hay <a href="#novela" className="link-text">Novela visual</a> subida en el canal de Tsukuyomi
-                <br /><br /> También he agregado <a href="#entrevista" className="link-text">Comentarios del autor</a> que agregan un poco más de detalle a la obra.
+                <br /><br /> La parte 1 <ScrollLink to="shinshou">"Shinshou Roku"(Imágenes mentales)</ScrollLink> pertencese al primer album de Tsukuyomi "Kaketa shinzou, yono yosuga" (Mis rotas imágenes mentales, la razón de este mundo)
+                <br /><br /> La parte 2 <ScrollLink to="tsuisou">"Tsuisou Roku"(Imágenes retrospectivas)</ScrollLink> pertencese al fan club de Tsukuyomi "Tsuki no ura"
+                <br /><br /> La parte 3 <ScrollLink to="kaisou">"Kaisou Roku"(Reminiscencias)</ScrollLink> pertencese al segundo album de Tsukuyomi "Tsuki ga michiru" (Luna LLena)
+                <br /><br /> No hay parte 4 pero agregué un <ScrollLink to="extra">Extra</ScrollLink> que son capítulos que no pertenecen a los álbumes pero aparecen en las canciones de Yurry Canon.
+                <br /><br /> Por si les interesa, también hay <ScrollLink to="novela">Novela visual</ScrollLink> subida en el canal de Tsukuyomi
+                <br /><br /> También he agregado <ScrollLink to="entrevista">Comentarios del autor</ScrollLink> que agregan un poco más de detalle a la obra.
             </LectureTypography>
         </RBox>
     )

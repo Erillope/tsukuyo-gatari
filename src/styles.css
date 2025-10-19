@@ -133,9 +133,41 @@
 
 .link-text {
     color: pink;
+    cursor: pointer;
 }
 
 .link-text:hover {
     color: pink;
     text-shadow: 0 0 5px rgba(255, 105, 180, 0.5);
+}
+
+.menu-button-box {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin: 10px;
+    position: fixed;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-button-icon {
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+    border-radius: 50%;
+}
+
+.menu-button-light {
+    width: 75%;
+    height: 75%;
+    border-radius: 50%;
+    position: absolute;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.menu-button-light:hover {
+    box-shadow: 0 0 7px white, 0 0 14px white;
 }
