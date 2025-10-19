@@ -9,7 +9,6 @@ import { RBox } from "../components/RBox";
 import { LectureTypography, RTypography } from "../components/RTypography";
 import shinzouSummary from "../traducciones/shinzou_summary.txt"
 import { Introduction } from "../components/Introduction";
-import { useStartTransition } from "../hooks/useStartTransition";
 import { LectureTitle } from "../components/LectureTitle";
 import { Video } from "../components/Video";
 
