@@ -10,6 +10,9 @@ function App() {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/shinzou/" element={<Shinzou />} />
+      <Route path="/sorekami/" element={<Shinzou />} />
+      <Route path="/parade/" element={<Shinzou />} />
+      <Route path="/ningen/" element={<Shinzou />} />
     </Routes>
   )
 }
