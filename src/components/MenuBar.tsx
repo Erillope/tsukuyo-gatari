@@ -55,8 +55,8 @@ const MenuOptions = ({ close }: { close: () => void }) => {
             <Box component={'nav'} display={'flex'} flexDirection={'column'} alignItems={'center'} gap={5}>
                 <MenuOption to="home" text="Home" close={() => {close(); redirectTo("/")}} />
                 <MenuOption to="shinshou" text="Parte 1: Shinshou Roku" close={close} />
-                <MenuOption to="tsuisou" text="Parte 2: Tsuisou" close={close} />
-                <MenuOption to="kaisou" text="Parte 3: Kaisou" close={close} />
+                <MenuOption to="tsuisou" text="Parte 2: Tsuisou Roku" close={close} />
+                <MenuOption to="kaisou" text="Parte 3: Kaisou Roku" close={close} />
                 <MenuOption to="extra" text="Extras" close={close} />
                 <MenuOption to="novela" text="Novela Visual" close={close} />
             </Box>

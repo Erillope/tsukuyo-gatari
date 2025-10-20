@@ -7,11 +7,13 @@ import { NovelBody } from "./NovelBody";
 import { LectureTypography } from "./RTypography";
 import { Image } from "../components/Image";
 import { LectureTitle } from "./LectureTitle";
+import { redirectTo } from "../hooks/redirect";
 
 export interface ChapterSectionProps {
     summaryFilePath: string;
     chaptersImages: string[];
     chaptersVideos: string[];
+    chaptersLinks?: string[];
     novelTitle: string;
     romajiTitle: string;
     jpTitle: string;
@@ -28,7 +30,8 @@ export const ChapterSection = (prop: ChapterSectionProps) => {
             const data = chapter.trim();
             const title = data.split("\n")[0].trim();
             const summary = readBodyParagraphs(data.split("\n").slice(1).filter(line => line.trim() !== ''));
-            return { title, summary, image: prop.chaptersImages[index], novel: prop.novelTitle, videoLink: prop.chaptersVideos[index] };
+            return { title, summary, image: prop.chaptersImages[index], novel: prop.novelTitle,
+                videoLink: prop.chaptersVideos[index], to: prop.chaptersLinks?.[index] };
         });
         setChapters(chapters);
     }
@@ -68,10 +71,11 @@ interface ChaptersData {
     novel: string;
     summary: string[];
     videoLink?: string;
+    to?: string;
 }
 
 const ChapterResume = (props: ChaptersData) => {
-    const readMore = () => { }
+    const readMore = () => { props.to && redirectTo(props.to) };
 
     return (
         <Box display={"flex"} flexDirection={{ xs: 'column', md: 'row' }} gap={{ xs: 2, md: 6 }} width={'100%'}>

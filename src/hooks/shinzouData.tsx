@@ -39,6 +39,9 @@ import shinshouSummary from "../traducciones/shinshou_summary.txt"
 import tsuisouSummary from "../traducciones/tsuisou_summary.txt"
 import kaisouSummary from "../traducciones/kaisou_summary.txt"
 import extraSummary from "../traducciones/extra_summary.txt"
+import type { NovelTitleProps } from "../components/NovelTitle"
+import shinzouBSmall from "../assets/heart4.png"
+import shinzouBG from "../assets/heart3.png"
 
 export const shinshouChaptersImages = [shinshouA, shinshouB, ambition, shinzouY, cold, shinshouDelta, emerge,
         shinshouE, shinshouC, dawn, shinshouN, shinshouT, blue, shinshouI, shinshouV];
@@ -67,6 +70,8 @@ export const shinshouChaptersVideos = [
     "https://www.youtube.com/watch?v=Y_j7gHOgYY4",
     "https://www.youtube.com/watch?v=Y_j7gHOgYY4"
 ]
+
+export const shinshouChaptersLinks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].map(num => `/#/shinzou/shinshouRoku/chapter-${num}/`);
 
 export const tsuisouChaptersVideos = [
     "https://www.youtube.com/watch?v=HKsSGYCRGFk",
@@ -106,7 +111,8 @@ export const shinshouSectionData: ChapterSectionProps = {
     romajiTitle: "Shinshou Roku",
     jpTitle: "心象録",
     esTitle: "Imágenes mentales",
-    sectionId: "shinshou"
+    sectionId: "shinshou",
+    chaptersLinks: shinshouChaptersLinks
 }
 
 export const tsuisouSectionData: ChapterSectionProps = {
@@ -140,4 +146,14 @@ export const extraSectionData: ChapterSectionProps = {
     jpTitle: "",
     esTitle: "",
     sectionId: "extra"
+}
+
+export const novelTitleData: NovelTitleProps = {
+    smallTitleImg: shinzouBSmall,
+    largeTitleImg: shinzouBG,
+    engTitle: "I want to be your heart",
+    jpTitle: "誰かの心臓になれたなら",
+    romajiTitle: "Dareka no Shinzou ni Nareta nara",
+    esTitle: "Quisiera ser el corazón de alguien",
+    videoLink: "https://www.youtube.com/watch?v=hZFBTnzKa54"
 }

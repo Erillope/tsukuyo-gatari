@@ -2,6 +2,7 @@ import { Home } from './pages/Home'
 import { Shinzou } from './pages/Shinzou'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
+import { ShinshouRokuAlpha } from './pages/ShinshouChpts'
 
 
 function App() {
@@ -13,6 +14,8 @@ function App() {
       <Route path="/sorekami/" element={<Shinzou />} />
       <Route path="/parade/" element={<Shinzou />} />
       <Route path="/ningen/" element={<Shinzou />} />
+
+      <Route path='/shinzou/shinshouRoku/chapter-1/' element={<ShinshouRokuAlpha />} />
     </Routes>
   )
 }

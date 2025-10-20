@@ -1,8 +1,6 @@
 import { Box, Divider } from "@mui/material";
 import "../styles.css";
-import shinzouBG from "../assets/heart3.png"
-import shinzouBSmall from "../assets/heart4.png"
-import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData } from "../hooks/shinzouData";
+import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData, novelTitleData } from "../hooks/shinzouData";
 import { NovelTitle } from "../components/NovelTitle";
 import { ChapterSection } from "../components/ChapterSection";
 import { RBox } from "../components/RBox";
@@ -19,11 +17,7 @@ export const Shinzou = () => {
     return (
         <Box width="100vw" component="main" display={'flex'} flexDirection={'column'} id="principal">
             <MenuBar />
-            <NovelTitle smallTitleImg={shinzouBSmall} largeTitleImg={shinzouBG}
-                engTitle="I want to be your heart" jpTitle="誰かの心臓になれたなら"
-                romajiTitle="Dareka no Shinzou ni Naretanara" esTitle="Quisiera ser el corazón de alguien"
-                videoLink="https://www.youtube.com/watch?v=hZFBTnzKa54"
-            />
+            <NovelTitle {...novelTitleData} />
             <Introduction summaryFilePath={shinzouSummary} />
             <TraductionDetails />
             <InfoChapters />

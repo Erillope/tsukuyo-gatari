@@ -2,17 +2,16 @@ import { Box } from "@mui/material";
 import { LectureTypography } from "./RTypography";
 import { redirectTo } from "../hooks/redirect";
 
-export interface NovelTitleProps {
+export interface ChapterTitleProps {
     smallTitleImg: string;
     largeTitleImg: string;
-    engTitle: string;
     jpTitle: string;
     romajiTitle: string;
     esTitle: string;
     videoLink?: string;
 }
 
-export const NovelTitle = (props: NovelTitleProps) => {
+export const ChapterTitle = (props: ChapterTitleProps) => {
     const getBackgroundImage = (image: string) => `
       linear-gradient(to right, rgba(0, 0, 0, 0.85) 40%, transparent 100%),
       url(${image})
@@ -30,23 +29,20 @@ export const NovelTitle = (props: NovelTitleProps) => {
                 backgroundRepeat: 'no-repeat',
                 backgroundBlendMode: 'normal',
             }}>
-            <Box display={'flex'} flexDirection={'column'} width={'50%'}
-                marginTop={10} marginBottom={10} marginLeft={{ xs: 3, lg: 5 }} marginRight={{ xs: 3, lg: 5 }}
+            <Box display={'flex'} flexDirection={'column'} width={'60%'}
+                marginTop={5} marginBottom={10} marginLeft={{ xs: 3, lg: 10 }} marginRight={{ xs: 0, lg: 0 }}
                 textAlign={'left'} gap={{ xs: 3, lg: 5 }}>
-                <LectureTypography variant="h1">
-                    {props.engTitle}
-                </LectureTypography>
                 <LectureTypography variant="h3">
-                    {props.jpTitle}
-                </LectureTypography>
-                <LectureTypography variant="h5" marginTop={{ xs: -3, lg: -5 }}>
                     {props.romajiTitle}
                 </LectureTypography>
-                <LectureTypography variant="h4">
+                <LectureTypography variant="h4" marginTop={{ xs: -3, lg: -5 }}>
+                    {props.jpTitle}
+                </LectureTypography>
+                <LectureTypography variant="h2">
                     {props.esTitle}
                 </LectureTypography>
             </Box>
-            <Box component={'canvas'} width={'50%'} flexGrow={1}
+            <Box component={'canvas'} width={'40%'} flexGrow={1}
                 sx={{ cursor: props.videoLink ? 'pointer' : 'default' }}
                 onClick={() => props.videoLink && redirectTo(props.videoLink)}></Box>
         </Box>
