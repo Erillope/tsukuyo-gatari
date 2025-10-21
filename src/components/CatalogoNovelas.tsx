@@ -37,7 +37,7 @@ export const CatalogoNovelas = () => {
 
 const NovelResume = (props: { sumaryFile?: string, image?: string, to?: string, videoLink?: string }) => {
     const readMore = () => {
-        const fullUrl = window.location.origin + window.location.pathname + "#/" + props.to;
+        const fullUrl = globalThis.location.origin + globalThis.location.pathname + "#/" + props.to;
         redirectTo(fullUrl);
     }
 

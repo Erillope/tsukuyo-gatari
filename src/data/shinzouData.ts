@@ -43,17 +43,17 @@ import type { NovelTitleProps } from "../components/NovelTitle"
 import shinzouBSmall from "../assets/heart4.png"
 import shinzouBG from "../assets/heart3.png"
 
-export const shinshouChaptersImages = [shinshouA, shinshouB, ambition, shinzouY, cold, shinshouDelta, emerge,
+const shinshouChaptersImages = [shinshouA, shinshouB, ambition, shinzouY, cold, shinshouDelta, emerge,
         shinshouE, shinshouC, dawn, shinshouN, shinshouT, blue, shinshouI, shinshouV];
 
-export const tsuisouChaptersImages = [tsuisouP, tsuisou1, tsuisou2, tsuisou3, tsuisou4, tsuisou5];
+const tsuisouChaptersImages = [tsuisouP, tsuisou1, tsuisou2, tsuisou3, tsuisou4, tsuisou5];
 
-export const kaisouChaptersImages = [kaisou1, kaisou2, kaisou3, kaisou4, kaisou5, kaisou6, kaisou7,
+const kaisouChaptersImages = [kaisou1, kaisou2, kaisou3, kaisou4, kaisou5, kaisou6, kaisou7,
     kaisou8, kaisou9, kaisou10, kaisou11, kaisou12];
 
-export const extraChaptersImages = [extra1, extra2, extra3];
+const extraChaptersImages = [extra1, extra2, extra3];
 
-export const shinshouChaptersVideos = [
+const shinshouChaptersVideos = [
     "https://www.youtube.com/watch?v=RugdREg69Nc",
     "https://www.youtube.com/watch?v=cHcqI40JpXg",
     "https://www.youtube.com/watch?v=LFiodJq4lU4",
@@ -71,10 +71,10 @@ export const shinshouChaptersVideos = [
     "https://www.youtube.com/watch?v=Y_j7gHOgYY4"
 ]
 
-export const shinshouChaptersLinks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].
-map(num => window.location.origin + window.location.pathname + `#/shinzou/shinshouRoku/chapter-${num}/`);
+const shinshouChaptersLinks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].
+map(num => globalThis.location.origin + globalThis.location.pathname + `#/shinzou/shinshouRoku/chapter-${num}/`);
 
-export const tsuisouChaptersVideos = [
+const tsuisouChaptersVideos = [
     "https://www.youtube.com/watch?v=HKsSGYCRGFk",
     "https://www.youtube.com/watch?v=oNWHODZ-THc",
     "https://www.youtube.com/watch?v=ndVeUn97Nh0",
@@ -83,7 +83,7 @@ export const tsuisouChaptersVideos = [
     "https://www.youtube.com/watch?v=RugdREg69Nc"
 ]
 
-export const kaisouChaptersVideos = [
+const kaisouChaptersVideos = [
     "https://www.youtube.com/watch?v=cHcqI40JpXg",
     "https://www.youtube.com/watch?v=HKsSGYCRGFk",
     "https://www.youtube.com/watch?v=SrFUh1u2eQg",
@@ -98,7 +98,7 @@ export const kaisouChaptersVideos = [
     "https://www.youtube.com/watch?v=hZFBTnzKa54"
 ]
 
-export const extraChaptersVideos = [
+const extraChaptersVideos = [
     "https://www.youtube.com/watch?v=vzBVlYWPN7Q",
     "https://www.youtube.com/watch?v=MlvBKnHhHSc",
     "https://www.youtube.com/watch?v=CaNqOp5Gl8Y"

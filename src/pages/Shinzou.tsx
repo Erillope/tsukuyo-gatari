@@ -1,6 +1,6 @@
 import { Box, Divider } from "@mui/material";
 import "../styles.css";
-import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData, novelTitleData } from "../hooks/shinzouData";
+import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData, novelTitleData } from "../data/shinzouData"
 import { NovelTitle } from "../components/NovelTitle";
 import { ChapterSection } from "../components/ChapterSection";
 import { RBox } from "../components/RBox";
