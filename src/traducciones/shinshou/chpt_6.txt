@@ -87,9 +87,9 @@ y sin querer, le hablé con una incómoda formalidad.
 >>>
 ----------------------------------------
 "Me estabas escuchando ¿no?, muchas gracias"
-
+>>>
 "¿Cantas aquí a menudo?"
-
+>>>
 "Sí, mas o menos dos veces al mes, es un poco lejos pero, no quiero que la gente de la escuela se entere que tengo una doble vida en la calle, bueno aunque tú ya me descubriste jaja"
 ----------------------------------------
 >>>
@@ -102,7 +102,8 @@ Me fijé que había un tablero en el suelo, estaba escrito el nombre de "Yuma"
 >>>
 ----------------------------------------
 "Ahh este es mi nombre artístico. Me lo dio mi maestro"
-
+>>>
+>>>
 "Wow qué bonito nombre"
 ----------------------------------------
 >>>
@@ -112,7 +113,8 @@ Iba a preguntarle su nombre real, pero ella como si fuera una adivina, se adelan
 >>>
 ----------------------------------------
 "Mi verdadero nombre no me gusta mucho, por eso te di este otro nombre, lo siento"
-
+>>>
+>>>
 "Entiendo, no te preocupes"
 ----------------------------------------
 >>>

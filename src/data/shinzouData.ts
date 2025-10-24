@@ -71,8 +71,7 @@ const shinshouChaptersVideos = [
     "https://www.youtube.com/watch?v=Y_j7gHOgYY4"
 ]
 
-const shinshouChaptersLinks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].
-map(num => globalThis.location.origin + globalThis.location.pathname + `#/shinzou/shinshouRoku/chapter-${num}/`);
+const shinshouChaptersLinks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].map(num => `shinshouRoku/chapter-${num}/`);
 
 const tsuisouChaptersVideos = [
     "https://www.youtube.com/watch?v=HKsSGYCRGFk",
@@ -82,6 +81,8 @@ const tsuisouChaptersVideos = [
     "https://www.youtube.com/watch?v=ndVeUn97Nh0",
     "https://www.youtube.com/watch?v=RugdREg69Nc"
 ]
+
+const tsuisouChaptersLinks = [0, 1, 2, 3, 4, 5].map(num => `tsuisouRoku/chapter-${num}/`);
 
 const kaisouChaptersVideos = [
     "https://www.youtube.com/watch?v=cHcqI40JpXg",
@@ -98,11 +99,15 @@ const kaisouChaptersVideos = [
     "https://www.youtube.com/watch?v=hZFBTnzKa54"
 ]
 
+const kaisouChaptersLinks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].map(num => `kaisouRoku/chapter-${num}/`);
+
 const extraChaptersVideos = [
     "https://www.youtube.com/watch?v=vzBVlYWPN7Q",
     "https://www.youtube.com/watch?v=MlvBKnHhHSc",
     "https://www.youtube.com/watch?v=CaNqOp5Gl8Y"
 ]
+
+const extraChaptersLinks = [1, 2, 3].map(num => `extra/chapter-${num}/`);
 
 export const shinshouSectionData: ChapterSectionProps = {
     summaryFilePath: shinshouSummary,
@@ -124,7 +129,8 @@ export const tsuisouSectionData: ChapterSectionProps = {
     romajiTitle: "Tsuisou Roku",
     jpTitle: "追想録",
     esTitle: "Imágenes retrospectivas",
-    sectionId: "tsuisou"
+    sectionId: "tsuisou",
+    chaptersLinks: tsuisouChaptersLinks
 }
 
 export const kaisouSectionData: ChapterSectionProps = {
@@ -135,7 +141,8 @@ export const kaisouSectionData: ChapterSectionProps = {
     romajiTitle: "Kaisou Roku",
     jpTitle: "廻想録",
     esTitle: "Reminiscencias",
-    sectionId: "kaisou"
+    sectionId: "kaisou",
+    chaptersLinks: kaisouChaptersLinks
 }
 
 export const extraSectionData: ChapterSectionProps = {
@@ -146,7 +153,8 @@ export const extraSectionData: ChapterSectionProps = {
     romajiTitle: "Extra",
     jpTitle: "",
     esTitle: "",
-    sectionId: "extra"
+    sectionId: "extra",
+    chaptersLinks: extraChaptersLinks
 }
 
 export const novelTitleData: NovelTitleProps = {

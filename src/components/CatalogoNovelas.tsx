@@ -14,8 +14,8 @@ import { useEffect, useState } from "react"
 import { readSummaryFile, type SumaryInfo } from "../hooks/reader"
 import AnimatedButton from "./AnimatedButton"
 import { NovelBody } from "./NovelBody"
-import { redirectTo } from "../hooks/redirect"
 import { LectureTitle } from "./LectureTitle"
+import { navigateTo } from "../hooks/redirect"
 
 export const CatalogoNovelas = () => {
     return (
@@ -36,10 +36,7 @@ export const CatalogoNovelas = () => {
 }
 
 const NovelResume = (props: { sumaryFile?: string, image?: string, to?: string, videoLink?: string }) => {
-    const readMore = () => {
-        const fullUrl = globalThis.location.origin + globalThis.location.pathname + "#/" + props.to;
-        redirectTo(fullUrl);
-    }
+    const navigate = navigateTo();
 
     const [sumaryInfo, setSumaryInfo] = useState<SumaryInfo>({
         engTitle: '',
@@ -63,8 +60,8 @@ const NovelResume = (props: { sumaryFile?: string, image?: string, to?: string, 
                 <Image src={props.image} sx={{ width: { xs: '100%', md: '100%' }, height: '100%' }} to={props.videoLink} />
                 <Box display={"flex"} flexDirection="column" width={'100%'}>
                     <NovelBody bodyParagraphs={sumaryInfo.bodyParagraphs} />
-                    <Box width={'100%'}>
-                        <AnimatedButton text="Leer más" marginTop="30px" onClick={readMore} />
+                    <Box component={'a'} href={`#/${props.to}`}>
+                        <AnimatedButton text="Leer más" marginTop="30px" onClick={() => props.to && navigate(props.to)} />
                     </Box>
                 </Box>
             </Box>

@@ -7,7 +7,7 @@ import { Box, Fade, Modal } from "@mui/material";
 import { useState } from "react";
 import { LectureTypography } from "./RTypography";
 import { Moon } from "./Moon";
-import { redirectTo } from "../hooks/redirect";
+import { navigateTo } from "../hooks/redirect";
 
 export default function MenuBar() {
     const [isOpen, setIsOpen] = useState(false);
@@ -50,10 +50,11 @@ const MenuModal = ({ isOpen, setIsOpen }: { isOpen: boolean, setIsOpen: (isOpen:
 };
 
 const MenuOptions = ({ close }: { close: () => void }) => {
+    const navigate = navigateTo();
     return (
         <Box component={'header'} sx={{ position: 'absolute' }} display={'flex'} flexDirection={'column'} alignItems={'center'} justifyContent={'center'} width={'100%'} height={'100%'}>
             <Box component={'nav'} display={'flex'} flexDirection={'column'} alignItems={'center'} gap={5}>
-                <MenuOption to="home" text="Home" close={() => {close(); redirectTo("/")}} />
+                <MenuOption to="home" text="Home" close={() => {close(); navigate("/")}} />
                 <MenuOption to="shinshou" text="Parte 1: Shinshou Roku" close={close} />
                 <MenuOption to="tsuisou" text="Parte 2: Tsuisou Roku" close={close} />
                 <MenuOption to="kaisou" text="Parte 3: Kaisou Roku" close={close} />
@@ -89,7 +90,8 @@ const ArrowButton = () => {
 }
 
 const MoonButton = () => {
-    return <Box className="menu-button-box" left={0} margin={{ xs: 4, md: 8 }} onClick={() => redirectTo("/")}>
+    const navigate = navigateTo();
+    return <Box className="menu-button-box" left={0} margin={{ xs: 4, md: 8 }} onClick={() => navigate("/")}>
         <Moon small/>
     </Box>
 }

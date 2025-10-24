@@ -1,11 +1,11 @@
-import type { ChapterBreakpoints } from "../components/ChapterContent"
-import type { ShinshouRokuChapterProps } from "../pages/ShinshouChapters"
-import type { ChapterTitleProps } from "../components/ChapterTitle"
-import shinshouChpt4 from "../traducciones/shinshou/chpt_4.txt"
-import shinshouY from "../assets/shinzou_y.png"
-import shinzouYBG from "../assets/shinshou_y_bg.png"
-import shinshouYBG2Small from "../assets/shinshou_y_bg2_small.png"
-import moon1 from "../assets/moon1.png"
+import type { ChapterBreakpoints } from "../../components/ChapterContent"
+import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
+import type { ChapterTitleProps } from "../../components/ChapterTitle"
+import shinshouChpt4 from "../../traducciones/shinshou/chpt_4.txt"
+import shinshouY from "../../assets/shinzou_y.png"
+import shinzouYBG from "../../assets/shinshou_y_bg.png"
+import shinshouYBG2Small from "../../assets/shinshou_y_bg2_small.png"
+import moon1 from "../../assets/moon1.png"
 
 const shinshouRokuYTitleData: ChapterTitleProps = {
     smallTitleImg: shinzouYBG,

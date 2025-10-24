@@ -7,7 +7,7 @@ import { NovelBody } from "./NovelBody";
 import { LectureTypography } from "./RTypography";
 import { Image } from "../components/Image";
 import { LectureTitle } from "./LectureTitle";
-import { redirectTo } from "../hooks/redirect";
+import { navigateTo } from "../hooks/redirect";
 
 export interface ChapterSectionProps {
     summaryFilePath: string;
@@ -30,8 +30,10 @@ export const ChapterSection = (prop: ChapterSectionProps) => {
             const data = chapter.trim();
             const title = data.split("\n")[0].trim();
             const summary = readBodyParagraphs(data.split("\n").slice(1).filter(line => line.trim() !== ''));
-            return { title, summary, image: prop.chaptersImages[index], novel: prop.novelTitle,
-                videoLink: prop.chaptersVideos[index], to: prop.chaptersLinks?.[index] };
+            return {
+                title, summary, image: prop.chaptersImages[index], novel: prop.novelTitle,
+                videoLink: prop.chaptersVideos[index], to: prop.chaptersLinks?.[index]
+            };
         });
         setChapters(chapters);
     }
@@ -75,7 +77,13 @@ interface ChaptersData {
 }
 
 const ChapterResume = (props: ChaptersData) => {
-    const readMore = () => { props.to && redirectTo(props.to) };
+    const navigate = navigateTo();
+
+    const getPath = () => {
+        if (props.to) {
+            return `#/${globalThis.location.href.split("#/")[1]}${props.to}`;
+        }
+    }
 
     return (
         <Box display={"flex"} flexDirection={{ xs: 'column', md: 'row' }} gap={{ xs: 2, md: 6 }} width={'100%'}>
@@ -84,8 +92,8 @@ const ChapterResume = (props: ChaptersData) => {
                 <LectureTypography variant="h6">{props.novel}</LectureTypography>
                 <LectureTypography variant="h4">{props.title}</LectureTypography>
                 <NovelBody bodyParagraphs={props.summary} />
-                <Box width={'100%'}>
-                    <AnimatedButton text="Leer más" marginTop="30px" onClick={readMore} />
+                <Box component={'a'} href={getPath()}>
+                    <AnimatedButton text="Leer más" marginTop="30px" onClick={() => props.to && navigate(props.to)} />
                 </Box>
             </Box>
         </Box>
