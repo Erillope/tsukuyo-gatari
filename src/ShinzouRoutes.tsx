@@ -15,6 +15,7 @@ import { shinshouRokuNData } from './data/shinshou/shinshouRokuNData'
 import { shinshouRokuTData } from './data/shinshou/shinshouRokuTData'
 import { blueData } from "./data/shinshou/blue"
 import { shinshouRokuIData } from "./data/shinshou/shinshouRokuI"
+import { shinshouRokuVData } from "./data/shinshou/shinshouRokuV"
 import { tsuisou0Data } from "./data/tsuisou/tsuisouRoku0Data"
 import { tsuisou1Data } from "./data/tsuisou/tsuisouRoku1Data"
 import { tsuisou2Data } from "./data/tsuisou/tsuisouRoku2Data"
@@ -59,6 +60,7 @@ const ShinshouRokuRoutes = () => {
         <Route path='/chapter-12/' element={<ShinshouRokuChapter {...shinshouRokuTData} />} />
         <Route path='/chapter-13/' element={<ShinshouRokuChapter {...blueData} />} />
         <Route path='/chapter-14/' element={<ShinshouRokuChapter {...shinshouRokuIData} />} />
+        <Route path='/chapter-15/' element={<ShinshouRokuChapter {...shinshouRokuVData} />} />
     </Routes>
 }
 

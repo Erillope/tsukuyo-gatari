@@ -4,6 +4,10 @@ import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
 import shinshouChpt13 from "../../traducciones/shinshou/chpt_13.txt"
 import blue from "../../assets/blue.png"
 import moon1 from "../../assets/moon1.png"
+import blue1 from "../../assets/blue_bg1.png"
+import blue2 from "../../assets/blue_bg2.png"
+import blue3 from "../../assets/blue_bg3.png"
+import blue4 from "../../assets/blue_bg4.png"
 
 const blueTitleData: ChapterTitleProps = {
     smallTitleImg: blue,
@@ -20,17 +24,16 @@ const blueTsukiMessageData = {
 }
 
 const blueChapterLargeBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 10, opacity: 0.85 },
-    { breakpoint: 20, opacity: 0.85 },
-    { breakpoint: 50, opacity: 0.85 },
-    { breakpoint: 100, opacity: 0.85 },
+    { breakpoint: 10, opacity: 0.65, imageSrc: blue1 },
+    { breakpoint: 35, opacity: 0.65, imageSrc: blue },
 ]
 
 const blueChapterSmallBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 10, opacity: 0.85 },
-    { breakpoint: 20, opacity: 0.85 },
-    { breakpoint: 50, opacity: 0.85 },
-    { breakpoint: 100, opacity: 0.85 },
+    { breakpoint: 5, opacity: 0.65, imageSrc: blue1, position: "right" },
+    { breakpoint: 10, opacity: 0.7, imageSrc: blue2 },
+    { breakpoint: 13, opacity: 0.75, imageSrc: blue3 },
+    { breakpoint: 20, opacity: 0.75, imageSrc: blue4 },
+    { breakpoint: 100, opacity: 0.65, imageSrc: blue },
 ]
 
 export const blueData: ShinshouRokuChapterProps = {

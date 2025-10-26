@@ -4,6 +4,8 @@ import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
 import shinshouChpt14 from "../../traducciones/shinshou/chpt_14.txt"
 import shinshouI from "../../assets/shinshou_i.png"
 import moon1 from "../../assets/moon1.png"
+import shinshouIBG1 from "../../assets/shinshou_i_bg1.png"
+import shinshouBBG5 from "../../assets/shinshou_b_bg5.png"
 
 const shinshouRokuITitleData: ChapterTitleProps = {
     smallTitleImg: shinshouI,
@@ -20,17 +22,14 @@ const shinshouRokuITsukiMessageData = {
 }
 
 const shinshouRokuIChapterLargeBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 10, opacity: 0.85 },
-    { breakpoint: 20, opacity: 0.85 },
-    { breakpoint: 50, opacity: 0.85 },
-    { breakpoint: 100, opacity: 0.85 },
+    { breakpoint: 9, opacity: 0.7, imageSrc: shinshouIBG1 },
+    { breakpoint: 50, opacity: 0.7, imageSrc: shinshouI },
 ]
 
 const shinshouRokuIChapterSmallBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 10, opacity: 0.85 },
-    { breakpoint: 20, opacity: 0.85 },
-    { breakpoint: 50, opacity: 0.85 },
-    { breakpoint: 100, opacity: 0.85 },
+    { breakpoint: 10, opacity: 0.7, imageSrc: shinshouIBG1 },
+    { breakpoint: 15, opacity: 0.7, imageSrc: shinshouBBG5 },
+    { breakpoint: 50, opacity: 0.7, imageSrc: shinshouI },
 ]
 
 export const shinshouRokuIData: ShinshouRokuChapterProps = {
