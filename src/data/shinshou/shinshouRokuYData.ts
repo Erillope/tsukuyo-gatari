@@ -22,7 +22,7 @@ const shinshouRokuYTsukiMessageData = {
 }
 
 const shinshouRokuYChapterLargeBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 14, opacity: 0.85, imageSrc: shinshouY, position: 'top center' },
+    { breakpoint: 14, opacity: 0.75, imageSrc: shinshouY, position: 'top center' },
 ]
 
 const shinshouRokuYChapterSmallBreakpoints: ChapterBreakpoints[] = [

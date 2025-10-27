@@ -39,7 +39,7 @@ const shinshouRokuAlphaTsukiMessageData = {
 const shinshouRokuAlphaChapterLargeBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 7, opacity: 0.8, imageSrc: shinshouABG1 },
     { breakpoint: 14, opacity: 0.8, imageSrc: shinshouABG2 },
-    { breakpoint: 21, opacity: 0.7, imageSrc: shinshouABG3 },
+    { breakpoint: 21, opacity: 0.6, imageSrc: shinshouABG3 },
     { breakpoint: 37, opacity: 0.75, imageSrc: shinshouABG4 },
     { breakpoint: 50, opacity: 0.7, imageSrc: shinshouABG5 }
 ]
@@ -49,7 +49,7 @@ const shinshouRokuAlphaChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 6, opacity: 0.8, imageSrc: shinshouABG2Small },
     { breakpoint: 10, opacity: 0.8, imageSrc: shinshouABG3Small },
     { breakpoint: 15, opacity: 0.75, imageSrc: shinshouABG4 },
-    { breakpoint: 17, opacity: 0.7, imageSrc: shinshouABG4Small },
+    { breakpoint: 17, opacity: 0.6, imageSrc: shinshouABG4Small },
     { breakpoint: 20, opacity: 0.7, imageSrc: shinshouABG5Small },
     { breakpoint: 23, opacity: 0.6, imageSrc: shinshouABG6Small },
     { breakpoint: 26, opacity: 0.7, imageSrc: shinshouABG7Small },

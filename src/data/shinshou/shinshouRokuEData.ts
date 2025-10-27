@@ -40,7 +40,7 @@ const shinshouRokuEChapterLargeBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 50, opacity: 0.7, imageSrc: shinshouEBG5 },
     { breakpoint: 55, opacity: 0.7, imageSrc: shinshouEbg6 },
     { breakpoint: 66, opacity: 0.7, imageSrc: shinshouEBG7 },
-    { breakpoint: 75, opacity: 0.7, imageSrc: shinshouEBG8 },
+    { breakpoint: 80, opacity: 0.7, imageSrc: shinshouEBG8 },
 ]
 
 const shinshouRokuEChapterSmallBreakpoints: ChapterBreakpoints[] = [
@@ -56,9 +56,9 @@ const shinshouRokuEChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 52, opacity: 0.7, imageSrc: shinshouEBG13 },
     { breakpoint: 54, opacity: 0.7, imageSrc: shinshouEbg6 },
     { breakpoint: 62, opacity: 0.7, imageSrc: shinshouEBG11, position: "left" },
-    { breakpoint: 65, opacity: 0.7, imageSrc: shinshouEBG7 },
-    { breakpoint: 69, opacity: 0.7, imageSrc: shinshouE },
-    { breakpoint: 72, opacity: 0.7, imageSrc: shinshouEBG8 },
+    { breakpoint: 66, opacity: 0.7, imageSrc: shinshouEBG7 },
+    { breakpoint: 73, opacity: 0.7, imageSrc: shinshouE },
+    { breakpoint: 80, opacity: 0.7, imageSrc: shinshouEBG8 },
 ]
 
 export const shinshouRokuEData: ShinshouRokuChapterProps = {

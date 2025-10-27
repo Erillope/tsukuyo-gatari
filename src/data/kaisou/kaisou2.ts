@@ -1,9 +1,15 @@
 import type { ChapterTitleProps } from "../../components/ChapterTitle";
-import moon1 from "../../assets/moon1.png"
+import moon3 from "../../assets/moon3.jpg"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
 import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
 import kaisouChpt2 from "../../traducciones/kaisou/chpt_2.txt";
 import kaisou2 from "../../assets/kaisou2.png";
+import kaisou1 from "../../assets/kaisou1.jpg";
+import shinshouDeltaBG1 from "../../assets/shinshou_delta_bg1.png"
+import shinshouBBG3 from "../../assets/shinshou_b_bg3.png"
+import shinshouI from "../../assets/shinshou_i.png"
+import tsuisou5BG14 from "../../assets/tsuisou5_bg14.png"
+import shinshouBBG3Small from "../../assets/shinshou_b_bg3_small.png"
 
 const kaisouRoku2TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou2,
@@ -16,21 +22,22 @@ const kaisouRoku2TitleData: ChapterTitleProps = {
 
 const kaisouRoku2TsukiMessageData = {
     breakpoint: 1,
-    moonImageSrc: moon1
+    moonImageSrc: moon3
 }
 
 const kaisouRoku2ChapterLargeBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 10, opacity: 0.85 },
-    { breakpoint: 20, opacity: 0.85 },
-    { breakpoint: 50, opacity: 0.75 },
-    { breakpoint: 100, opacity: 0.75 }
+    { breakpoint: 10, opacity: 0.7, imageSrc: shinshouDeltaBG1 },
+    { breakpoint: 20, opacity: 0.7, imageSrc: shinshouBBG3 },
+    { breakpoint: 30, opacity: 0.7, imageSrc: shinshouI },
+    { breakpoint: 100, opacity: 0.7, imageSrc: kaisou2 },
 ]
 
 const kaisouRoku2ChapterSmallBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 10, opacity: 0.85 },
-    { breakpoint: 20, opacity: 0.85 },
-    { breakpoint: 50, opacity: 0.75 },
-    { breakpoint: 100, opacity: 0.75 }
+    { breakpoint: 10, opacity: 0.7, imageSrc: tsuisou5BG14 },
+    { breakpoint: 15, opacity: 0.7, imageSrc: shinshouBBG3Small },
+    { breakpoint: 20, opacity: 0.7, imageSrc: kaisou1 },
+    { breakpoint: 30, opacity: 0.7, imageSrc: shinshouI },
+    { breakpoint: 100, opacity: 0.7, imageSrc: kaisou2, position: 'left' },
 
 ]
 

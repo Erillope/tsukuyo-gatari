@@ -1,7 +1,8 @@
 -*-
+>>>
 1+1, la respuesta es 2.
-
 ¿Realmente eso será lo correcto?
+>>>
 
 >>>
 Anhelando inteligencia,
@@ -117,7 +118,7 @@ Siento como si pudiera ir a cualquier lugar, y la vez como si no perteneciera a 
 >>>
 Casualmente levanto la mirada mientras camino por la estrecha ciudad.
 El cielo es detestablemente gigantesco.
-Las delgadas nubes del invierno cubren al cielo como cortinas, dejando filtrar una leve luz carmesí del cielo azul.
+Las delgadas nubes del invierno cubren al cielo como cortinas, dejando filtrar una leve luz carmesí.
 >>>
 
 >>>
