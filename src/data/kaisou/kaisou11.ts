@@ -1,9 +1,16 @@
 import type { ChapterTitleProps } from "../../components/ChapterTitle";
-import moon1 from "../../assets/moon1.png"
+import moon3 from "../../assets/moon3.jpg"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
 import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
 import kaisouChpt11 from "../../traducciones/kaisou/chpt_11.txt";
 import kaisou11 from "../../assets/kaisou11.png";
+import kaisou11BG1 from "../../assets/kaisou11_bg1.png";
+import kaisou11BG2 from "../../assets/kaisou11_bg2.png";
+import shinshouN from "../../assets/shinshou_n.png";
+import shinshouNBGSmall from "../../assets/shinshou_n_bg_small.png";
+import shinshouDeltaBG2Small from "../../assets/shinshou_delta_bg2_small.png";
+import kaisou11BG3 from "../../assets/kaisou11_bg3.png";
+import kaisou11BG4 from "../../assets/kaisou11_bg4.png";
 
 const kaisouRoku11TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou11,
@@ -16,21 +23,21 @@ const kaisouRoku11TitleData: ChapterTitleProps = {
 
 const kaisouRoku11TsukiMessageData = {
     breakpoint: 1,
-    moonImageSrc: moon1
+    moonImageSrc: moon3
 }
 
 const kaisouRoku11ChapterLargeBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 10, opacity: 0.85 },
-    { breakpoint: 20, opacity: 0.85 },
-    { breakpoint: 50, opacity: 0.75 },
-    { breakpoint: 100, opacity: 0.75 }
+    { breakpoint: 6, opacity: 0.75, imageSrc: kaisou11BG1 },
+    { breakpoint: 15, opacity: 0.8, imageSrc: shinshouN, position: "top" },
+    { breakpoint: 100, opacity: 0.75, imageSrc: kaisou11BG2 }
 ]
 
 const kaisouRoku11ChapterSmallBreakpoints: ChapterBreakpoints[] = [
-    { breakpoint: 10, opacity: 0.85 },
-    { breakpoint: 20, opacity: 0.85 },
-    { breakpoint: 50, opacity: 0.75 },
-    { breakpoint: 100, opacity: 0.75 }
+    { breakpoint: 6, opacity: 0.75, imageSrc: kaisou11BG1 },
+    { breakpoint: 11, opacity: 0.8, imageSrc: shinshouNBGSmall },
+    { breakpoint: 16, opacity: 0.65, imageSrc: shinshouDeltaBG2Small },
+    { breakpoint: 21, opacity: 0.7, imageSrc: kaisou11BG4 },
+    { breakpoint: 100, opacity: 0.75, imageSrc: kaisou11BG3, position: "left" }
 
 ]
 
