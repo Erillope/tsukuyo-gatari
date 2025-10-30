@@ -50,5 +50,7 @@ export const emergeData: ShinshouRokuChapterProps = {
     tsukiMessage1Data: emergeTsukiMessageData,
     tsukiMessage2Data: emergeTsukiMessageData,
     chapterLargeBreakpoints: emergeChapterLargeBreakpoints,
-    chapterSmallBreakpoints: emergeChapterSmallBreakpoints
+    chapterSmallBreakpoints: emergeChapterSmallBreakpoints,
+    previousChapterLink: "/shinzou/shinshouRoku/chapter-6/",
+    nextChapterLink: "/shinzou/shinshouRoku/chapter-8/",
 }

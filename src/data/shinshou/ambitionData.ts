@@ -41,5 +41,7 @@ export const ambitionData: ShinshouRokuChapterProps = {
     tsukiMessage1Data: ambitionTsukiMessageData,
     tsukiMessage2Data: ambitionTsukiMessageData,
     chapterLargeBreakpoints: ambitionChapterLargeBreakpoints,
-    chapterSmallBreakpoints: ambitionChapterSmallBreakpoints
+    chapterSmallBreakpoints: ambitionChapterSmallBreakpoints,
+    nextChapterLink: "/shinzou/shinshouRoku/chapter-4/",
+    previousChapterLink: "/shinzou/shinshouRoku/chapter-2/",
 }

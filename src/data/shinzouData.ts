@@ -104,10 +104,10 @@ const kaisouChaptersLinks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].map(num => `
 const extraChaptersVideos = [
     "https://www.youtube.com/watch?v=vzBVlYWPN7Q",
     "https://www.youtube.com/watch?v=MlvBKnHhHSc",
-    "https://www.youtube.com/watch?v=CaNqOp5Gl8Y"
+    "https://www.youtube.com/watch?v=kKCIUMOLIZk"
 ]
 
-const extraChaptersLinks = [1, 2, 3].map(num => `extra/chapter-${num}/`);
+const extraChaptersLinks = ["extra/veronica/", "extra/tetra/", "extra/ookami/"];
 
 export const shinshouSectionData: ChapterSectionProps = {
     summaryFilePath: shinshouSummary,

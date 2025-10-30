@@ -34,6 +34,9 @@ import { kaisouRoku9Data } from "./data/kaisou/kaisou9";
 import { kaisouRoku10Data } from "./data/kaisou/kaisou10";
 import { kaisouRoku11Data } from "./data/kaisou/kaisou11";
 import { kaisouRoku12Data } from "./data/kaisou/kaisou12";
+import { veronicaData } from "./data/extra/veronica"
+import { tetraData } from "./data/extra/tetra"
+import { ookamiData } from "./data/extra/ookami"
 
 export const ShinzouRoutes = () => {
     return <Routes>
@@ -41,6 +44,7 @@ export const ShinzouRoutes = () => {
         <Route path='/shinshouRoku/*' element={<ShinshouRokuRoutes />} />
         <Route path='/tsuisouRoku/*' element={<TsuisouRokuRoutes />} />
         <Route path='/kaisouRoku/*' element={<KaisouRokuRoutes />} />
+        <Route path='/extra/*' element={<ExtraRoutes />} />
     </Routes>
 }
 
@@ -89,5 +93,13 @@ const KaisouRokuRoutes = () => {
         <Route path='/chapter-10/' element={<ShinshouRokuChapter {...kaisouRoku10Data} />} />
         <Route path='/chapter-11/' element={<ShinshouRokuChapter {...kaisouRoku11Data} />} />
         <Route path='/chapter-12/' element={<ShinshouRokuChapter {...kaisouRoku12Data} />} />
+    </Routes>
+}
+
+const ExtraRoutes = () => {
+    return <Routes>
+        <Route path='/veronica/' element={<ShinshouRokuChapter {...veronicaData} />} />
+        <Route path='/tetra/' element={<ShinshouRokuChapter {...tetraData} />} />
+        <Route path='/ookami/' element={<ShinshouRokuChapter {...ookamiData} />} />
     </Routes>
 }

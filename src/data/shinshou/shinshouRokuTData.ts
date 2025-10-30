@@ -46,5 +46,7 @@ export const shinshouRokuTData: ShinshouRokuChapterProps = {
     tsukiMessage1Data: shinshouRokuTTsukiMessageData,
     tsukiMessage2Data: shinshouRokuTTsukiMessageData,
     chapterLargeBreakpoints: shinshouRokuTChapterLargeBreakpoints,
-    chapterSmallBreakpoints: shinshouRokuTChapterSmallBreakpoints
+    chapterSmallBreakpoints: shinshouRokuTChapterSmallBreakpoints,
+    previousChapterLink: "/shinzou/shinshouRoku/chapter-11/",
+    nextChapterLink: "/shinzou/shinshouRoku/chapter-13/",
 }
