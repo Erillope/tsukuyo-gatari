@@ -11,16 +11,16 @@ import { RBox } from "../components/RBox"
 import { LectureTitle } from "../components/LectureTitle"
 import { LectureTypography } from "../components/RTypography"
 import { Video } from "../components/Video"
-import { CommentsView } from "../components/CommentsSection"
+import { CommentsView, type CommentsViewProps } from "../components/CommentsSection"
 
-export interface ShinshouRokuChapterProps {
+export interface ChapterPageProps {
     chapterFile: string;
     titleData: ChapterTitleProps;
-    tsukiMessage1Data: {
+    tsukiMessage1Data?: {
         breakpoint: number;
         moonImageSrc?: string;
     },
-    tsukiMessage2Data: {
+    tsukiMessage2Data?: {
         breakpoint: number;
         moonImageSrc?: string;
     },
@@ -29,6 +29,7 @@ export interface ShinshouRokuChapterProps {
     nextChapterLink?: string;
     previousChapterLink?: string;
     videoLinks?: VideoViewsProp[];
+    commentsSection?: CommentsViewProps;
 }
 
 export interface VideoViewsProp {
@@ -37,19 +38,19 @@ export interface VideoViewsProp {
     subtitle?: string;
 }
 
-export const ShinshouRokuChapter = (props: ShinshouRokuChapterProps) => {
-    const { paragraphs, tsukiMessage1, tsukiMessage2 } = useShinshouRokuChapter({ chapterFile: props.chapterFile });
+export const ChapterPage = (props: ChapterPageProps) => {
+    const { paragraphs, tsukiMessage1, tsukiMessage2 } = useChapter({ chapterFile: props.chapterFile });
 
     return (
         <Box width="100vw" component="main" display={'flex'} flexDirection={'column'}>
             <ChapterTitle {...props.titleData} />
-            {tsukiMessage1.length > 0 && <TsukiMessage paragraphs={tsukiMessage1} {...props.tsukiMessage1Data} />}
+            {tsukiMessage1.length > 0 && props.tsukiMessage1Data && <TsukiMessage paragraphs={tsukiMessage1} {...props.tsukiMessage1Data} />}
             <ChapterContent paragraphs={paragraphs} largeBreakpoints={props.chapterLargeBreakpoints}
                 smallBreakpoints={props.chapterSmallBreakpoints} />
-            {tsukiMessage2.length > 0 && <TsukiMessage paragraphs={tsukiMessage2} {...props.tsukiMessage2Data} />}
+            {tsukiMessage2.length > 0 && props.tsukiMessage2Data && <TsukiMessage paragraphs={tsukiMessage2} {...props.tsukiMessage2Data} />}
             <ChaptersLink nextChapterLink={props.nextChapterLink} previousChapterLink={props.previousChapterLink} />
             {props.videoLinks && <VideoViews videoViews={props.videoLinks} />}
-            <CommentsView />
+            <CommentsView {...props.commentsSection} />
         </Box>
     )
 }
@@ -100,7 +101,7 @@ const VideoView = (props: VideoViewsProp) => {
     </Box>
 }
 
-const useShinshouRokuChapter = (props: { chapterFile: string }) => {
+const useChapter = (props: { chapterFile: string }) => {
     const [paragraphs, setParagraphs] = useState<string[]>([]);
     const [tsukiMessage1, setTsukiMessage1] = useState<string[]>([]);
     const [tsukiMessage2, setTsukiMessage2] = useState<string[]>([]);

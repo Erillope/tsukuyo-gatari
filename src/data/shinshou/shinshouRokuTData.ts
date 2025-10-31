@@ -1,6 +1,6 @@
 import type { ChapterBreakpoints } from "../../components/ChapterContent"
 import type { ChapterTitleProps } from "../../components/ChapterTitle"
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
+import type { ChapterPageProps } from "../../pages/ChaptersPage"
 import shinshouChpt12 from "../../traducciones/shinshou/chpt_12.txt"
 import shinshouT from "../../assets/shinshou_t.png"
 import moon1 from "../../assets/moon1.png"
@@ -11,6 +11,7 @@ import shinshouTBG4 from "../../assets/shinshou_t_bg4.png"
 import shinshouTB5 from "../../assets/shinshou_t_bg5.png"
 import shinshouTBG6 from "../../assets/shinshou_t_bg6.png"
 import { crescent } from "../shinzouVideos"
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const shinshouRokuTTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouT,
@@ -41,7 +42,7 @@ const shinshouRokuTChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 40, opacity: 0.55, imageSrc: shinshouTBG3 },
 ]
 
-export const shinshouRokuTData: ShinshouRokuChapterProps = {
+export const shinshouRokuTData: ChapterPageProps = {
     chapterFile: shinshouChpt12,
     titleData: shinshouRokuTTitleData,
     tsukiMessage1Data: shinshouRokuTTsukiMessageData,
@@ -50,5 +51,6 @@ export const shinshouRokuTData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuTChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-11/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-13/",
-    videoLinks: [crescent]
+    videoLinks: [crescent],
+    commentsSection: { section: "shinzou/shinshou/chpt12", commentsBG: shinzouCommentBG }
 }

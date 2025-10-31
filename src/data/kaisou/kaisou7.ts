@@ -1,7 +1,7 @@
 import type { ChapterTitleProps } from "../../components/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
+import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import kaisouChpt7 from "../../traducciones/kaisou/chpt_7.txt";
 import kaisou7BG from "../../assets/kaisou7_bg.png";
 import kaisou7BGSmall from "../../assets/kaisou7_bg_small.png";
@@ -14,6 +14,7 @@ import kaisou7BG6 from "../../assets/kaisou7_bg6.jpeg";
 import kaisou7BG7 from "../../assets/kaisou7_bg7.png";
 import kaisou7BG8 from "../../assets/kaisou7_bg8.png";
 import { NoisyRainy } from "../shinzouVideos";
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const kaisouRoku7TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou7BGSmall,
@@ -44,7 +45,7 @@ const kaisouRoku7ChapterSmallBreakpoints: ChapterBreakpoints[] = [
 
 ]
 
-export const kaisouRoku7Data: ShinshouRokuChapterProps = {
+export const kaisouRoku7Data: ChapterPageProps = {
     chapterFile: kaisouChpt7,
     titleData: kaisouRoku7TitleData,
     tsukiMessage1Data: kaisouRoku7TsukiMessageData,
@@ -53,5 +54,9 @@ export const kaisouRoku7Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku7ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-8/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-6/",
-    videoLinks: [NoisyRainy]
+    videoLinks: [NoisyRainy],
+    commentsSection: {
+        section: "shinzou/kaisou/chpt7",
+        commentsBG: shinzouCommentBG
+    }
 }

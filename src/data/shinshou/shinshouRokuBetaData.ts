@@ -10,9 +10,10 @@ import shinshouBBG3Small from "../../assets/shinshou_b_bg3_small.png"
 import shinshouABG11Small from "../../assets/shinshou_a_bg11_small.png"
 import moon1 from "../../assets/moon1.png"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
+import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import shinshouChpt2 from "../../traducciones/shinshou/chpt_2.txt";
-import { mahiruNoTsukiAkari } from "../shinzouVideos";
+import { mahiruNoTsukiAkari } from "../shinzouVideos"
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg";
 
 const shinshouRokuBetaTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouBSmall,
@@ -44,7 +45,7 @@ const shinshouRokuBetaChapterSmallBreakpoints: ChapterBreakpoints[] = [
 
 ]
 
-export const shinshouRokuBetaData: ShinshouRokuChapterProps = {
+export const shinshouRokuBetaData: ChapterPageProps = {
     chapterFile: shinshouChpt2,
     titleData: shinshouRokuBetaTitleData,
     tsukiMessage1Data: shinshouRokuBetaTsukiMessageData,
@@ -53,5 +54,6 @@ export const shinshouRokuBetaData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuBetaChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/shinshouRoku/chapter-3/",
     previousChapterLink: "/shinzou/shinshouRoku/chapter-1/",
-    videoLinks: [mahiruNoTsukiAkari]
+    videoLinks: [mahiruNoTsukiAkari],
+    commentsSection: { section: "shinzou/shinshou/chpt2", commentsBG: shinzouCommentBG }
 }

@@ -1,13 +1,14 @@
 import type { ChapterTitleProps } from "../../components/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
+import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import kaisouChpt5 from "../../traducciones/kaisou/chpt_5.txt";
 import kaisou5 from "../../assets/kaisou5.png";
 import kaisou5BG1 from "../../assets/kaisou5_bg1.png";
 import shinshouNBG3 from "../../assets/shinshou_n_bg3.png";
 import kaisou5BG2 from "../../assets/kaisou5_bg2.png";
 import { kureNiAkane } from "../shinzouVideos";
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const kaisouRoku5TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou5,
@@ -36,7 +37,7 @@ const kaisouRoku5ChapterSmallBreakpoints: ChapterBreakpoints[] = [
 
 ]
 
-export const kaisouRoku5Data: ShinshouRokuChapterProps = {
+export const kaisouRoku5Data: ChapterPageProps = {
     chapterFile: kaisouChpt5,
     titleData: kaisouRoku5TitleData,
     tsukiMessage1Data: kaisouRoku5TsukiMessageData,
@@ -45,5 +46,9 @@ export const kaisouRoku5Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku5ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-6/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-4/",
-    videoLinks: [kureNiAkane]
+    videoLinks: [kureNiAkane],
+    commentsSection: {
+        section: "shinzou/kaisou/chpt5",
+        commentsBG: shinzouCommentBG
+    }
 }

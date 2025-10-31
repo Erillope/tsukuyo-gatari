@@ -1,7 +1,7 @@
 import type { ChapterTitleProps } from "../../components/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
+import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import veronicaChpt from "../../traducciones/extra/extra_1.txt";
 import veronicaBG from "../../assets/veronica_bg.png"
 import extra1 from "../../assets/extra1.png";
@@ -11,6 +11,7 @@ import veronicaBG2 from "../../assets/veronica_bg2.png"
 import veronicaBG3 from "../../assets/veronica_bg3.png"
 import veronicaBG4 from "../../assets/veronica_bg4.png"
 import { veronicaVideo } from "../shinzouVideos";
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const veronicaTitleData: ChapterTitleProps = {
     smallTitleImg: extra1,
@@ -42,7 +43,7 @@ const veronicaChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 50, opacity: 0.7, imageSrc: extra1 },
 ]
 
-export const veronicaData: ShinshouRokuChapterProps = {
+export const veronicaData: ChapterPageProps = {
     chapterFile: veronicaChpt,
     titleData: veronicaTitleData,
     tsukiMessage1Data: veronicaTsukiMessageData,
@@ -51,5 +52,9 @@ export const veronicaData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: veronicaChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/extra/tetra/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-12/",
-    videoLinks: [veronicaVideo]
+    videoLinks: [veronicaVideo],
+    commentsSection: {
+        section: "shinzou/extra/veronica",
+        commentsBG: shinzouCommentBG
+    }
 }

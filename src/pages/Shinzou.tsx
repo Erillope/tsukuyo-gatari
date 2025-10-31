@@ -1,6 +1,6 @@
 import { Box, Divider } from "@mui/material";
 import "../styles.css";
-import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData, novelTitleData } from "../data/shinzouData"
+import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData, novelTitleData, menuOptionsData } from "../data/shinzouData"
 import { NovelTitle } from "../components/NovelTitle";
 import { ChapterSection } from "../components/ChapterSection";
 import { RBox } from "../components/RBox";
@@ -10,14 +10,15 @@ import { Introduction } from "../components/Introduction";
 import { LectureTitle } from "../components/LectureTitle";
 import { Video } from "../components/Video";
 import { ScrollLink } from "../components/ScrollLink";
-import MenuBar from "../components/MenuBar";
+import {MenuBar} from "../components/MenuBar";
 import { CommentsView } from "../components/CommentsSection";
+import shinzouCommentBG from "../assets/shinzou_comment_bg.jpg"
 
 export const Shinzou = () => {
 
     return (
         <Box width="100vw" component="main" display={'flex'} flexDirection={'column'} id="principal">
-            <MenuBar />
+            <MenuBar options={menuOptionsData}/>
             <NovelTitle {...novelTitleData} />
             <Introduction summaryFilePath={shinzouSummary} />
             <TraductionDetails />
@@ -30,7 +31,7 @@ export const Shinzou = () => {
             <ChapterSection {...kaisouSectionData} />
             <ChapterSection {...extraSectionData} />
             <VisualNovel />
-            <CommentsView />
+            <CommentsView section="shinzou" includeSubsections commentsBG={shinzouCommentBG} />
         </Box>
     )
 }

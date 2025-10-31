@@ -1,11 +1,12 @@
 import type { ChapterTitleProps } from "../../components/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
+import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import kaisouChpt9 from "../../traducciones/kaisou/chpt_9.txt";
 import kaisou9 from "../../assets/kaisou9.jpg";
 import kaisou1BG2 from "../../assets/kaisou1_bg2.png";
 import { mahiruNoTsukiAkari } from "../shinzouVideos";
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const kaisouRoku9TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou9,
@@ -32,7 +33,7 @@ const kaisouRoku9ChapterSmallBreakpoints: ChapterBreakpoints[] = [
 
 ]
 
-export const kaisouRoku9Data: ShinshouRokuChapterProps = {
+export const kaisouRoku9Data: ChapterPageProps = {
     chapterFile: kaisouChpt9,
     titleData: kaisouRoku9TitleData,
     tsukiMessage1Data: kaisouRoku9TsukiMessageData,
@@ -41,5 +42,9 @@ export const kaisouRoku9Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku9ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-10/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-8/",
-    videoLinks: [mahiruNoTsukiAkari]
+    videoLinks: [mahiruNoTsukiAkari],
+    commentsSection: {
+        section: "shinzou/kaisou/chpt9",
+        commentsBG: shinzouCommentBG
+    }
 }

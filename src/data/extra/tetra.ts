@@ -1,7 +1,7 @@
 import type { ChapterTitleProps } from "../../components/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
+import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import tetraChpt from "../../traducciones/extra/extra_2.txt";
 import tetraBG from "../../assets/tetra_bg.png"
 import tetraBG1 from "../../assets/tetra_bg1.png"
@@ -13,6 +13,7 @@ import tetraBG6 from "../../assets/tetra_bg6.png"
 import tetraBG7 from "../../assets/tetra_bg7.png"
 import tetraBG8 from "../../assets/tetra_bg8.png"
 import { tetraVideo } from "../shinzouVideos";
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const tetraTitleData: ChapterTitleProps = {
     smallTitleImg: tetraBG,
@@ -46,7 +47,7 @@ const tetraChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 50, opacity: 0.75, imageSrc: tetraBG1 },
 ]
 
-export const tetraData: ShinshouRokuChapterProps = {
+export const tetraData: ChapterPageProps = {
     chapterFile: tetraChpt,
     titleData: tetraTitleData,
     tsukiMessage1Data: tetraTsukiMessageData,
@@ -55,5 +56,9 @@ export const tetraData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: tetraChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/extra/ookami/",
     previousChapterLink: "/shinzou/extra/veronica/",
-    videoLinks: [tetraVideo]
+    videoLinks: [tetraVideo],
+    commentsSection: {
+        section: "shinzou/extra/tetra",
+        commentsBG: shinzouCommentBG
+    }
 }

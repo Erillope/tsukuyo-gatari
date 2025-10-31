@@ -1,7 +1,7 @@
 import type { ChapterTitleProps } from "../../components/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
+import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import ookamiChpt from "../../traducciones/extra/extra_3.txt";
 import extra3 from "../../assets/extra3.jpg";
 import ookamiBG from "../../assets/ookami_bg.jpg"
@@ -10,6 +10,7 @@ import ookamiBG2 from "../../assets/ookami_bg2.png"
 import ookamiBG3 from "../../assets/ookami_bg3.png"
 import ookamiBG4 from "../../assets/ookami_bg4.png"
 import { ookamiVideo } from "../shinzouVideos";
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const ookamiTitleData: ChapterTitleProps = {
     smallTitleImg: extra3,
@@ -36,7 +37,7 @@ const ookamiChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 20, opacity: 0.7, imageSrc: ookamiBG4 },
 ]
 
-export const ookamiData: ShinshouRokuChapterProps = {
+export const ookamiData: ChapterPageProps = {
     chapterFile: ookamiChpt,
     titleData: ookamiTitleData,
     tsukiMessage1Data: ookamiTsukiMessageData,
@@ -44,5 +45,9 @@ export const ookamiData: ShinshouRokuChapterProps = {
     chapterLargeBreakpoints: ookamiChapterLargeBreakpoints,
     chapterSmallBreakpoints: ookamiChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/extra/tetra/",
-    videoLinks: [ookamiVideo]
+    videoLinks: [ookamiVideo],
+    commentsSection: {
+        section: "shinzou/extra/ookami",
+        commentsBG: shinzouCommentBG
+    }
 }

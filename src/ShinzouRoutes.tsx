@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom"
 import { Shinzou } from "./pages/Shinzou"
-import { ShinshouRokuChapter} from './pages/ShinshouChapters'
+import { ChapterPage} from './pages/ChaptersPage'
 import { shinshouRokuAlphaData } from './data/shinshou/shinshouRokuAlphaData'
 import { shinshouRokuBetaData } from './data/shinshou/shinshouRokuBetaData'
 import { ambitionData } from './data/shinshou/ambitionData'
@@ -50,56 +50,56 @@ export const ShinzouRoutes = () => {
 
 const ShinshouRokuRoutes = () => {
     return <Routes>
-        <Route path='/chapter-1/' element={<ShinshouRokuChapter {...shinshouRokuAlphaData} />} />
-        <Route path='/chapter-2/' element={<ShinshouRokuChapter {...shinshouRokuBetaData} />} />
-        <Route path='/chapter-3/' element={<ShinshouRokuChapter {...ambitionData} />} />
-        <Route path='/chapter-4/' element={<ShinshouRokuChapter {...shinshouRokuYData} />} />
-        <Route path='/chapter-5/' element={<ShinshouRokuChapter {...coldData} />} />
-        <Route path='/chapter-6/' element={<ShinshouRokuChapter {...shinshouRokuDeltaData} />} />
-        <Route path='/chapter-7/' element={<ShinshouRokuChapter {...emergeData} />} />
-        <Route path='/chapter-8/' element={<ShinshouRokuChapter {...shinshouRokuEData} />} />
-        <Route path='/chapter-9/' element={<ShinshouRokuChapter {...shinshouRokuCData} />} />
-        <Route path='/chapter-10/' element={<ShinshouRokuChapter {...dawnData} />} />
-        <Route path='/chapter-11/' element={<ShinshouRokuChapter {...shinshouRokuNData} />} />
-        <Route path='/chapter-12/' element={<ShinshouRokuChapter {...shinshouRokuTData} />} />
-        <Route path='/chapter-13/' element={<ShinshouRokuChapter {...blueData} />} />
-        <Route path='/chapter-14/' element={<ShinshouRokuChapter {...shinshouRokuIData} />} />
-        <Route path='/chapter-15/' element={<ShinshouRokuChapter {...shinshouRokuVData} />} />
+        <Route path='/chapter-1/' element={<ChapterPage {...shinshouRokuAlphaData} />} />
+        <Route path='/chapter-2/' element={<ChapterPage {...shinshouRokuBetaData} />} />
+        <Route path='/chapter-3/' element={<ChapterPage {...ambitionData} />} />
+        <Route path='/chapter-4/' element={<ChapterPage {...shinshouRokuYData} />} />
+        <Route path='/chapter-5/' element={<ChapterPage {...coldData} />} />
+        <Route path='/chapter-6/' element={<ChapterPage {...shinshouRokuDeltaData} />} />
+        <Route path='/chapter-7/' element={<ChapterPage {...emergeData} />} />
+        <Route path='/chapter-8/' element={<ChapterPage {...shinshouRokuEData} />} />
+        <Route path='/chapter-9/' element={<ChapterPage {...shinshouRokuCData} />} />
+        <Route path='/chapter-10/' element={<ChapterPage {...dawnData} />} />
+        <Route path='/chapter-11/' element={<ChapterPage {...shinshouRokuNData} />} />
+        <Route path='/chapter-12/' element={<ChapterPage {...shinshouRokuTData} />} />
+        <Route path='/chapter-13/' element={<ChapterPage {...blueData} />} />
+        <Route path='/chapter-14/' element={<ChapterPage {...shinshouRokuIData} />} />
+        <Route path='/chapter-15/' element={<ChapterPage {...shinshouRokuVData} />} />
     </Routes>
 }
 
 const TsuisouRokuRoutes = () => {
     return <Routes>
-        <Route path='/chapter-0/' element={<ShinshouRokuChapter {...tsuisou0Data} />} />
-        <Route path='/chapter-1/' element={<ShinshouRokuChapter {...tsuisou1Data} />} />
-        <Route path='/chapter-2/' element={<ShinshouRokuChapter {...tsuisou2Data} />} />
-        <Route path='/chapter-3/' element={<ShinshouRokuChapter {...tsuisou3Data} />} />
-        <Route path='/chapter-4/' element={<ShinshouRokuChapter {...tsuisou4Data} />} />
-        <Route path='/chapter-5/' element={<ShinshouRokuChapter {...tsuisou5Data} />} />
+        <Route path='/chapter-0/' element={<ChapterPage {...tsuisou0Data} />} />
+        <Route path='/chapter-1/' element={<ChapterPage {...tsuisou1Data} />} />
+        <Route path='/chapter-2/' element={<ChapterPage {...tsuisou2Data} />} />
+        <Route path='/chapter-3/' element={<ChapterPage {...tsuisou3Data} />} />
+        <Route path='/chapter-4/' element={<ChapterPage {...tsuisou4Data} />} />
+        <Route path='/chapter-5/' element={<ChapterPage {...tsuisou5Data} />} />
     </Routes>
 }
 
 const KaisouRokuRoutes = () => {
     return <Routes>
-        <Route path='/chapter-1/' element={<ShinshouRokuChapter {...kaisouRoku1Data} />} />
-        <Route path='/chapter-2/' element={<ShinshouRokuChapter {...kaisouRoku2Data} />} />
-        <Route path='/chapter-3/' element={<ShinshouRokuChapter {...kaisouRoku3Data} />} />
-        <Route path='/chapter-4/' element={<ShinshouRokuChapter {...kaisouRoku4Data} />} />
-        <Route path='/chapter-5/' element={<ShinshouRokuChapter {...kaisouRoku5Data} />} />
-        <Route path='/chapter-6/' element={<ShinshouRokuChapter {...kaisouRoku6Data} />} />
-        <Route path='/chapter-7/' element={<ShinshouRokuChapter {...kaisouRoku7Data} />} />
-        <Route path='/chapter-8/' element={<ShinshouRokuChapter {...kaisouRoku8Data} />} />
-        <Route path='/chapter-9/' element={<ShinshouRokuChapter {...kaisouRoku9Data} />} />
-        <Route path='/chapter-10/' element={<ShinshouRokuChapter {...kaisouRoku10Data} />} />
-        <Route path='/chapter-11/' element={<ShinshouRokuChapter {...kaisouRoku11Data} />} />
-        <Route path='/chapter-12/' element={<ShinshouRokuChapter {...kaisouRoku12Data} />} />
+        <Route path='/chapter-1/' element={<ChapterPage {...kaisouRoku1Data} />} />
+        <Route path='/chapter-2/' element={<ChapterPage {...kaisouRoku2Data} />} />
+        <Route path='/chapter-3/' element={<ChapterPage {...kaisouRoku3Data} />} />
+        <Route path='/chapter-4/' element={<ChapterPage {...kaisouRoku4Data} />} />
+        <Route path='/chapter-5/' element={<ChapterPage {...kaisouRoku5Data} />} />
+        <Route path='/chapter-6/' element={<ChapterPage {...kaisouRoku6Data} />} />
+        <Route path='/chapter-7/' element={<ChapterPage {...kaisouRoku7Data} />} />
+        <Route path='/chapter-8/' element={<ChapterPage {...kaisouRoku8Data} />} />
+        <Route path='/chapter-9/' element={<ChapterPage {...kaisouRoku9Data} />} />
+        <Route path='/chapter-10/' element={<ChapterPage {...kaisouRoku10Data} />} />
+        <Route path='/chapter-11/' element={<ChapterPage {...kaisouRoku11Data} />} />
+        <Route path='/chapter-12/' element={<ChapterPage {...kaisouRoku12Data} />} />
     </Routes>
 }
 
 const ExtraRoutes = () => {
     return <Routes>
-        <Route path='/veronica/' element={<ShinshouRokuChapter {...veronicaData} />} />
-        <Route path='/tetra/' element={<ShinshouRokuChapter {...tetraData} />} />
-        <Route path='/ookami/' element={<ShinshouRokuChapter {...ookamiData} />} />
+        <Route path='/veronica/' element={<ChapterPage {...veronicaData} />} />
+        <Route path='/tetra/' element={<ChapterPage {...tetraData} />} />
+        <Route path='/ookami/' element={<ChapterPage {...ookamiData} />} />
     </Routes>
 }

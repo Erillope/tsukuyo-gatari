@@ -14,7 +14,7 @@ export const Home = () => {
             <AboutThisPage />
             <AboutTheTraduction />
             <CatalogoNovelas />
-            <CommentsView />
+            <CommentsView section="home"/>
         </Box>
     );
 }

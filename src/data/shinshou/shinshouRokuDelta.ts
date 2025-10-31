@@ -1,6 +1,6 @@
 import type { ChapterBreakpoints } from "../../components/ChapterContent"
 import type { ChapterTitleProps } from "../../components/ChapterTitle"
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
+import type { ChapterPageProps } from "../../pages/ChaptersPage"
 import shinshouRokuDeltaChpt from "../../traducciones/shinshou/chpt_6.txt"
 import shinshouRokuDelta from "../../assets/shinshou_delta.png"
 import shinshouDeltaBG1 from "../../assets/shinshou_delta_bg.png"
@@ -13,6 +13,7 @@ import shinshouDeltaBG6 from "../../assets/shinshou_delta_bg6.png"
 import shinshouDeltaBG2Small from "../../assets/shinshou_delta_bg2_small.png"
 import moon1 from "../../assets/moon1.png"
 import { ikiruYosuga } from "../shinzouVideos"
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const shinshouRokuDeltaTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouRokuDelta,
@@ -44,7 +45,7 @@ const shinshouRokuDeltaChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 27, opacity: 0.6, imageSrc: shinshouDeltaBG2Small },
 ]
 
-export const shinshouRokuDeltaData: ShinshouRokuChapterProps = {
+export const shinshouRokuDeltaData: ChapterPageProps = {
     chapterFile: shinshouRokuDeltaChpt,
     titleData: shinshouRokuDeltaTitleData,
     tsukiMessage1Data: shinshouRokuDeltaTsukiMessageData,
@@ -53,5 +54,6 @@ export const shinshouRokuDeltaData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuDeltaChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-5/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-7/",
-    videoLinks: [ikiruYosuga]
+    videoLinks: [ikiruYosuga],
+    commentsSection: { section: "shinzou/shinshou/chpt6", commentsBG: shinzouCommentBG }
 }

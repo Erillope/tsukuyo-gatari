@@ -42,6 +42,7 @@ import extraSummary from "../traducciones/extra_summary.txt"
 import type { NovelTitleProps } from "../components/NovelTitle"
 import shinzouBSmall from "../assets/heart4.png"
 import shinzouBG from "../assets/heart3.png"
+import type { MenuOptionData } from "../components/MenuBar"
 
 const shinshouChaptersImages = [shinshouA, shinshouB, ambition, shinzouY, cold, shinshouDelta, emerge,
         shinshouE, shinshouC, dawn, shinshouN, shinshouT, blue, shinshouI, shinshouV];
@@ -166,3 +167,12 @@ export const novelTitleData: NovelTitleProps = {
     esTitle: "Quisiera ser el corazón de alguien",
     videoLink: "https://www.youtube.com/watch?v=hZFBTnzKa54"
 }
+
+export const menuOptionsData: MenuOptionData[] = [
+    { to: "shinshou", text: "Parte 1: Shinshou Roku" },
+    { to: "tsuisou", text: "Parte 2: Tsuisou Roku" },
+    { to: "kaisou", text: "Parte 3: Kaisou Roku" },
+    { to: "extra", text: "Extras" },
+    { to: "novela", text: "Novela Visual" },
+    { to: "comentarios", text: "Comentarios" },
+]

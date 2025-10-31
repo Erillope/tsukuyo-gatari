@@ -1,7 +1,6 @@
 import { Avatar, Box, Divider, TextField, type TextFieldProps } from "@mui/material"
 import { LectureTypography } from "./RTypography"
 import { useStartTransition } from "../hooks/useStartTransition"
-import commentBG from '../assets/comment_bg.jpg'
 import AnimatedButton from "./AnimatedButton"
 import icon1 from "../assets/icon1.jpg"
 import icon2 from "../assets/icon2.jpg"
@@ -14,20 +13,34 @@ import icon8 from "../assets/icon8.png"
 import icon9 from "../assets/icon9.png"
 import { useEffect, useState } from "react"
 import { LectureTitle } from "./LectureTitle"
-import { useReadComments } from "../hooks/reader"
+import { useComments } from "../hooks/commentsReader"
 
-export const CommentsView = () => {
-    const { comments, addComment } = useReadComments();
+const icons = [icon1, icon2, icon3, icon4, icon5, icon6, icon7, icon8, icon9];
+
+export interface CommentsViewProps {
+    section?: string;
+    includeSubsections?: boolean;
+    commentsBG?: string;
+}
+
+export const CommentsView = (props: CommentsViewProps) => {
+    const { comments, addComment } = useComments(props.section || '', props.includeSubsections);
     
     return <Box display={'flex'} alignItems={'center'} flexDirection={'column'} width={'100%'} gap={2}
-        paddingLeft={{ xs: 1, lg: 10 }} paddingRight={{ xs: 1, lg: 10 }} marginBottom={5}>
+        paddingLeft={{ xs: 1, lg: 10 }} paddingRight={{ xs: 1, lg: 10 }} marginBottom={5} component={"section"} id="comentarios">
         <LectureTitle text="Comentarios" />
-        <CommentsSection addComment={addComment} comments={comments} />
+        <CommentsSection addComment={addComment} comments={comments} commentBG={props.commentsBG} />
     </Box>
 }
 
-export const CommentsSection = (props: { addComment?: (comment: CommentProps) => void, comments: CommentProps[] }) => {
+export const CommentsSection = (props: { addComment?: (comment: CommentProps) => void, comments: CommentProps[], commentBG?: string }) => {
     const opacity = 0.7;
+    const opacitySmall = 0.6;
+    const backgroundImage = {
+        xs: `linear-gradient(rgba(0,0,0,${opacitySmall}), rgba(0,0,0,${opacitySmall})), url(${props.commentBG})`,
+        lg: `linear-gradient(rgba(0,0,0,${opacity}), rgba(0,0,0,${opacity})), url(${props.commentBG})`,
+    }
+
     const [comments, setComments] = useState<CommentProps[]>(props.comments || []);
     
     useEffect(() => setComments(props.comments || []), [props.comments]);
@@ -40,7 +53,7 @@ export const CommentsSection = (props: { addComment?: (comment: CommentProps) =>
     return <Box width={'100%'} border={1} borderRadius={'20px'} gap={2} display={'flex'} flexDirection={'column'}
         paddingBottom={5}
         sx={{
-            backgroundImage: `linear-gradient(rgba(0,0,0,${opacity}), rgba(0,0,0,${opacity})), url(${commentBG})`,
+            backgroundImage: backgroundImage,
             borderTopRightRadius: '20px', borderTopLeftRadius: '20px',
         }}>
         <WriteComment submit={submitComment} />
@@ -53,10 +66,9 @@ export const CommentsSection = (props: { addComment?: (comment: CommentProps) =>
 }
 
 const WriteComment = (props: { submit?: (comment: CommentProps) => void }) => {
-    const icons = [icon1, icon2, icon3, icon4, icon5, icon6, icon7, icon8, icon9];
     const [nickName, setNickName] = useState('');
     const [comment, setComment] = useState('');
-    const [icon, setIcon] = useState(icons[0]);
+    const [iconIndex, setIconIndex] = useState(0);
     const [disabled, setDisabled] = useState(true);
 
     const validateInputs = () => {
@@ -71,7 +83,7 @@ const WriteComment = (props: { submit?: (comment: CommentProps) => void }) => {
         const commentData: CommentProps = {
             nickName: nickName,
             commentText: comment,
-            iconLink: icon,
+            iconIndex: iconIndex,
             datetime: new Date(),
         }
         setNickName('');
@@ -91,19 +103,19 @@ const WriteComment = (props: { submit?: (comment: CommentProps) => void }) => {
             Comentario
         </LectureTypography>
         <InputText multiline rows={4} placeholder="Escribe un comentario o review :)" value={comment} onChange={(e) => setComment(e.target.value)} />
-        <IconSelect icons={icons} icon={icon} setIcon={setIcon} />
+        <IconSelect icons={icons} iconIndex={iconIndex} setIconIndex={setIconIndex} />
         <AnimatedButton text="Comentar" onClick={submitComment} width={{ xs: "50%", lg: "10%" }} disabled={disabled} />
     </Box>
 }
 
-const IconSelect = (props: { icons: string[], icon: string, setIcon: (icon: string) => void }) => {
+const IconSelect = (props: { icons: string[], iconIndex: number, setIconIndex: (icon: number) => void }) => {
     return <Box display={'flex'} flexDirection={{ xs: "column", lg: "row" }} gap={2} alignItems={'center'}>
         <LectureTypography>
             Elije un ícono:
         </LectureTypography>
         <Box display={'flex'} flexDirection={'row'} gap={2} flexWrap={'wrap'} alignItems={'center'} justifyContent={'center'}>
-            {props.icons.map((iconLink) => (
-                <IconAvatar key={iconLink} iconLink={iconLink} selected={iconLink === props.icon} onClick={() => props.setIcon(iconLink)} />
+            {props.icons.map((iconLink, index) => (
+                <IconAvatar key={iconLink} iconLink={iconLink} selected={index === props.iconIndex} onClick={() => props.setIconIndex(index)} />
             ))}
         </Box>
     </Box>
@@ -113,12 +125,12 @@ export interface CommentProps {
     datetime: Date;
     nickName: string;
     commentText: string;
-    iconLink: string;
+    iconIndex: number;
 }
 
 const Comment = (props: CommentProps) => {
     return <Box display={'flex'} flexDirection={'row'} gap={2} alignItems={'flex-start'} width={'100%'} paddingLeft={{ xs: 2, lg: 5 }} paddingRight={5}>
-        <IconAvatar iconLink={props.iconLink} />
+        <IconAvatar iconLink={icons[props.iconIndex]} />
         <Box bgcolor={'rgba(255, 255, 255, 0.05)'} display={'flex'} flexDirection={'column'} gap={2} alignItems="flex-start" width={'100%'} borderRadius={'20px'} paddingBottom={2}>
             <Box paddingTop={2} display={'flex'} flexDirection={'row'} gap={2} alignItems={'center'} width={'100%'} paddingLeft={{ xs: 2, lg: 5 }} paddingRight={{ xs: 2, lg: 5 }}>
                 <LectureTypography variant="body1">{props.nickName}</LectureTypography>
@@ -180,7 +192,6 @@ const InputText = (props: InputTextProps) => {
 
 const IconAvatar = (props: { iconLink: string; selected?: boolean, onClick?: () => void, width?: number | string | any, height?: number | string | any }) => {
     const { ref, visible } = useStartTransition()
-
     return <Avatar ref={ref} onClick={props.onClick} src={props.iconLink} sx={{
         width: props.width || 56, height: props.height || 56, cursor: props.onClick ? 'pointer' : 'default',
         border: props.selected ? '3px solid red' : 'none',

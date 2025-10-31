@@ -1,6 +1,6 @@
 import type { ChapterBreakpoints } from "../../components/ChapterContent"
 import type { ChapterTitleProps } from "../../components/ChapterTitle"
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
+import type { ChapterPageProps } from "../../pages/ChaptersPage"
 import shinshouChpt13 from "../../traducciones/shinshou/chpt_13.txt"
 import blue from "../../assets/blue.png"
 import moon1 from "../../assets/moon1.png"
@@ -9,6 +9,7 @@ import blue2 from "../../assets/blue_bg2.png"
 import blue3 from "../../assets/blue_bg3.png"
 import blue4 from "../../assets/blue_bg4.png"
 import { yoruNiAi } from "../shinzouVideos"
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const blueTitleData: ChapterTitleProps = {
     smallTitleImg: blue,
@@ -37,7 +38,7 @@ const blueChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 100, opacity: 0.65, imageSrc: blue },
 ]
 
-export const blueData: ShinshouRokuChapterProps = {
+export const blueData: ChapterPageProps = {
     chapterFile: shinshouChpt13,
     titleData: blueTitleData,
     tsukiMessage1Data: blueTsukiMessageData,
@@ -46,5 +47,6 @@ export const blueData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: blueChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-12/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-14/",
-    videoLinks: [yoruNiAi]
+    videoLinks: [yoruNiAi],
+    commentsSection: { section: "shinzou/shinshou/chpt13", commentsBG: shinzouCommentBG }
 }

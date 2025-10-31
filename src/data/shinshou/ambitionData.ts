@@ -1,6 +1,6 @@
 import type { ChapterBreakpoints } from "../../components/ChapterContent"
 import type { ChapterTitleProps } from "../../components/ChapterTitle"
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
+import type { ChapterPageProps } from "../../pages/ChaptersPage"
 import shinshouChpt3 from "../../traducciones/shinshou/chpt_3.txt"
 import ambition from "../../assets/ambition.jpg"
 import ambitionBG from "../../assets/ambition_bg.jpg"
@@ -9,6 +9,7 @@ import shinshouABG9Small from "../../assets/shinshou_a_bg9_small.png"
 import ambitionBG2Small from "../../assets/ambition_bg2_small.png"
 import moon1 from "../../assets/moon1.png"
 import { kalmia } from "../shinzouVideos"
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const ambitionTitleData: ChapterTitleProps = {
     smallTitleImg: ambition,
@@ -36,7 +37,7 @@ const ambitionChapterSmallBreakpoints: ChapterBreakpoints[] = [
 
 ]
 
-export const ambitionData: ShinshouRokuChapterProps = {
+export const ambitionData: ChapterPageProps = {
     chapterFile: shinshouChpt3,
     titleData: ambitionTitleData,
     tsukiMessage1Data: ambitionTsukiMessageData,
@@ -45,5 +46,9 @@ export const ambitionData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: ambitionChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/shinshouRoku/chapter-4/",
     previousChapterLink: "/shinzou/shinshouRoku/chapter-2/",
-    videoLinks: [kalmia]
+    videoLinks: [kalmia],
+    commentsSection: {
+        section: "shinzou/shinshou/chpt3",
+        commentsBG: shinzouCommentBG
+    }
 }

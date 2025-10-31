@@ -1,6 +1,6 @@
 import type { ChapterBreakpoints } from "../../components/ChapterContent"
 import type { ChapterTitleProps } from "../../components/ChapterTitle"
-import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
+import type { ChapterPageProps } from "../../pages/ChaptersPage"
 import shinshouChpt7 from "../../traducciones/shinshou/chpt_7.txt"
 import emerge from "../../assets/emerge.png"
 import emergeBG2 from "../../assets/emerge_bg2.png"
@@ -14,6 +14,7 @@ import emergeBG7 from "../../assets/emerge_bg7.png"
 import emergeBG8 from "../../assets/emerge_bg8.png"
 import moon1 from "../../assets/moon1.png"
 import { nekropolis } from "../shinzouVideos"
+import shinzouCommentBG from "../../assets/shinzou_comment_bg.jpg"
 
 const emergeTitleData: ChapterTitleProps = {
     smallTitleImg: emergeBGSmall,
@@ -45,7 +46,7 @@ const emergeChapterSmallBreakpoints: ChapterBreakpoints[] = [
     { breakpoint: 21, opacity: 0.8, imageSrc: emergeBG8 },
 ]
 
-export const emergeData: ShinshouRokuChapterProps = {
+export const emergeData: ChapterPageProps = {
     chapterFile: shinshouChpt7,
     titleData: emergeTitleData,
     tsukiMessage1Data: emergeTsukiMessageData,
@@ -54,5 +55,6 @@ export const emergeData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: emergeChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-6/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-8/",
-    videoLinks: [nekropolis]
+    videoLinks: [nekropolis],
+    commentsSection: { section: "shinzou/shinshou/chpt7", commentsBG: shinzouCommentBG }
 }

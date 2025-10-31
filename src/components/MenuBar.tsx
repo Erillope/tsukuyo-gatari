@@ -9,13 +9,13 @@ import { LectureTypography } from "./RTypography";
 import { Moon } from "./Moon";
 import { navigateTo } from "../hooks/redirect";
 
-export default function MenuBar() {
+export const MenuBar = ({ options }: { options?: MenuOptionData[] }) => {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
         <Box>
             {!isOpen && <MenuButtons isOpen={isOpen} setIsOpen={setIsOpen} />}
-            <MenuModal isOpen={isOpen} setIsOpen={setIsOpen} />
+            <MenuModal isOpen={isOpen} setIsOpen={setIsOpen} options={options??[]}/>
         </Box>
     );
 }
@@ -29,7 +29,7 @@ const MenuButtons = ({ isOpen, setIsOpen }: { isOpen: boolean, setIsOpen: (isOpe
     );
 }
 
-const MenuModal = ({ isOpen, setIsOpen }: { isOpen: boolean, setIsOpen: (isOpen: boolean) => void }) => {
+const MenuModal = ({ isOpen, setIsOpen, options }: { isOpen: boolean, setIsOpen: (isOpen: boolean) => void, options: MenuOptionData[] }) => {
     return <Modal open={isOpen} onClose={() => setIsOpen(false)} sx={{
 
         "& .MuiBackdrop-root": {
@@ -42,26 +42,28 @@ const MenuModal = ({ isOpen, setIsOpen }: { isOpen: boolean, setIsOpen: (isOpen:
             <Box>
                 <MoonButton />
                 <MenuButton isOpen={isOpen} setIsOpen={setIsOpen} />
-                <MenuOptions close={() => setIsOpen(false)} />
+                <MenuOptions close={() => setIsOpen(false)} options={options} />
             </Box>
         </Fade>
 
     </Modal>
 };
 
-const MenuOptions = ({ close }: { close: () => void }) => {
+export interface MenuOptionData {
+    to: string;
+    text: string;
+}
+
+const MenuOptions = ({ close, options }: { close: () => void, options: MenuOptionData[] }) => {
     const navigate = navigateTo();
     return (
         <Box component={'header'} sx={{ position: 'absolute' }} display={'flex'} flexDirection={'column'} alignItems={'center'} justifyContent={'center'} width={'100%'} height={'100%'}>
             <Box component={'nav'} display={'flex'} flexDirection={'column'} alignItems={'center'} gap={5}>
-                <MenuOption to="home" text="Home" close={() => {close(); navigate("/")}} />
-                <MenuOption to="shinshou" text="Parte 1: Shinshou Roku" close={close} />
-                <MenuOption to="tsuisou" text="Parte 2: Tsuisou Roku" close={close} />
-                <MenuOption to="kaisou" text="Parte 3: Kaisou Roku" close={close} />
-                <MenuOption to="extra" text="Extras" close={close} />
-                <MenuOption to="novela" text="Novela Visual" close={close} />
+                <MenuOption to="home" text="Home" close={() => { close(); navigate("/") }} />
+                {options.map((option) => (
+                    <MenuOption key={option.to} to={option.to} text={option.text} close={close} />
+                ))}
             </Box>
-
         </Box>
     );
 }
@@ -83,7 +85,6 @@ const ArrowButton = () => {
                 sx={{ width: { xs: '60px', md: '80px' }, height: { xs: '60px', md: '80px' } }}>
                 <Box component={'img'} src={arrowImg} className="menu-button-icon" />
                 <Box component={'canvas'} className="menu-button-light" />
-
             </Box>
         </ScrollLink>
     )
@@ -92,7 +93,7 @@ const ArrowButton = () => {
 const MoonButton = () => {
     const navigate = navigateTo();
     return <Box className="menu-button-box" left={0} margin={{ xs: 4, md: 8 }} onClick={() => navigate("/")}>
-        <Moon small/>
+        <Moon small />
     </Box>
 }
 
