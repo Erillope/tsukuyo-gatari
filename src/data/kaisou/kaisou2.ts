@@ -10,6 +10,7 @@ import shinshouBBG3 from "../../assets/shinshou_b_bg3.png"
 import shinshouI from "../../assets/shinshou_i.png"
 import tsuisou5BG14 from "../../assets/tsuisou5_bg14.png"
 import shinshouBBG3Small from "../../assets/shinshou_b_bg3_small.png"
+import { ikiruYosuga, konnaInochiGaNakereba } from "../shinzouVideos";
 
 const kaisouRoku2TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou2,
@@ -50,4 +51,5 @@ export const kaisouRoku2Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku2ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-3/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-1/",
+    videoLinks: [ikiruYosuga, konnaInochiGaNakereba]
 }

@@ -11,6 +11,7 @@ import shinshouNBG3 from "../../assets/shinshou_n_bg3.png"
 import shinshouNBG4 from "../../assets/shinshou_n_bg4.png"
 import shinshouNBG5 from "../../assets/shinshou_n_bg5.png"
 import moon1 from "../../assets/moon1.png"
+import { harumekuKotoba } from "../shinzouVideos"
 
 const shinshouRokuNTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouNBGSmall,
@@ -52,4 +53,5 @@ export const shinshouRokuNData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuNChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-10/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-12/",
+    videoLinks: [harumekuKotoba]
 }

@@ -10,6 +10,7 @@ import kaisou4BG3 from "../../assets/kaisou4_bg3.png";
 import tsuisou1BG2Small from "../../assets/tsuisou1_bg2_small.png";
 import shinshouTBG1 from "../../assets/shinshou_t_bg1.png"
 import tsuisou3 from "../../assets/tsuisou3.png";
+import { yodaka } from "../shinzouVideos";
 
 const kaisouRoku4TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou4,
@@ -54,4 +55,5 @@ export const kaisouRoku4Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku4ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-5/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-3/",
+    videoLinks: [yodaka]
 }

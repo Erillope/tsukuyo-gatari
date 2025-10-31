@@ -13,6 +13,7 @@ import kaisou7BG5 from "../../assets/kaisou7_bg5.png";
 import kaisou7BG6 from "../../assets/kaisou7_bg6.jpeg";
 import kaisou7BG7 from "../../assets/kaisou7_bg7.png";
 import kaisou7BG8 from "../../assets/kaisou7_bg8.png";
+import { NoisyRainy } from "../shinzouVideos";
 
 const kaisouRoku7TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou7BGSmall,
@@ -52,4 +53,5 @@ export const kaisouRoku7Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku7ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-8/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-6/",
+    videoLinks: [NoisyRainy]
 }

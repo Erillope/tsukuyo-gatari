@@ -9,6 +9,7 @@ import kaisou6BG2 from "../../assets/kaisou6_bg2.png";
 import coldBG5Small from "../../assets/cold_bg5_small.png";
 import kaisou6BG3 from "../../assets/kaisou6_bg3.png";
 import kaisou6BG4 from "../../assets/kaisou6_bg4.png";
+import { tsukiTomoriNoKiyuMade } from "../shinzouVideos";
 
 const kaisouRoku6TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou6,
@@ -46,4 +47,5 @@ export const kaisouRoku6Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku6ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-7/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-5/",
+    videoLinks: [tsukiTomoriNoKiyuMade]
 }

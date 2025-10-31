@@ -10,6 +10,7 @@ import shinshouCBG4 from "../../assets/shinshou_c_bg4.png"
 import shinshouCBG5 from "../../assets/shinshou_c_bg5.png"
 import shinshouCBGSmall from "../../assets/shinshou_c_bg_small.jpg"
 import moon1 from "../../assets/moon1.png"
+import { kaisou } from "../shinzouVideos"
 
 const shinshouRokuCTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouCBGSmall,
@@ -47,4 +48,5 @@ export const shinshouRokuCData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuCChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-8/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-10/",
+    videoLinks: [kaisou]
 }

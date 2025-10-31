@@ -12,6 +12,7 @@ import shinshouDeltaBG5Small from "../../assets/shinshou_delta_bg5_small.png"
 import shinshouDeltaBG6 from "../../assets/shinshou_delta_bg6.png"
 import shinshouDeltaBG2Small from "../../assets/shinshou_delta_bg2_small.png"
 import moon1 from "../../assets/moon1.png"
+import { ikiruYosuga } from "../shinzouVideos"
 
 const shinshouRokuDeltaTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouRokuDelta,
@@ -52,4 +53,5 @@ export const shinshouRokuDeltaData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuDeltaChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-5/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-7/",
+    videoLinks: [ikiruYosuga]
 }

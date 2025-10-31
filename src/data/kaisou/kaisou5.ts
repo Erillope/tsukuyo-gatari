@@ -7,6 +7,7 @@ import kaisou5 from "../../assets/kaisou5.png";
 import kaisou5BG1 from "../../assets/kaisou5_bg1.png";
 import shinshouNBG3 from "../../assets/shinshou_n_bg3.png";
 import kaisou5BG2 from "../../assets/kaisou5_bg2.png";
+import { kureNiAkane } from "../shinzouVideos";
 
 const kaisouRoku5TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou5,
@@ -44,4 +45,5 @@ export const kaisouRoku5Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku5ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-6/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-4/",
+    videoLinks: [kureNiAkane]
 }

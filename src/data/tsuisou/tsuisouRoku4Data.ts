@@ -26,6 +26,7 @@ import tsuisou4BG11 from "../../assets/tsuisou4_bg11.png"
 import tsuisou4BG12 from "../../assets/tsuisou4_bg12.png"
 import tsuisou4BG13 from "../../assets/tsuisou4_bg13.png"
 import tsuisou4BG14 from "../../assets/tsuisou4_bg14.png"
+import { ikiruYosuga, kaisou } from "../shinzouVideos"
 
 const tsuisou4TitleData: ChapterTitleProps = {
     smallTitleImg: tsuisou4,
@@ -82,4 +83,5 @@ export const tsuisou4Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: tsuisou4ChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/tsuisouRoku/chapter-3/",
     nextChapterLink: "/shinzou/tsuisouRoku/chapter-5/",
+    videoLinks: [kaisou, ikiruYosuga]
 }

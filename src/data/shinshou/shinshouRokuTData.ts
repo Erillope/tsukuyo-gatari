@@ -10,6 +10,7 @@ import shinshouTBG3 from "../../assets/shinshou_t_bg3.png"
 import shinshouTBG4 from "../../assets/shinshou_t_bg4.png"
 import shinshouTB5 from "../../assets/shinshou_t_bg5.png"
 import shinshouTBG6 from "../../assets/shinshou_t_bg6.png"
+import { crescent } from "../shinzouVideos"
 
 const shinshouRokuTTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouT,
@@ -49,4 +50,5 @@ export const shinshouRokuTData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuTChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-11/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-13/",
+    videoLinks: [crescent]
 }

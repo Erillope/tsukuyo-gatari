@@ -17,6 +17,7 @@ import shinshouEBG11 from "../../assets/shinshou_e_bg11.png"
 import shinshouEBG12 from "../../assets/shinshou_e_bg12.png"
 import shinshouEBG13 from "../../assets/shinshou_e_bg13.png"
 import moon1 from "../../assets/moon1.png"
+import { shinSekaiKara } from "../shinzouVideos"
 
 const shinshouRokuETitleData: ChapterTitleProps = {
     smallTitleImg: shinshouE,
@@ -70,4 +71,5 @@ export const shinshouRokuEData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuEChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-7/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-9/",
+    videoLinks: [shinSekaiKara]
 }

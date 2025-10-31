@@ -11,6 +11,7 @@ import { LectureTitle } from "../components/LectureTitle";
 import { Video } from "../components/Video";
 import { ScrollLink } from "../components/ScrollLink";
 import MenuBar from "../components/MenuBar";
+import { CommentsView } from "../components/CommentsSection";
 
 export const Shinzou = () => {
 
@@ -29,6 +30,7 @@ export const Shinzou = () => {
             <ChapterSection {...kaisouSectionData} />
             <ChapterSection {...extraSectionData} />
             <VisualNovel />
+            <CommentsView />
         </Box>
     )
 }
@@ -86,7 +88,6 @@ const TeaserVideo = () => {
 const VisualNovel = () => {
     return <RBox display={'flex'} alignItems={'center'} flexDirection={'column'} width={'100%'} component="section" id="novela">
         <LectureTitle text="Novela Visual" />
-        <Box display={'flex'} flexDirection="column" alignItems="center"></Box>
         <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 }, width: '90%' }} />
         <LectureTypography variant="h3" className="title text-center mt-4">
             Memorias: Parte 1

@@ -1,4 +1,4 @@
-import { Box } from "@mui/material"
+import { Box, Divider } from "@mui/material"
 import { ChapterTitle, type ChapterTitleProps } from "../components/ChapterTitle"
 import { useEffect, useState } from "react"
 import { readBodyParagraphs, readFile } from "../hooks/reader"
@@ -7,6 +7,11 @@ import { ChapterContent, type ChapterBreakpoints } from "../components/ChapterCo
 import { LeftArrowButton, ListButton, RightArrowButton } from "../components/AnimatedButton"
 import { navigateTo } from "../hooks/redirect"
 import { useLocation } from "react-router-dom"
+import { RBox } from "../components/RBox"
+import { LectureTitle } from "../components/LectureTitle"
+import { LectureTypography } from "../components/RTypography"
+import { Video } from "../components/Video"
+import { CommentsView } from "../components/CommentsSection"
 
 export interface ShinshouRokuChapterProps {
     chapterFile: string;
@@ -23,6 +28,13 @@ export interface ShinshouRokuChapterProps {
     chapterSmallBreakpoints: ChapterBreakpoints[];
     nextChapterLink?: string;
     previousChapterLink?: string;
+    videoLinks?: VideoViewsProp[];
+}
+
+export interface VideoViewsProp {
+    videoLink: string;
+    title: string;
+    subtitle?: string;
 }
 
 export const ShinshouRokuChapter = (props: ShinshouRokuChapterProps) => {
@@ -36,6 +48,8 @@ export const ShinshouRokuChapter = (props: ShinshouRokuChapterProps) => {
                 smallBreakpoints={props.chapterSmallBreakpoints} />
             {tsukiMessage2.length > 0 && <TsukiMessage paragraphs={tsukiMessage2} {...props.tsukiMessage2Data} />}
             <ChaptersLink nextChapterLink={props.nextChapterLink} previousChapterLink={props.previousChapterLink} />
+            {props.videoLinks && <VideoViews videoViews={props.videoLinks} />}
+            <CommentsView />
         </Box>
     )
 }
@@ -45,17 +59,44 @@ const ChaptersLink = (props: { nextChapterLink?: string; previousChapterLink?: s
 
     const redirectTo = (link: string) => {
         navigate(link);
-        
+
     }
 
-    return <Box width={"100%"} display={'flex'} flexDirection={'row'} justifyContent={'space-around'} bgcolor={'black'}>
-        {props.previousChapterLink ? 
-        <LeftArrowButton width="10%" text="anterior" onClick={() => redirectTo(props.previousChapterLink??'/')} /> :
-        <div style={{ width: "10%" }} />}
-        <ListButton width="10%" text="Capítulos" onClick={() => redirectTo("/shinzou/")} />
-        {props.nextChapterLink ? 
-        <RightArrowButton width="10%" text="siguiente" onClick={() => redirectTo(props.nextChapterLink??'/')} /> :
-        <div style={{ width: "10%" }} />}
+    const width = { xs: '50%', lg: '10%' };
+
+    return <Box width={"100%"} display={'flex'} flexDirection={'row'} justifyContent={'space-around'} bgcolor={'black'}
+        paddingBottom={2} paddingTop={2}>
+        {props.previousChapterLink ?
+            <LeftArrowButton width={width} text="anterior" onClick={() => redirectTo(props.previousChapterLink ?? '/')} /> :
+            <Box sx={{ width: "10%" }} />}
+        <ListButton width={width} text="Capítulos" onClick={() => redirectTo("/shinzou/")} />
+        {props.nextChapterLink ?
+            <RightArrowButton width={width} text="siguiente" onClick={() => redirectTo(props.nextChapterLink ?? '/')} /> :
+            <Box sx={{ width: width }} />}
+    </Box>
+}
+
+const VideoViews = (props: { videoViews: VideoViewsProp[] }) => {
+    return <RBox display={'flex'} alignItems={'center'} flexDirection={'column'} width={'100%'}>
+        <LectureTitle text="Canciones relacionadas" />
+        {props.videoViews.map((view) => (
+            <Box key={view.videoLink} display="flex" flexDirection="column" alignItems="center" width={'100%'}>
+                <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 }, width: '90%' }} />
+                <VideoView {...view} />
+            </Box>
+        ))}
+    </RBox>
+}
+
+const VideoView = (props: VideoViewsProp) => {
+    return <Box display="flex" flexDirection="column" alignItems="center" width={'100%'} gap={2}>
+        <LectureTypography variant="h3">
+            {props.title}
+        </LectureTypography>
+        <LectureTypography variant="h5" sx={{ color: '#dddddd !important' }}>
+            {props.subtitle}
+        </LectureTypography>
+        <Video videoLink={props.videoLink} />
     </Box>
 }
 

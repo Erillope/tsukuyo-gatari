@@ -31,6 +31,7 @@ import tsuisouPBG3 from "../../assets/tsuisou_p_bg3.jpg"
 import tsuisou5BG16 from "../../assets/tsuisou5_bg16.png"
 import tsuisou5BG17 from "../../assets/tsuisou5_bg17.png"
 import tsuisou5BG18 from "../../assets/tsuisou5_bg18.png"
+import { tsukiTomoriNoKiyuMade } from "../shinzouVideos"
 
 const tsuisou5TitleData: ChapterTitleProps = {
     smallTitleImg: tsuisou5,
@@ -92,4 +93,5 @@ export const tsuisou5Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: tsuisou5ChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/tsuisouRoku/chapter-4/",
     nextChapterLink: "/shinzou/kaisouRoku/chapter-1/",
+    videoLinks: [tsukiTomoriNoKiyuMade]
 }

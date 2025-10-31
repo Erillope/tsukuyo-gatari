@@ -12,6 +12,7 @@ import moon1 from "../../assets/moon1.png"
 import type { ChapterBreakpoints } from "../../components/ChapterContent";
 import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
 import shinshouChpt2 from "../../traducciones/shinshou/chpt_2.txt";
+import { mahiruNoTsukiAkari } from "../shinzouVideos";
 
 const shinshouRokuBetaTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouBSmall,
@@ -52,4 +53,5 @@ export const shinshouRokuBetaData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuBetaChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/shinshouRoku/chapter-3/",
     previousChapterLink: "/shinzou/shinshouRoku/chapter-1/",
+    videoLinks: [mahiruNoTsukiAkari]
 }

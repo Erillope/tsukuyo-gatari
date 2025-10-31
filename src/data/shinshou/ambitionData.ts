@@ -8,6 +8,7 @@ import ambitionBGSmall from "../../assets/ambition_bg_small.png"
 import shinshouABG9Small from "../../assets/shinshou_a_bg9_small.png"
 import ambitionBG2Small from "../../assets/ambition_bg2_small.png"
 import moon1 from "../../assets/moon1.png"
+import { kalmia } from "../shinzouVideos"
 
 const ambitionTitleData: ChapterTitleProps = {
     smallTitleImg: ambition,
@@ -44,4 +45,5 @@ export const ambitionData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: ambitionChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/shinshouRoku/chapter-4/",
     previousChapterLink: "/shinzou/shinshouRoku/chapter-2/",
+    videoLinks: [kalmia]
 }

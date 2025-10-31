@@ -10,6 +10,7 @@ import coldBG3Small from "../../assets/cold_bg3_small.png"
 import coldBG4Small from "../../assets/cold_bg4_small.png"
 import coldBG5Small from "../../assets/cold_bg5_small.png"
 import moon1 from "../../assets/moon1.png"
+import { zettaiReido } from "../shinzouVideos"
 
 const coldTitleData: ChapterTitleProps = {
     smallTitleImg: coldBGSmall,
@@ -52,4 +53,5 @@ export const coldData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: coldChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-4/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-6/",
+    videoLinks: [zettaiReido]
 }

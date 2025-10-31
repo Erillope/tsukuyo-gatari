@@ -5,6 +5,7 @@ import { RBox } from "../components/RBox";
 import { RTypography } from "../components/RTypography";
 import { MySocialMedia, YurryCanonSocialMedia } from "../components/SocialMedia";
 import { CatalogoNovelas } from "../components/CatalogoNovelas";
+import { CommentsView } from "../components/CommentsSection";
 
 export const Home = () => {
     return (
@@ -13,6 +14,7 @@ export const Home = () => {
             <AboutThisPage />
             <AboutTheTraduction />
             <CatalogoNovelas />
+            <CommentsView />
         </Box>
     );
 }

@@ -6,6 +6,7 @@ import shinshouI from "../../assets/shinshou_i.png"
 import moon1 from "../../assets/moon1.png"
 import shinshouIBG1 from "../../assets/shinshou_i_bg1.png"
 import shinshouBBG5 from "../../assets/shinshou_b_bg5.png"
+import { konnaInochiGaNakereba } from "../shinzouVideos"
 
 const shinshouRokuITitleData: ChapterTitleProps = {
     smallTitleImg: shinshouI,
@@ -41,4 +42,5 @@ export const shinshouRokuIData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuIChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-13/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-15/",
+    videoLinks: [konnaInochiGaNakereba]
 }

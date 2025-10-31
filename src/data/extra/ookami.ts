@@ -9,6 +9,7 @@ import ookamiBG1 from "../../assets/ookami_bg1.png"
 import ookamiBG2 from "../../assets/ookami_bg2.png"
 import ookamiBG3 from "../../assets/ookami_bg3.png"
 import ookamiBG4 from "../../assets/ookami_bg4.png"
+import { ookamiVideo } from "../shinzouVideos";
 
 const ookamiTitleData: ChapterTitleProps = {
     smallTitleImg: extra3,
@@ -43,4 +44,5 @@ export const ookamiData: ShinshouRokuChapterProps = {
     chapterLargeBreakpoints: ookamiChapterLargeBreakpoints,
     chapterSmallBreakpoints: ookamiChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/extra/tetra/",
+    videoLinks: [ookamiVideo]
 }

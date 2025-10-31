@@ -11,6 +11,7 @@ import shinshouNBGSmall from "../../assets/shinshou_n_bg_small.png";
 import shinshouDeltaBG2Small from "../../assets/shinshou_delta_bg2_small.png";
 import kaisou11BG3 from "../../assets/kaisou11_bg3.png";
 import kaisou11BG4 from "../../assets/kaisou11_bg4.png";
+import { hanaNiAmeWo, iWantToBeYourHeart, tsukiGaMichiru } from "../shinzouVideos";
 
 const kaisouRoku11TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou11,
@@ -50,4 +51,5 @@ export const kaisouRoku11Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku11ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-12/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-10/",
+    videoLinks: [tsukiGaMichiru, hanaNiAmeWo, iWantToBeYourHeart]
 }

@@ -5,6 +5,7 @@ import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters";
 import kaisouChpt9 from "../../traducciones/kaisou/chpt_9.txt";
 import kaisou9 from "../../assets/kaisou9.jpg";
 import kaisou1BG2 from "../../assets/kaisou1_bg2.png";
+import { mahiruNoTsukiAkari } from "../shinzouVideos";
 
 const kaisouRoku9TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou9,
@@ -40,4 +41,5 @@ export const kaisouRoku9Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku9ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-10/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-8/",
+    videoLinks: [mahiruNoTsukiAkari]
 }

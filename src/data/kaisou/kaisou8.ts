@@ -11,6 +11,7 @@ import kaisou8BG3 from "../../assets/kaisou8_bg3.png";
 import kaisou8BG4 from "../../assets/kaisou8_bg4.png";
 import kaisou8BG5 from "../../assets/kaisou8_bg5.png";
 import kaisou8BG6 from "../../assets/kaisou8_bg6.png";
+import { ifu } from "../shinzouVideos";
 
 const kaisouRoku8TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou8,
@@ -49,4 +50,5 @@ export const kaisouRoku8Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku8ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-9/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-7/",
+    videoLinks: [ifu]
 }

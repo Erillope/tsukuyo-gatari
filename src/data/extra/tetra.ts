@@ -12,6 +12,7 @@ import tetraBG5 from "../../assets/tetra_bg5.png"
 import tetraBG6 from "../../assets/tetra_bg6.png"
 import tetraBG7 from "../../assets/tetra_bg7.png"
 import tetraBG8 from "../../assets/tetra_bg8.png"
+import { tetraVideo } from "../shinzouVideos";
 
 const tetraTitleData: ChapterTitleProps = {
     smallTitleImg: tetraBG,
@@ -54,4 +55,5 @@ export const tetraData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: tetraChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/extra/ookami/",
     previousChapterLink: "/shinzou/extra/veronica/",
+    videoLinks: [tetraVideo]
 }

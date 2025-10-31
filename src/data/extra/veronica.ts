@@ -10,6 +10,7 @@ import shinshouVBG3 from "../../assets/shinshou_v_bg3.jpg"
 import veronicaBG2 from "../../assets/veronica_bg2.png"
 import veronicaBG3 from "../../assets/veronica_bg3.png"
 import veronicaBG4 from "../../assets/veronica_bg4.png"
+import { veronicaVideo } from "../shinzouVideos";
 
 const veronicaTitleData: ChapterTitleProps = {
     smallTitleImg: extra1,
@@ -50,4 +51,5 @@ export const veronicaData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: veronicaChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/extra/tetra/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-12/",
+    videoLinks: [veronicaVideo]
 }

@@ -14,6 +14,7 @@ import dawnBG3 from "../../assets/dawn_bg3.png"
 import dawnBG4 from "../../assets/dawn_bg4.png"
 import dawnBG5 from "../../assets/dawn_bg5.png"
 import dawnBG6 from "../../assets/dawn_bg6.png"
+import { konnaInochiGaNakereba } from "../shinzouVideos"
 
 const dawnTitleData: ChapterTitleProps = {
     smallTitleImg: dawnBGSmall,
@@ -60,4 +61,5 @@ export const dawnData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: dawnChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-9/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-11/",
+    videoLinks: [konnaInochiGaNakereba]
 }

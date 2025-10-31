@@ -13,6 +13,7 @@ import emergeBG6 from "../../assets/emerge_bg6.png"
 import emergeBG7 from "../../assets/emerge_bg7.png"
 import emergeBG8 from "../../assets/emerge_bg8.png"
 import moon1 from "../../assets/moon1.png"
+import { nekropolis } from "../shinzouVideos"
 
 const emergeTitleData: ChapterTitleProps = {
     smallTitleImg: emergeBGSmall,
@@ -53,4 +54,5 @@ export const emergeData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: emergeChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-6/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-8/",
+    videoLinks: [nekropolis]
 }

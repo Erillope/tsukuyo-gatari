@@ -6,6 +6,7 @@ import shinshouY from "../../assets/shinzou_y.png"
 import shinzouYBG from "../../assets/shinshou_y_bg.png"
 import shinshouYBG2Small from "../../assets/shinshou_y_bg2_small.png"
 import moon1 from "../../assets/moon1.png"
+import { ifu } from "../shinzouVideos"
 
 const shinshouRokuYTitleData: ChapterTitleProps = {
     smallTitleImg: shinzouYBG,
@@ -39,4 +40,5 @@ export const shinshouRokuYData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuYChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-3/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-5/",
+    videoLinks: [ifu]
 }

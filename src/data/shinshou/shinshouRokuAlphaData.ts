@@ -21,6 +21,7 @@ import shinshouABG12Small from "../../assets/shinshou_a_bg12_small.png"
 import type { ShinshouRokuChapterProps } from "../../pages/ShinshouChapters"
 import type { ChapterTitleProps } from "../../components/ChapterTitle"
 import type { ChapterBreakpoints } from "../../components/ChapterContent"
+import { tsukiTomoriNoKiyuMade } from "../shinzouVideos"
 
 const shinshouRokuAlphaTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouASmall,
@@ -69,4 +70,5 @@ export const shinshouRokuAlphaData: ShinshouRokuChapterProps = {
     chapterLargeBreakpoints: shinshouRokuAlphaChapterLargeBreakpoints,
     chapterSmallBreakpoints: shinshouRokuAlphaChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/shinshouRoku/chapter-2/",
+    videoLinks: [tsukiTomoriNoKiyuMade]
 }

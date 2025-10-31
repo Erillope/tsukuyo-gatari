@@ -23,6 +23,7 @@ import tsuisouPBG3 from "../../assets/tsuisou_p_bg3.jpg";
 import shinshouABG8Small from "../../assets/shinshou_a_bg8_small.png";
 import kaisou10BG10 from "../../assets/kaisou10_bg10.png";
 import kaisou10BG11 from "../../assets/kaisou10_bg11.png";
+import { byakuya, hanaToCHiru } from "../shinzouVideos";
 
 const kaisouRoku10TitleData: ChapterTitleProps = {
     smallTitleImg: kaisou10BGSmall,
@@ -74,4 +75,5 @@ export const kaisouRoku10Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: kaisouRoku10ChapterSmallBreakpoints,
     nextChapterLink: "/shinzou/kaisouRoku/chapter-11/",
     previousChapterLink: "/shinzou/kaisouRoku/chapter-9/",
+    videoLinks: [byakuya, hanaToCHiru]
 }

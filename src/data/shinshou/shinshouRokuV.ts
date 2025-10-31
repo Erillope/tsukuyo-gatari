@@ -6,6 +6,7 @@ import shinshouV from "../../assets/shinshou_v.jpg"
 import shinshouVBG1 from "../../assets/shinshou_v_bg1.png"
 import shinshouVBG2 from "../../assets/shinshou_v_bg2.jpg"
 import shinshouVBG3 from "../../assets/shinshou_v_bg3.jpg"
+import { konnaInochiGaNakereba } from "../shinzouVideos"
 
 const shinshouRokuVTitleData: ChapterTitleProps = {
     smallTitleImg: shinshouV,
@@ -45,4 +46,5 @@ export const shinshouRokuVData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: shinshouRokuVChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-14/",
     nextChapterLink: "/shinzou/tsuisouRoku/chapter-0/",
+    videoLinks: [konnaInochiGaNakereba]
 }

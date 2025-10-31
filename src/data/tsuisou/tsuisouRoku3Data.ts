@@ -24,6 +24,7 @@ import tsuisou3BG13 from "../../assets/tsuisou3_bg13.png"
 import tsuisou3BG14 from "../../assets/tsuisou3_bg14.png"
 import tsuisou3BG15 from "../../assets/tsuisou3_bg15.png"
 import tsuisou3BG16 from "../../assets/tsuisou3_bg16.png"
+import { yodaka } from "../shinzouVideos"
 
 const tsuisou3TitleData: ChapterTitleProps = {
     smallTitleImg: tsuisou3,
@@ -80,4 +81,5 @@ export const tsuisou3Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: tsuisou3ChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/tsuisouRoku/chapter-2/",
     nextChapterLink: "/shinzou/tsuisouRoku/chapter-4/",
+    videoLinks: [yodaka]
 }

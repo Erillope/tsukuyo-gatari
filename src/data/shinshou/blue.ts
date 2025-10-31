@@ -8,6 +8,7 @@ import blue1 from "../../assets/blue_bg1.png"
 import blue2 from "../../assets/blue_bg2.png"
 import blue3 from "../../assets/blue_bg3.png"
 import blue4 from "../../assets/blue_bg4.png"
+import { yoruNiAi } from "../shinzouVideos"
 
 const blueTitleData: ChapterTitleProps = {
     smallTitleImg: blue,
@@ -45,4 +46,5 @@ export const blueData: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: blueChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/shinshouRoku/chapter-12/",
     nextChapterLink: "/shinzou/shinshouRoku/chapter-14/",
+    videoLinks: [yoruNiAi]
 }

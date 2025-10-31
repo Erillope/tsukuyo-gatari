@@ -22,6 +22,7 @@ import tsuisou1BG7Small from "../../assets/tsuisou1_bg7_small.png"
 import tsuisou1BG11 from "../../assets/tsuisou1_bg11.png"
 import tsuisou1BG12 from "../../assets/tsuisou1_bg12.png"
 import moon2 from "../../assets/moon2.jpg"
+import { crescent, yodaka } from "../shinzouVideos"
 
 const tsuisou1TitleData: ChapterTitleProps = {
     smallTitleImg: tsuisou1,
@@ -74,4 +75,5 @@ export const tsuisou1Data: ShinshouRokuChapterProps = {
     chapterSmallBreakpoints: tsuisou1ChapterSmallBreakpoints,
     previousChapterLink: "/shinzou/tsuisouRoku/chapter-0/",
     nextChapterLink: "/shinzou/tsuisouRoku/chapter-2/",
+    videoLinks: [crescent, yodaka]
 }
