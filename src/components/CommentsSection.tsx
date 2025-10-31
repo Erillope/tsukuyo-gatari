@@ -14,21 +14,27 @@ import icon8 from "../assets/icon8.png"
 import icon9 from "../assets/icon9.png"
 import { useEffect, useState } from "react"
 import { LectureTitle } from "./LectureTitle"
+import { useReadComments } from "../hooks/reader"
 
 export const CommentsView = () => {
+    const { comments, addComment } = useReadComments();
+    
     return <Box display={'flex'} alignItems={'center'} flexDirection={'column'} width={'100%'} gap={2}
         paddingLeft={{ xs: 1, lg: 10 }} paddingRight={{ xs: 1, lg: 10 }} marginBottom={5}>
         <LectureTitle text="Comentarios" />
-        <CommentsSection />
+        <CommentsSection addComment={addComment} comments={comments} />
     </Box>
 }
 
-export const CommentsSection = () => {
+export const CommentsSection = (props: { addComment?: (comment: CommentProps) => void, comments: CommentProps[] }) => {
     const opacity = 0.7;
-    const [comments, setComments] = useState<CommentProps[]>([]);
+    const [comments, setComments] = useState<CommentProps[]>(props.comments || []);
+    
+    useEffect(() => setComments(props.comments || []), [props.comments]);
 
     const submitComment = (comment: CommentProps) => {
         setComments((prevComments) => [comment, ...prevComments]);
+        props.addComment?.(comment);
     }
 
     return <Box width={'100%'} border={1} borderRadius={'20px'} gap={2} display={'flex'} flexDirection={'column'}
@@ -103,7 +109,7 @@ const IconSelect = (props: { icons: string[], icon: string, setIcon: (icon: stri
     </Box>
 }
 
-interface CommentProps {
+export interface CommentProps {
     datetime: Date;
     nickName: string;
     commentText: string;
