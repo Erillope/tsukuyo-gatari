@@ -1,9 +1,15 @@
+
+const normalizeLineEndings = (text: string): string => {
+    return text.split('\r\n').join('\n').split('\r').join('\n');
+}
+
 export const readFile = async (file: string): Promise<string> => {
     let content: string = "";
 
     try {
         const res = await fetch(file);
-        content = await res.text()
+        const rawContent = await res.text();
+        content = normalizeLineEndings(rawContent);
     } catch (err) {
         console.error('Error al leer el archivo:', err);
     }
@@ -21,7 +27,7 @@ export interface SumaryInfo {
 
 export const readSummaryFile = async (file: string): Promise<SumaryInfo> => {
     const data = await readFile(file);
-    const content = data.split('\n').map(l => l.replace('\r', ''));
+    const content = data.split('\n');
 
     return {
         engTitle: content[0] || '',
@@ -33,5 +39,5 @@ export const readSummaryFile = async (file: string): Promise<SumaryInfo> => {
 }
 
 export const readBodyParagraphs = (paragraph: string): string[] => {
-    return paragraph.split('\r\n\r\n').map(p => p.trim()).filter(p => p !== '');
+    return paragraph.split('\n\n').map(p => p.trim()).filter(p => p !== '');
 }

@@ -38,7 +38,7 @@ export const ikiruYosuga : VideoViewsProp = {
 
 export const nekropolis: VideoViewsProp = {
     videoLink: "https://www.youtube.com/embed/Zd25wIFJhIo?si=T0u4BRKC0qw92LkA",
-    title: "Nekrópolis",
+    title: "Necrópolis",
     subtitle: "ネクロポリス",
 }
 
