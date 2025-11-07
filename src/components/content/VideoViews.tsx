@@ -22,7 +22,7 @@ export const VideoViews = (props: { videoViews: VideoViewsProp[] }) => {
     </RBox>
 }
 
-export const VideoView = (props: VideoViewsProp) => {
+const VideoView = (props: VideoViewsProp) => {
     return <Box display="flex" flexDirection="column" alignItems="center" width={'100%'} gap={2}>
         <LectureTypography variant="h3">
             {props.title}

@@ -7,8 +7,8 @@ import { Introduction } from "../components/content/Introduction";
 import {MenuBar} from "../components/layout/MenuBar";
 import shinzouCommentBG from "../assets/shinzou_comment_bg.jpg"
 import { CommentsView } from "../components/comment/CommentsView";
-import { InfoChapters } from "../components/content/shinzou/infoChapters";
-import { TraductionDetails } from "../components/content/shinzou/traductionDetails";
+import { InfoChapters } from "../components/content/shinzou/InfoChapters";
+import { TraductionDetails } from "../components/content/shinzou/TraductionDetails";
 import { VisualNovel } from "../components/content/shinzou/VisualNovel";
 import { ShinzouChapters, TeaserVideo } from "../components/content/shinzou/ShinzouChapters";
 

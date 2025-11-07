@@ -15,7 +15,8 @@ import icon6 from "../assets/icon6.png"
 import icon7 from "../assets/icon7.png"
 import icon8 from "../assets/icon8.png"
 import icon9 from "../assets/icon9.png"
-import type { CatalogoNovelasProps, NovelResumeProps } from "../components/content/CatalogoNovelas";
+import type { CatalogoNovelasProps } from "../components/content/CatalogoNovelas";
+import type { NovelResumeProps } from "../components/content/NovelResume"
 
 const shinzouResumeData: NovelResumeProps = {
     sumaryFile: shinzouSummary,

@@ -1,4 +1,4 @@
-import type { VideoViewsProp } from "../pages/ChaptersPage";
+import type { VideoViewsProp } from "../components/content/VideoViews"
 
 export const tsukiTomoriNoKiyuMade: VideoViewsProp = {
     videoLink: "https://www.youtube.com/embed/RugdREg69Nc?si=GB63KrqtLzUvQyGZ",
