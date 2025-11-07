@@ -1,5 +1,5 @@
-import type { ChapterBreakpoints } from "../../components/ChapterContent"
-import type { ChapterTitleProps } from "../../components/ChapterTitle"
+import type { ChapterBreakpoints } from "../../components/content/ChapterContent"
+import type { ChapterTitleProps } from "../../components/content/ChapterTitle"
 import type { ChapterPageProps } from "../../pages/ChaptersPage"
 import tsuisouChpt1 from "../../traducciones/tsuisou/chpt_1.txt"
 import tsuisou1 from "../../assets/tsuisou_1.png"

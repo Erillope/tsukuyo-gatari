@@ -1,4 +1,4 @@
-import type { ChapterTitleProps } from "../../components/ChapterTitle";
+import type { ChapterTitleProps } from "../../components/content/ChapterTitle";
 import shinshouB2 from "../../assets/shinshou_b2.jpg";
 import shinshouBSmall from "../../assets/shinshou_b_small.jpg";
 import shinshouBBG1 from "../../assets/shinshou_b_bg1.png"
@@ -9,7 +9,7 @@ import shinshouBBG5 from "../../assets/shinshou_b_bg5.png"
 import shinshouBBG3Small from "../../assets/shinshou_b_bg3_small.png"
 import shinshouABG11Small from "../../assets/shinshou_a_bg11_small.png"
 import moon1 from "../../assets/moon1.png"
-import type { ChapterBreakpoints } from "../../components/ChapterContent";
+import type { ChapterBreakpoints } from "../../components/content/ChapterContent";
 import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import shinshouChpt2 from "../../traducciones/shinshou/chpt_2.txt";
 import { mahiruNoTsukiAkari } from "../shinzouVideos"

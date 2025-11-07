@@ -1,6 +1,6 @@
-import type { ChapterTitleProps } from "../../components/ChapterTitle";
+import type { ChapterTitleProps } from "../../components/content/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
-import type { ChapterBreakpoints } from "../../components/ChapterContent";
+import type { ChapterBreakpoints } from "../../components/content/ChapterContent";
 import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import tetraChpt from "../../traducciones/extra/extra_2.txt";
 import tetraBG from "../../assets/tetra_bg.png"

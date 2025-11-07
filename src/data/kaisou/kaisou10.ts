@@ -1,6 +1,6 @@
-import type { ChapterTitleProps } from "../../components/ChapterTitle";
+import type { ChapterTitleProps } from "../../components/content/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
-import type { ChapterBreakpoints } from "../../components/ChapterContent";
+import type { ChapterBreakpoints } from "../../components/content/ChapterContent";
 import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import kaisouChpt10 from "../../traducciones/kaisou/chpt_10.txt";
 import kaisou10 from "../../assets/kaisou10.png";

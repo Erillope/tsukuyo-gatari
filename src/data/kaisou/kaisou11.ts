@@ -1,6 +1,6 @@
-import type { ChapterTitleProps } from "../../components/ChapterTitle";
+import type { ChapterTitleProps } from "../../components/content/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
-import type { ChapterBreakpoints } from "../../components/ChapterContent";
+import type { ChapterBreakpoints } from "../../components/content/ChapterContent";
 import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import kaisouChpt11 from "../../traducciones/kaisou/chpt_11.txt";
 import kaisou11 from "../../assets/kaisou11.png";
@@ -19,7 +19,7 @@ const kaisouRoku11TitleData: ChapterTitleProps = {
     largeTitleImg: kaisou11,
     jpTitle: "廻想録",
     romajiTitle: "Kaisou Roku",
-    esTitle: "Capítulo 11: Reminiscencias IV",
+    esTitle: "Capítulo final: Reminiscencias IV",
     videoLink: "https://www.youtube.com/watch?v=2Q9o9kUZXRI"
 }
 

@@ -1,6 +1,6 @@
-import type { ChapterTitleProps } from "../../components/ChapterTitle";
+import type { ChapterTitleProps } from "../../components/content/ChapterTitle";
 import moon3 from "../../assets/moon3.jpg"
-import type { ChapterBreakpoints } from "../../components/ChapterContent";
+import type { ChapterBreakpoints } from "../../components/content/ChapterContent";
 import type { ChapterPageProps } from "../../pages/ChaptersPage";
 import ookamiChpt from "../../traducciones/extra/extra_3.txt";
 import extra3 from "../../assets/extra3.jpg";

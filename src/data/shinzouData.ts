@@ -34,15 +34,15 @@ import kaisou12 from "../assets/kaisou12.png"
 import extra1 from "../assets/extra1.png"
 import extra2 from "../assets/extra2.png"
 import extra3 from "../assets/extra3.jpg"
-import type { ChapterSectionProps } from "../components/ChapterSection"
+import type { ChapterSectionProps } from "../components/content/ChapterSection"
 import shinshouSummary from "../traducciones/shinshou_summary.txt"
 import tsuisouSummary from "../traducciones/tsuisou_summary.txt"
 import kaisouSummary from "../traducciones/kaisou_summary.txt"
 import extraSummary from "../traducciones/extra_summary.txt"
-import type { NovelTitleProps } from "../components/NovelTitle"
+import type { NovelTitleProps } from "../components/content/NovelTitle"
 import shinzouBSmall from "../assets/heart4.png"
 import shinzouBG from "../assets/heart3.png"
-import type { MenuOptionData } from "../components/MenuBar"
+import type { MenuOptionData } from "../components/layout/MenuBar"
 
 const shinshouChaptersImages = [shinshouA, shinshouB, ambition, shinzouY, cold, shinshouDelta, emerge,
         shinshouE, shinshouC, dawn, shinshouN, shinshouT, blue, shinshouI, shinshouV];

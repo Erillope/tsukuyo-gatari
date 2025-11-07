@@ -171,3 +171,64 @@
 .menu-button-light:hover {
     box-shadow: 0 0 7px white, 0 0 14px white;
 }
+
+.comment-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+.comment-content {
+    background-color: rgba(255, 255, 255, 0.05);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.comment-section {
+    width: 100%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.write-comment-box {
+    background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.input-text .MuiOutlinedInput-root {
+    border-radius: 20px;
+}
+
+.input-text .MuiOutlinedInput-root fieldset {
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.input-text .MuiOutlinedInput-root:hover fieldset {
+    border-color: gray;
+}
+
+.input-text .MuiOutlinedInput-root.Mui-focused fieldset {
+    border-color: white;
+}
+
+.input-text .MuiOutlinedInput-root .MuiInputBase-input::placeholder {
+    color: gray;
+    opacity: 0.5;
+}
+
+.input-text .MuiOutlinedInput-root .MuiInputBase-input {
+    color: white;
+    font-family: "Marcellus", "Roboto", sans-serif;
+    text-shadow: 1px 1px 2px black;
+}
