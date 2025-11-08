@@ -1,5 +1,5 @@
 import { ChapterSection } from "../ChapterSection"
-import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData } from "../../../data/shinzouData"
+import { shinshouSectionData, tsuisouSectionData, kaisouSectionData, extraSectionData } from "../../../data/shinzou/shinzouData"
 import { LectureTitle } from "../../ui/LectureTitle"
 import { RBox } from "../../ui/RBox"
 import { Video } from "../../ui/Video"

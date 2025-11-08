@@ -31,14 +31,13 @@ const MenuButtons = ({ isOpen, setIsOpen }: { isOpen: boolean, setIsOpen: (isOpe
 
 const MenuModal = ({ isOpen, setIsOpen, options }: { isOpen: boolean, setIsOpen: (isOpen: boolean) => void, options: MenuOptionData[] }) => {
     return <Modal open={isOpen} onClose={() => setIsOpen(false)} sx={{
-
         "& .MuiBackdrop-root": {
             backgroundColor: "rgba(0, 0, 0, 0.8)",
         },
     }}
         closeAfterTransition
     >
-        <Fade in={isOpen} timeout={1000}>
+        <Fade in={isOpen} timeout={1000} >
             <Box>
                 <MoonButton />
                 <MenuButton isOpen={isOpen} setIsOpen={setIsOpen} />
@@ -57,8 +56,8 @@ export interface MenuOptionData {
 const MenuOptions = ({ close, options }: { close: () => void, options: MenuOptionData[] }) => {
     const navigate = navigateTo();
     return (
-        <Box component={'header'} sx={{ position: 'absolute' }} display={'flex'} flexDirection={'column'} alignItems={'center'} justifyContent={'center'} width={'100%'} height={'100%'}>
-            <Box component={'nav'} display={'flex'} flexDirection={'column'} alignItems={'center'} gap={5}>
+        <Box component={'header'} sx={{ position: 'absolute' }} display={'flex'} flexDirection={'column'} alignItems={'center'} justifyContent={'center'} width={'100%'} height={'100%'} >
+            <Box component={'nav'} display={'flex'} flexDirection={'column'} alignItems={'center'}  gap={5} maxWidth={"70%"} sx={{overflowY: "auto"}}>
                 <MenuOption to="home" text="Home" close={() => { close(); navigate("/") }} />
                 {options.map((option) => (
                     <MenuOption key={option.to} to={option.to} text={option.text} close={close} />

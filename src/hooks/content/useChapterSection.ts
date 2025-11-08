@@ -8,14 +8,15 @@ export const useChapterSection = (props: ChapterSectionProps) => {
 
     const init = async () => {
         const chaptersData = await readFile(props.summaryFilePath)
-        const chapters = chaptersData.split("/*/").map((chapter, index) => {
+        const chapters: ChaptersData[] = chaptersData.split("/*/").map((chapter, index) => {
             const data = chapter.trim();
             const title = data.split("\n")[0].trim();
 
             const summary = readBodyParagraphs(data.split("\n").slice(1).join("\n").trim());
             return {
                 title, summary, image: props.chaptersImages[index], novel: props.novelTitle,
-                videoLink: props.chaptersVideos[index], to: props.chaptersLinks?.[index]
+                videoLink: props.chaptersVideos[index], to: props.chaptersLinks?.[index],
+                sectionLink: props.subsectionsLinks?.[index]
             };
         });
         setChapters(chapters);

@@ -15,6 +15,7 @@ export interface ChapterSectionProps {
     jpTitle: string;
     esTitle: string;
     sectionId: string;
+    subsectionsLinks?: string[];
 }
 
 export const ChapterSection = (props: ChapterSectionProps) => {

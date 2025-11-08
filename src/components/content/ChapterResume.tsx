@@ -12,6 +12,7 @@ export interface ChaptersData {
     summary: string[];
     videoLink?: string;
     to?: string;
+    sectionLink?: string;
 }
 
 export const ChapterResume = (props: ChaptersData) => {
@@ -24,7 +25,7 @@ export const ChapterResume = (props: ChaptersData) => {
     }
 
     return (
-        <Box display={"flex"} flexDirection={{ xs: 'column', md: 'row' }} gap={{ xs: 2, md: 6 }} width={'100%'}>
+        <Box display={"flex"} flexDirection={{ xs: 'column', md: 'row' }} gap={{ xs: 2, md: 6 }} width={'100%'} component={'section'} id={props.sectionLink}>
             <Image src={props.image} sx={{ width: { xs: '100%', md: '100%' }, height: '100%' }} to={props.videoLink} />
             <Box display={"flex"} flexDirection="column" width={'100%'}>
                 <LectureTypography variant="h6">{props.novel}</LectureTypography>
