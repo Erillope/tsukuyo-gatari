@@ -21,7 +21,7 @@ export const CommentsSection = (props: CommentsSectionProps) => {
         sx={{ backgroundImage: backgroundImage, backgroundPosition: props.bgPosition }}>
         <WriteComment submit={submitComment} />
         {comments.length === 0 ?
-            <Box><LectureTypography>No hay comentarios aún. Sé el primero en comentar :).</LectureTypography></Box> :
+            <Box padding={1}><LectureTypography>No hay comentarios aún. Sé el primero en comentar :).</LectureTypography></Box> :
             comments.map((comment) => (
                 <Comment key={comment.datetime.toISOString()} {...comment} />
             ))}

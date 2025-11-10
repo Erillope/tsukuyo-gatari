@@ -35,7 +35,12 @@ const sorekamiVideos: string[] = [
     "https://www.youtube.com/watch?v=eSpqMUOvRkw",
 ];
 
-export const sorekamiSubsectionsLinks: string[] = ["chpt1", "", "chpt2", "", "chpt3", "", "chpt4", "", "chpt5", "", "chpt6", ""];
+const sorekamiSubsectionsLinks: string[] = ["chpt1", "", "chpt2", "", "chpt3", "", "chpt4", "", "chpt5", "", "chpt6", ""];
+
+const sorekamiChaptersLinks: string[] = [
+    "chapter-1", "chapter-1-04", "chapter-2-307", "chapter-2", "chapter-3-04", "chapter-3", "chapter-4-05",
+    "chapter-4", "chapter-5-01", "chapter-5", "chapter-6", "chapter-7"
+];
 
 export const novelTitleData: NovelTitleProps = {
     smallTitleImg: sorekamiBGSmall,
@@ -56,7 +61,7 @@ export const sorekamiSummary: ChapterSectionProps = {
     jpTitle: "それを僕らは神様と呼ぶ",
     esTitle: "Eso es a lo que llamamos una deidad",
     sectionId: "sorekami",
-    chaptersLinks: [],
+    chaptersLinks: sorekamiChaptersLinks,
     subsectionsLinks: sorekamiSubsectionsLinks
 }
 

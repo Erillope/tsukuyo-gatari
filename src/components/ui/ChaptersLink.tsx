@@ -2,7 +2,13 @@ import { Box } from "@mui/material";
 import { navigateTo } from "../../hooks/redirect";
 import { LeftArrowButton, ListButton, RightArrowButton } from "./AnimatedButton";
 
-export const ChaptersLink = (props: { nextChapterLink?: string; previousChapterLink?: string }) => {
+export interface ChaptersLinkProps {
+    nextChapterLink?: string;
+    previousChapterLink?: string;
+    listChaptersLink?: string;
+}
+
+export const ChaptersLink = (props: ChaptersLinkProps) => {
     const navigate = navigateTo();
 
     const redirectTo = (link: string) => {
@@ -16,7 +22,7 @@ export const ChaptersLink = (props: { nextChapterLink?: string; previousChapterL
         {props.previousChapterLink ?
             <LeftArrowButton width={width} text="anterior" onClick={() => redirectTo(props.previousChapterLink ?? '/')} /> :
             <Box sx={{ width: "10%" }} />}
-        <ListButton width={width} text="Capítulos" onClick={() => redirectTo("/shinzou/")} />
+        <ListButton width={width} text="Capítulos" onClick={() => redirectTo(props.listChaptersLink ?? '/shinzou/')} />
         {props.nextChapterLink ?
             <RightArrowButton width={width} text="siguiente" onClick={() => redirectTo(props.nextChapterLink ?? '/')} /> :
             <Box sx={{ width: width }} />}

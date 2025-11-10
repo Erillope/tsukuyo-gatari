@@ -22,13 +22,14 @@ export interface ChapterPageProps {
     chapterSmallBreakpoints: ChapterBreakpoints[];
     nextChapterLink?: string;
     previousChapterLink?: string;
+    listChaptersLink?: string;
     videoLinks?: VideoViewsProp[];
     commentsSection?: CommentsViewProps;
 }
 
 export const ChapterPage = (props: ChapterPageProps) => {
     const { paragraphs, tsukiMessage1, tsukiMessage2 } = useChapter({ chapterFile: props.chapterFile });
-
+    
     return (
         <Box width="100vw" component="main" display={'flex'} flexDirection={'column'}>
             <ChapterTitle {...props.titleData} />
@@ -36,7 +37,7 @@ export const ChapterPage = (props: ChapterPageProps) => {
             <ChapterContent paragraphs={paragraphs} largeBreakpoints={props.chapterLargeBreakpoints}
                 smallBreakpoints={props.chapterSmallBreakpoints} />
             {tsukiMessage2.length > 0 && props.tsukiMessage2Data && <TsukiMessage paragraphs={tsukiMessage2} {...props.tsukiMessage2Data} />}
-            <ChaptersLink nextChapterLink={props.nextChapterLink} previousChapterLink={props.previousChapterLink} />
+            <ChaptersLink nextChapterLink={props.nextChapterLink} previousChapterLink={props.previousChapterLink} listChaptersLink={props.listChaptersLink} />
             {props.videoLinks && <VideoViews videoViews={props.videoLinks} />}
             <CommentsView {...props.commentsSection} />
         </Box>
