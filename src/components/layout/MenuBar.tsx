@@ -1,8 +1,8 @@
 import { ScrollLink } from "./ScrollLink";
 import "../../styles.css";
-import menuImg from "../../assets/menu.png";
-import closeImg from "../../assets/close.png";
-import arrowImg from "../../assets/arrow.png";
+import menuImg from "../../../public/assets/menu.png";
+import closeImg from "../../../public/assets/close.png";
+import arrowImg from "../../../public/assets/arrow.png";
 import { Box, Fade, Modal } from "@mui/material";
 import { useState } from "react";
 import { LectureTypography } from "../ui/RTypography";

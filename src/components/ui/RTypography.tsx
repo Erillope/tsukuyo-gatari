@@ -3,10 +3,10 @@ import { type TypographyProps } from "@mui/material"
 import { useRTypography } from "../../hooks/ui/useRTypography";
 
 export interface RTypographyProps extends TypographyProps {
-    variant?: 'body1' | 'h3' | 'h5';
+    ignoreParse?: boolean;
 }
 
-export const RTypography = (props: TypographyProps) => {
+export const RTypography = (props: RTypographyProps) => {
     const { ref, getStyle, parsedChildren } = useRTypography({ variant: props.variant, text: props.children as string });
 
     return (
@@ -17,12 +17,12 @@ export const RTypography = (props: TypographyProps) => {
                 ...props.sx
             }}
         >
-            {parsedChildren}
+            {props.ignoreParse ? props.children : parsedChildren}
         </Typography>
     )
 }
 
-export const LectureTypography = (props: TypographyProps) => {
+export const LectureTypography = (props: RTypographyProps) => {
     return <RTypography
         {...props}
         sx={{ color: props.color ?? "white !important", textShadow: '1px 1px 2px black', ...props.sx }}>

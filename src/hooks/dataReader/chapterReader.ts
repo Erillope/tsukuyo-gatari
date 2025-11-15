@@ -45,7 +45,7 @@ export const useChapterData = (props: { filePath: string }) => {
     const getTsukiMessageData = (tsukiMessageData: any): { breakpoint: number; moonImageSrc?: string } => {
         return {
             breakpoint: tsukiMessageData.breakpoint,
-            moonImageSrc: getFromPublicImageFolder(tsukiMessageData.moonImageSrc)
+            moonImageSrc: getFromPublicImageFolder("assets/" + tsukiMessageData.moonImageSrc)
         }
     }
 

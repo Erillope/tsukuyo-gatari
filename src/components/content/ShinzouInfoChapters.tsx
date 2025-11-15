@@ -10,7 +10,7 @@ export const ShinzouInfoChapters = () => {
             <Box display={"flex"} flexDirection="row" width={'100%'} justifyContent="center" alignItems="center">
                 <LectureTitle text="Secciones" />
             </Box>
-            <LectureTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
+            <LectureTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line" ignoreParse>
                 Esta novela se divide en 3 partes:
                 <br /><br /> La parte 1 <ScrollLink to="shinshou">"Shinshou Roku"(Imágenes mentales)</ScrollLink> pertenece al primer album de Tsukuyomi "Kaketa shinzou, yono yosuga" (Mis rotas imágenes mentales, la razón de este mundo)
                 <br /><br /> La parte 2 <ScrollLink to="tsuisou">"Tsuisou Roku"(Imágenes retrospectivas)</ScrollLink> pertenece al fan club de Tsukuyomi "Tsuki no ura"

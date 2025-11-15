@@ -5,7 +5,7 @@
 }
 
 .black-bg {
-    background: url("./assets/bg.jpg") center top / 100% repeat-y;
+    background: url("/public/assets/bg.jpg") center top / 100% repeat-y;
     width: 100%;
 }
 
@@ -38,7 +38,7 @@
 .shinzou-bg {
     background:
         linear-gradient(to right, rgba(0, 0, 0, 0.8) 40%, transparent 100%),
-        url("./assets/heart3.png") right center / cover no-repeat !important;
+        url("/public/assets/heart3.png") right center / cover no-repeat !important;
 
     background-blend-mode: normal !important;
 

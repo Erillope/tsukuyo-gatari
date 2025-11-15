@@ -1,6 +1,6 @@
 import { Avatar, Box, type BoxProps } from "@mui/material";
 import { useStartTransition } from "../../hooks/useStartTransition";
-import playIcon from "../../assets/play.png"
+import playIcon from "../../../public/assets/play.png";
 import { redirectTo } from "../../hooks/redirect";
 
 export interface ImageProps extends BoxProps {

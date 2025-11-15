@@ -24,5 +24,10 @@
             "to": "ningen/",
             "videoLink": "https://www.youtube.com/watch?v=0qY9rsBAKPk"
         }
-    ]
+    ],
+    "commentSection": {
+        "section": "home",
+        "commentsBG": "home/comment_bg",
+        "bgPosition": "center"
+    }
 }

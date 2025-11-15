@@ -3,11 +3,13 @@ import { readFile } from "./reader";
 import { publicFileReader } from "./publicFileReader";
 import type { CatalogoNovelasProps } from "../../components/content/CatalogoNovelas";
 import type { NovelResumeProps } from "../../components/content/NovelResume";
+import type { CommentsViewProps } from "../../components/comment/CommentsView";
 
 export const useHomeData = () => {
     const [aboutThisPageMessage, setAboutThisPageMessage] = useState<string>("");
     const [aboutTraductionMessage, setAboutTraductionMessage] = useState<string>("");
     const [catalogoNovelasData, setCatalogoNovelasData] = useState<CatalogoNovelasProps>({});
+    const [commentsSectionsData, setCommentsSectionsData] = useState<CommentsViewProps>({});
 
     const { getFromTraductionsFolder, getFromNovelImageFolder, readJsonFolder } = publicFileReader();
     
@@ -26,7 +28,17 @@ export const useHomeData = () => {
     const readCatalogoData = async () => {
         const catalogoData = await readJsonFolder("home")
         const novelResumes = catalogoData.novelResumes.map((novelData: any) => buildNovelResume(novelData));
+        const commentsSectionData = catalogoData.commentSection ? getCommentSection(catalogoData.commentSection) : {};
         setCatalogoNovelasData({ novelResumes: novelResumes });
+        setCommentsSectionsData(commentsSectionData);
+    }
+
+    const getCommentSection = (data: any): CommentsViewProps => {
+        return {
+            section: data.section,
+            commentsBG: getFromNovelImageFolder(data.commentsBG),
+            bgPosition: data.bgPosition
+        }
     }
 
     const buildNovelResume = (data: any): NovelResumeProps => {
@@ -43,6 +55,7 @@ export const useHomeData = () => {
     return {
         aboutThisPageMessage,
         aboutTraductionMessage,
-        catalogoNovelasData
+        catalogoNovelasData,
+        commentsSectionsData
     }
 }
