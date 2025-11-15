@@ -3,11 +3,11 @@ import { LectureTypography } from "../ui/RTypography";
 import { redirectTo } from "../../hooks/redirect";
 
 export interface ChapterTitleProps {
-    smallTitleImg: string;
-    largeTitleImg: string;
-    jpTitle: string;
-    romajiTitle: string;
-    esTitle: string;
+    smallTitleImg?: string;
+    largeTitleImg?: string;
+    jpTitle?: string;
+    romajiTitle?: string;
+    esTitle?: string;
     videoLink?: string;
 }
 
@@ -21,8 +21,8 @@ export const ChapterTitle = (props: ChapterTitleProps) => {
         <Box width={'100%'} display={'flex'} flexDirection={'row'}
             sx={{
                 backgroundImage: {
-                    xs: getBackgroundImage(props.smallTitleImg), lg: getBackgroundImage(props.largeTitleImg),
-                    md: getBackgroundImage(props.largeTitleImg), sm: getBackgroundImage(props.largeTitleImg)
+                    xs: getBackgroundImage(props.smallTitleImg??""), lg: getBackgroundImage(props.largeTitleImg??""),
+                    md: getBackgroundImage(props.largeTitleImg??""), sm: getBackgroundImage(props.largeTitleImg??"")
                 },
                 backgroundPosition: 'right center',
                 backgroundSize: 'cover',

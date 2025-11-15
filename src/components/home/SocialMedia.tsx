@@ -23,7 +23,7 @@ export const SocialMedia = (props: SocialMediaProps) => {
 export const YurryCanonSocialMedia = () => {
     return (
         <SocialMedia
-            youtube="https://www.youtube.com/@GabrielLopez-io5cv"
+            youtube="https://www.youtube.com/c/YurryCanon/featured"
             twitter="https://x.com/Tsukuyomi_JP"
             tiktok="https://www.tiktok.com/@tsukuyomi_project"
         />
@@ -32,9 +32,10 @@ export const YurryCanonSocialMedia = () => {
 
 export const MySocialMedia = () => {
     return (
-        <Box display="flex" justifyContent="center" alignItems="center" flexDirection={"row"}>
-            <Icon src={YoutubeIcon} href="https://www.youtube.com/c/YurryCanon/featured"/>
-            <Icon src={TikTokIcon} href="https://www.tiktok.com/@aka.ito7?_t=ZM-8x2VLDSWCSk&_r=1"/>
-        </Box>
+        <SocialMedia
+            youtube="https://youtube.com/@gabsito_t?si=T4RRt9pHHJfchcvE"
+            twitter="https://x.com/Gab2943"
+            tiktok="https://www.tiktok.com/@aka.ito7?_t=ZM-8x2VLDSWCSk&_r=1"
+        />
     )
 }

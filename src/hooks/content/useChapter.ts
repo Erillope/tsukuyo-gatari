@@ -2,14 +2,14 @@ import { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { readFile, readBodyParagraphs } from "../dataReader/reader";
 
-export const useChapter = (props: { chapterFile: string }) => {
+export const useChapter = (props: { chapterFile?: string }) => {
     const [paragraphs, setParagraphs] = useState<string[]>([]);
     const [tsukiMessage1, setTsukiMessage1] = useState<string[]>([]);
     const [tsukiMessage2, setTsukiMessage2] = useState<string[]>([]);
     const location = useLocation();
 
     const init = async () => {
-        const fileData = await readFile(props.chapterFile);
+        const fileData = await readFile(props.chapterFile??"");
         let tsukiMessage1: string[] = [];
         let tsukiMessage2: string[] = [];
         let paragraphIndex = 0;
@@ -25,7 +25,7 @@ export const useChapter = (props: { chapterFile: string }) => {
         setTsukiMessage2(tsukiMessage2);
     }
 
-    useEffect(() => { init() }, [location]);
+    useEffect(() => { init() }, [location, props.chapterFile]);
 
     return { paragraphs, tsukiMessage1, tsukiMessage2 };
 }

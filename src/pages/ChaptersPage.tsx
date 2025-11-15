@@ -6,10 +6,11 @@ import { CommentsView, type CommentsViewProps } from "../components/comment/Comm
 import { useChapter } from "../hooks/content/useChapter"
 import { ChaptersLink } from "../components/ui/ChaptersLink"
 import { VideoViews, type VideoViewsProp } from "../components/content/VideoViews"
+import { useChapterData } from "../hooks/dataReader/chapterReader"
 
 export interface ChapterPageProps {
-    chapterFile: string;
-    titleData: ChapterTitleProps;
+    chapterFile?: string;
+    titleData?: ChapterTitleProps;
     tsukiMessage1Data?: {
         breakpoint: number;
         moonImageSrc?: string;
@@ -18,8 +19,8 @@ export interface ChapterPageProps {
         breakpoint: number;
         moonImageSrc?: string;
     },
-    chapterLargeBreakpoints: ChapterBreakpoints[];
-    chapterSmallBreakpoints: ChapterBreakpoints[];
+    chapterLargeBreakpoints?: ChapterBreakpoints[];
+    chapterSmallBreakpoints?: ChapterBreakpoints[];
     nextChapterLink?: string;
     previousChapterLink?: string;
     listChaptersLink?: string;
@@ -42,4 +43,10 @@ export const ChapterPage = (props: ChapterPageProps) => {
             <CommentsView {...props.commentsSection} />
         </Box>
     )
+}
+
+export const FileChapterPage = (props: { filePath: string }) => {
+    const { chapterData } = useChapterData({ filePath: props.filePath })
+    
+    return <ChapterPage {...chapterData} />
 }

@@ -20,19 +20,13 @@ export const Principal = () => {
                 TsukuyoGatari
             </RTypography>
             <Moon />
-            <RTypography variant="h5" className="title text-center mt-4"
-                sx={{ color: "white !important", textShadow: '1px 1px 2px black' }}>
-                Escrito por: Yurry Canon <YurryCanonSocialMedia /> <br />
-                Traducido por: Gabriel López <MySocialMedia />
-            </RTypography>
+            <Credits />
         </RBox>
     )
 
 }
 
-export const AboutThisPage = () => {
-    const tsukuyomiLink = () => <a href="https://www.tsukuyomi2943.com" target="_blank" rel="noopener noreferrer">https://www.tsukuyomi2943.com</a>;
-
+export const AboutThisPage = (props: { message: string }) => {
     return (
         <RBox className="black-bg"
             id="about-this-page"
@@ -41,13 +35,13 @@ export const AboutThisPage = () => {
                 Sobre esta página
             </RTypography>
             <RTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
-                Esta es una fan-page de Tsukuyomi de Yurry Canon <br />Principalmente, aquí publicaré las traducciones que he hecho sobre sus novelas ligeras :)<br />Me enamoré de esta banda y de este autor desde que escuché sus canciones, creo que más gente debería de conocer sus obras.<br />El sitio oficial de Tsukuyomi es {tsukuyomiLink()}<br />Las novelas que encontrarás aquí son en las que se basan las canciones de Tsukuyomi y Yurry Canon. Fue todo un reto recopilarlas y traducirlas, pero lo hice con mucho cariño y dedicación💖.
+                {props.message}
             </RTypography>
         </RBox>
     )
 }
 
-export const AboutTheTraduction = () => {
+export const AboutTheTraduction = (props: { message: string }) => {
     return (
         <RBox className="black-bg"
             id="about-the-traduction"
@@ -56,8 +50,23 @@ export const AboutTheTraduction = () => {
                 Sobre la traducción
             </RTypography>
             <RTypography variant="body1" className="mt-4" align="left" whiteSpace="pre-line">
-                Todo este sitio a excepción de una sección ha sido traducido por mí desde el japonés al español, considero natural si encuentras algún error de traducción o de ortografía, así que por favor avísamelo.<br />No soy un experto en traducción, solamente lo realizo por hobby. El japonés no es mi lengua materna, pero tengo el nivel necesario para entenderlo y traducirlo. Aún así nunca antes me había aventurado a traducir algo tan largo y complejo como una novela. El hecho de comprenderla es una cosa, pero traducirla conlleva encontrar las palabras adecuadas para transmitir el mensaje en español, es por eso que mi traducción no siempre será literal, si no que también se basará en mi interpretación de la obra.
+                {props.message}
             </RTypography>
         </RBox>
     )
+}
+
+const Credits = () => {
+    return <>
+        <RTypography variant="h5" className="title text-center mt-4"
+            sx={{ color: "white !important", textShadow: '1px 1px 2px black' }}>
+            Escrito por: Yurry Canon
+        </RTypography>
+        <YurryCanonSocialMedia />
+        <RTypography variant="h5" className="title text-center mt-4"
+            sx={{ color: "white !important", textShadow: '1px 1px 2px black' }}>
+            Traducido por: Gabriel López
+        </RTypography>
+        <MySocialMedia />
+    </>
 }

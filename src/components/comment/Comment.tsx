@@ -1,8 +1,8 @@
 import { Box, Divider } from "@mui/material";
 import { LectureTypography } from "../ui/RTypography";
-import { commenticons } from "../../data/homeData";
 import "../../styles.css";
 import { IconAvatar } from "../ui/Icon";
+import { useAvatar } from "../../hooks/ui/useAvatar";
 
 export interface CommentProps {
     datetime: Date;
@@ -12,8 +12,10 @@ export interface CommentProps {
 }
 
 export const Comment = (props: CommentProps) => {
+    const { getIconLink } = useAvatar();
+
     return <Box className="comment-box" gap={2} paddingLeft={{ xs: 2, lg: 5 }} paddingRight={5}>
-        <IconAvatar iconLink={commenticons[props.iconIndex]} />
+        <IconAvatar iconLink={getIconLink(props.iconIndex)} />
         <Box className="comment-content" gap={2} paddingBottom={2}>
             <CommentInfo nickName={props.nickName} datetime={props.datetime} />
             <CommentDivider />

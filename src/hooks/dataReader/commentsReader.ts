@@ -2,7 +2,6 @@ import { initializeApp } from "firebase/app";
 import { getAuth, signInAnonymously, onAuthStateChanged } from "firebase/auth";
 import { getDatabase, onValue, push, ref, child } from "firebase/database";
 import { useEffect, useState } from "react";
-import { useLocation } from "react-router-dom";
 import type { CommentProps } from "../../components/comment/Comment";
 
 const firebaseConfig = {
@@ -36,17 +35,11 @@ interface FireBaseComment {
 const useFireBaseComments = (section: string) => {
     const [data, setData] = useState<Object>({});
     const commentsRef = ref(db, 'comments/' + section);
-    const location = useLocation();
 
     const readData = () => {
         const unsubscribe = onValue(commentsRef, (snapshot) => {
             const data = snapshot.val();
-            if (data) {
-                setData(data);
-            }
-            else {
-                setData({});
-            }
+            setData(data || {});
         });
         return () => unsubscribe();
     }
@@ -57,11 +50,11 @@ const useFireBaseComments = (section: string) => {
 
     useEffect(() => {
         try {
-            readData();
+            return readData();
         } catch (error) {
             console.error("Error reading comments:", error);
         }
-    }, [location.pathname]);
+    }, [section]);
 
     return { data, addData, commentsRef };
 }
@@ -69,17 +62,11 @@ const useFireBaseComments = (section: string) => {
 export const useComments = (section: string, includeSubsections: boolean = false) => {
     const [comments, setComments] = useState<CommentProps[]>([]);
     const { data, addData, commentsRef } = useFireBaseComments(section);
-
+    
     const addComment = async (comment: CommentProps) => {
-        const firebaseComment: FireBaseComment = {
-            datetime: new Date().toISOString(),
-            nickName: comment.nickName,
-            commentText: comment.commentText,
-            iconIndex: comment.iconIndex
-        };
+        const firebaseComment = buildFireBaseComment(comment);
         if (includeSubsections) {
-            const mainCommentRef = child(commentsRef, 'main');
-            await push(mainCommentRef, firebaseComment);
+            await addToMain(firebaseComment);
         }
         else {
             await addData(firebaseComment);
@@ -87,23 +74,13 @@ export const useComments = (section: string, includeSubsections: boolean = false
     };
 
     const readComments = () => {
-        const loadedComments: FireBaseComment[] = Object.values(data).filter(checkFireBaseComment);
-        const normalizedComments: CommentProps[] = loadedComments.map((c) => mapComments(c));
-        normalizedComments.sort((a, b) => b.datetime.getTime() - a.datetime.getTime());
+        const normalizedComments = buildComments(Object.values(data));
         setComments(normalizedComments);
     }
 
     const readNovelComments = () => {
-        const mainData = (data as any)['main'] || {};
-        const sectionsTitle = Object.keys(data).filter(key => key !== 'main');
-        const chaptersData = sectionsTitle.flatMap(sectionKey => {
-            const sectionData = (data as any)[sectionKey] || {};
-            return Object.values(sectionData).flatMap((v: any) => Object.values(v));
-        });
-        const allData = [...Object.values(mainData), ...chaptersData];
-        const loadedComments: FireBaseComment[] = allData.filter(checkFireBaseComment);
-        const normalizedComments: CommentProps[] = loadedComments.map((c) => mapComments(c));
-        normalizedComments.sort((a, b) => b.datetime.getTime() - a.datetime.getTime());
+        const allData = readIncludingSubsections();
+        const normalizedComments = buildComments(allData);
         setComments(normalizedComments);
     }
 
@@ -118,6 +95,38 @@ export const useComments = (section: string, includeSubsections: boolean = false
             ...data,
             datetime: rawDatetime ? new Date(rawDatetime) : rawDatetime
         };
+    }
+
+    const buildFireBaseComment = (comment: CommentProps): FireBaseComment => {
+        return {
+            datetime: new Date().toISOString(),
+            nickName: comment.nickName,
+            commentText: comment.commentText,
+            iconIndex: comment.iconIndex
+        }
+    }
+
+    const buildComments = (data: any[]): CommentProps[] => {
+        const loadedComments: FireBaseComment[] = data.filter(checkFireBaseComment);
+        const normalizedComments: CommentProps[] = loadedComments.map((c) => mapComments(c));
+        normalizedComments.sort((a, b) => b.datetime.getTime() - a.datetime.getTime());
+        return normalizedComments;
+    }
+
+    const addToMain = async (comment: FireBaseComment) => {
+        const mainCommentRef = child(commentsRef, 'main');
+        await push(mainCommentRef, comment);
+    }
+
+    const readIncludingSubsections = () => {
+        const mainData = (data as any)['main'] || {};
+        const sectionsTitle = Object.keys(data).filter(key => key !== 'main');
+        const chaptersData = sectionsTitle.flatMap(sectionKey => {
+            const sectionData = (data as any)[sectionKey] || {};
+            return Object.values(sectionData).flatMap((v: any) => Object.values(v));
+        });
+        const allData = [...Object.values(mainData), ...chaptersData];
+        return allData;
     }
 
     useEffect(includeSubsections ? readNovelComments : readComments, [data]);

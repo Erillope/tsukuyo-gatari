@@ -7,7 +7,7 @@ export interface RTypographyProps extends TypographyProps {
 }
 
 export const RTypography = (props: TypographyProps) => {
-    const { ref, getStyle } = useRTypography({ variant: props.variant });
+    const { ref, getStyle, parsedChildren } = useRTypography({ variant: props.variant, text: props.children as string });
 
     return (
         <Typography {...props}
@@ -16,7 +16,9 @@ export const RTypography = (props: TypographyProps) => {
                 ...getStyle(),
                 ...props.sx
             }}
-        />
+        >
+            {parsedChildren}
+        </Typography>
     )
 }
 

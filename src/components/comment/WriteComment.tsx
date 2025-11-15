@@ -1,12 +1,12 @@
 import { Box } from "@mui/material";
 import { LectureTypography } from "../ui/RTypography";
-import { commenticons } from "../../data/homeData";
 import type { CommentProps } from "./Comment";
 import { IconSelect } from "../ui/Icon";
 import { InputText, type InputTextProps } from "../ui/InputText";
 import "../../styles.css";
 import { useWriteComment } from "../../hooks/comment/useWriteComment";
 import AnimatedButton from "../ui/AnimatedButton";
+import { useAvatar } from "../../hooks/ui/useAvatar";
 
 
 export interface WriteCommentProps {
@@ -15,7 +15,8 @@ export interface WriteCommentProps {
 
 export const WriteComment = (props: WriteCommentProps) => {
     const writeCommentController = useWriteComment({ submit: props.submit });
-
+    const { commenticons } = useAvatar();
+    
     return <Box className="write-comment-box" gap={2} paddingLeft={{ xs: 3, lg: 10 }} paddingRight={{ xs: 3, lg: 10 }} paddingTop={2} paddingBottom={2}>
         <NickNameInput {...writeCommentController.nickNameController} />
         <CommentInput {...writeCommentController.commentController} />

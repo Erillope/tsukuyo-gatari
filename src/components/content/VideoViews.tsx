@@ -33,3 +33,31 @@ const VideoView = (props: VideoViewsProp) => {
         <Video videoLink={props.videoLink} />
     </Box>
 }
+
+export const TeaserVideo = (props: { videoLink?: string }) => {
+    return <RBox display={'flex'} alignItems={'center'} flexDirection={'column'}>
+        <LectureTitle text="Teaser" />
+        <Video videoLink={props.videoLink } />
+    </RBox>
+}
+
+
+export interface VisualNovelProps {
+    videoLink: string;
+    title: string;
+}
+
+export const VisualNovel = (props: { visualNovelData: VisualNovelProps[] }) => {
+    return <RBox display={'flex'} alignItems={'center'} flexDirection={'column'} width={'100%'} component="section" id="novela">
+        <LectureTitle text="Novela Visual" />
+        {props.visualNovelData.map((videoData) => (
+            <>
+                <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 }, width: '90%' }} />
+                <LectureTypography variant="h3" className="title text-center mt-4">
+                    {videoData.title}
+                </LectureTypography>
+                <Video videoLink={videoData.videoLink} />
+            </>
+        ))}
+    </RBox>
+}

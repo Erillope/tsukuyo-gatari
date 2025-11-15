@@ -18,13 +18,17 @@ export const useWriteComment = (props: { submit?: (comment: CommentProps) => voi
         }
     }
 
-    const submitComment = () => {
-        const commentData: CommentProps = {
-            nickName: nickName,
-            commentText: comment,
+    const getComment = (): CommentProps => {
+        return {
+            nickName: nickName.trim(),
+            commentText: comment.trim(),
             iconIndex: iconIndex,
             datetime: new Date(),
         }
+    }
+
+    const submitComment = () => {
+        const commentData = getComment();
         setNickName('');
         setComment('');
         props.submit?.(commentData);
