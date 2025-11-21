@@ -28,12 +28,12 @@ Dormir es una experiencia simulada de la muerte.
 
 
 
-Pierdo mi conciencia y voluntad por varias horas, ¿Acaso se le puede llamar a eso "Estar vivo"?
-Por eso es que creo que la diferencia entre "Dormir" y "Morir" es solo el despertar.
+Pierdo mi conciencia y voluntad por varias horas, ¿Acaso se le puede llamar a eso §"Estar vivo" | | §?
+Por eso es que creo que la diferencia entre §"Dormir" | | § y §"Morir" | | § es solo el despertar.
 
 
 
-Mientras sueño con felicidad pienso "Ojalá no llegué el día de mañana"
+Mientras sueño con felicidad pienso §"Ojalá no llegué el día de mañana" | | lino§
 Pero al final acabo como ahora, recibiendo la luz de la mañana tan enérgica como fastidiosa.
 Y como si tropezara con la misma piedra, vuelvo a caer en este mundo.
 
@@ -104,7 +104,7 @@ Aunque ciertamente mi cabeza entiende que ya nunca más nos volveremos a ver.
 La razón es que si llegase a aceptar su muerte, siento que ella realmente desaparecería.
 
 
-Aún no he sido capaz de decirle "Adiós"
+Aún no he sido capaz de decirle §"Adiós" | | §
 
 
 Yuma, ¿Qué debería de hacer?

@@ -20,6 +20,10 @@
             {
                 "to": "extra",
                 "text": "Extras"
+            },
+            {
+                "to": "comentarios",
+                "text": "Comentarios"
             }
         ],
         "novelTitleData": {

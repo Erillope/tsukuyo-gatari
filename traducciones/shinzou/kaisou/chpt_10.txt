@@ -39,7 +39,7 @@ Creo que ya hace tres semanas, ¿Con qué cara debería recibirla?
 
 
 
-Sordera psicógena.
+§Sordera psicógena | | key§
 No está relacionada al órgano del oído, es una condición médica en la que el cerebro se vuelve incapaz de distinguir los sonidos.
 
 
@@ -69,10 +69,10 @@ De repente, recordé a mi difunto padre, y entendí con qué tipo de pensamiento
 La inevitable realidad, francamente me di cuenta de que la muerte es el camino para huir de ella.
 
 
-"Sonata Pathetic" de Beethoven se reproduce dentro de mi cabeza.
+§"Sonata Pathetic" | https://www.youtube.com/watch?v=cg9KQ610biU | link§ de Beethoven se reproduce dentro de mi cabeza.
 
 
-Una vez escuché "El pésame es la canción de lamento que se sufre al perder sus sentidos. Sentidos que para un músico son toda su vida"
+Una vez escuché §"El pésame es la canción de lamento que se sufre al perder sus sentidos. Sentidos que para un músico son toda su vida" | | hagino§
 Y aún así Beethoven desde sus amargos momentos de dolor y angustia que sintió por no poder oír, a sus cuarenta años se volvió sordo, pero aún así no se rindió y siguió componiendo canciones.
 
 
@@ -88,7 +88,7 @@ Lo primero era ser músico, y lo otro era un compañero de clase quien aspiraba 
 
 
 ---------------------------------------
-"El arte, me parece lo más hermoso que hay en este mundo"
+§"El arte, me parece lo más hermoso que hay en este mundo" | | toudou§
 ---------------------------------------
 
 
@@ -100,12 +100,12 @@ Esas palabras asombrosamente me llegaron al corazón.
 
 Yo quise entender esas palabras.
 La razón por la que volví a retomar la música, creo que es porque quise ser especial como él.
-Y desde entonces decidí que viviría como "Yuma".
+Y desde entonces decidí que viviría como §"Yuma" | | key§.
 
 
 
 ---------------------------------------
-"Hoy también cantaré deseando que mis palabras lleguen a alguien"
+§"Hoy también cantaré deseando que mis palabras lleguen a alguien" | | yuma§
 ---------------------------------------
 
 
@@ -117,7 +117,7 @@ Con solo poner mis manos sobre el piano, comenzaron a temblar y no se detenían.
 
 
 
-Doy un gran respiro, y comienzo a tocar "Sonata Pathetic" aquella canción que una y otra vez practicaba cuando era una niña.
+Doy un gran respiro, y comienzo a tocar §"Sonata Pathetic" | https://www.youtube.com/watch?v=cg9KQ610biU | link§ aquella canción que una y otra vez practicaba cuando era una niña.
 A pesar de que no la he vuelto a tocar, mis dedos se mueven al ritmo de mis recuerdos mientras presionan el teclado.
 
 
@@ -161,7 +161,7 @@ En medio de la multitud pienso:
 
 
 ---------------------------------------
-"¿No es raro que una estudiante de bachillerato camine por ahí con un globo de corazón?"
+§"¿No es raro que una estudiante de bachillerato camine por ahí con un globo de corazón?" | | yuma§
 ---------------------------------------
 
 
@@ -178,7 +178,7 @@ En ese momento dos recuerdos revivieron en mí como un relámpago.
 
 
 ---------------------------------------
-"El arte, me parece lo más hermoso que hay en este mundo"
+§"El arte, me parece lo más hermoso que hay en este mundo" | | toudou§
 ---------------------------------------
 
 
@@ -191,7 +191,7 @@ Aquellas palabras junto con aquella determinación, incluso en estos momentos si
 
 
 ---------------------------------------
-"Nadie es perfecto"
+§"Nadie es perfecto" | | lino§
 ---------------------------------------
 
 
@@ -242,9 +242,9 @@ No hay nada con lo que lo pueda pagar en mi vida.
 
 
 
-Yo pienso que la felicidad se trata de vivir sin pensar en "¿Qué es la felicidad?"
+Yo pienso que la felicidad se trata de vivir sin pensar en §"¿Qué es la felicidad?" | | §
 Bueno, también pienso que vivir sin ser consciente de la felicidad en cierto punto significa ser infeliz.
-Pero aquellos que no piensan "¿Cómo podría ser feliz?" por lo menos son más felices que los demás.
+Pero aquellos que no piensan §"¿Cómo podría ser feliz?" | | § por lo menos son más felices que los demás.
 
 
 
@@ -252,7 +252,7 @@ Me he esforzado deseando ser especial y anhelando algo.
 Pero he creído estúpidamente en que algún día seré recompensada por mis esfuerzos.
 
 
-"Quiero ser especial" es exactamente esa la forma de pensar de alguien que jamás será especial.
+§"Quiero ser especial" | | yuma§ es exactamente esa la forma de pensar de alguien que jamás será especial.
 
 
 Ella me dijo que me anhelaba.
@@ -276,7 +276,7 @@ La realidad no va tan bien como en los cuentos.
 Los milagros son llamados así porque no ocurren.
 
 
-Aún así aquella mentira a la que llamamos "Esperanza" es tan hermosa.
+Aún así aquella mentira a la que llamamos §"Esperanza" | | key§ es tan hermosa.
 
 
 Un mundo sin sonido.
@@ -350,4 +350,3 @@ Eso pensaba pero, todo a mi alrededor se está destruyendo.
 Mi roto corazón.
 Como la Luna que mengua y se llena
 ¿Volverá a cambiar de forma?
-

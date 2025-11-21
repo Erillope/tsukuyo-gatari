@@ -5,7 +5,7 @@ Me pregunto si estarán en todas partes.
 
 
 
-"En lo posible me gustaría vivir sin arrepentimientos"
+§"En lo posible me gustaría vivir sin arrepentimientos" | | §
 Solo un tonto diría eso.
 
 -*-
@@ -24,25 +24,25 @@ El papel está doblado en dos partes, y lo abro mientras estoy nerviosa.
 
 
 
-Inconscientemente se me escapó un "Eh" de mi boca, y abro mis ojos.
+Inconscientemente se me escapó un §"Eh" | | yuma§ de mi boca, y abro mis ojos.
 Varias líneas de oraciones estaban escritas. Entonces supe que esto es parte de mi padre.
 
 
 
 ---------------------------------------
-"¿Te has portado bien?"
+§"¿Te has portado bien?" | | character-1§
 ---------------------------------------
 
 
 
 Es una sencilla y pequeña frase típica de mi torpe padre.
-Al final, estaba escrito que me reuniera con un tal "Hagino" en un lugar que desconocía.
-No me es familiar el nombre de "Hagino".
+Al final, estaba escrito que me reuniera con un tal §"Hagino" | | § en un lugar que desconocía.
+No me es familiar el nombre de §"Hagino" | | §.
 No, tal vez solo lo he olvidado. ¿Será algún amigo de mi papá?
 
 
 
-"Por lo menos hubiera escrito la razón para ir a ese lugar" Es lo que decía yo dentro de mi corazón quejándome.
+§"Por lo menos hubiera escrito la razón para ir a ese lugar" | | yuma§ Es lo que decía yo dentro de mi corazón quejándome.
 A pesar de que sería imposible que mamá me diera el permiso para ir, una felicidad se elevó en mi cuerpo levantando una sonrisa en mi rostro.
 Siento como si hubiera obtenido un mapa del tesoro, y no podía detener estos sentimientos de impaciencia.
 Después de todo, hace tiempo que no sé nada de mi padre, y ahora siento una leve conexión con él a través de un delgado hilo invisible.
@@ -108,11 +108,11 @@ Allí, vi la figura de un hombre de alrededor de veinte años quien estaba haci�
 Él luce como un rockero, y al parecer está haciéndole mantenimiento a una guitarra
 
 
-Alcé la voz y dije "Busco a alguien llamado Hagino" luego vi que en el pecho de ese hombre estaba escrito "Hagino" en una etiqueta.
+Alcé la voz y dije §"Busco a alguien llamado Hagino" | | yuma§ luego vi que en el pecho de ese hombre estaba escrito §"Hagino" | | § en una etiqueta.
 
 
 ---------------------------------------
-"Ah!... disculpe, ¿Usted es el señor Hagino? Gusto en conocerle, soy la hija del señor Sakuragi"
+§"Ah!... disculpe, ¿Usted es el señor Hagino? Gusto en conocerle, soy la hija del señor Sakuragi" | | yuma§
 ---------------------------------------
 
 
@@ -120,7 +120,7 @@ Aquel hombre dejó sus herramientas e hizo una pequeña reverencia.
 
 
 ---------------------------------------
-"Te estuve esperando"
+§"Te estuve esperando" | | hagino§
 ---------------------------------------
 
 
@@ -132,10 +132,10 @@ Era un estuche de un leve color negro.
 
 
 ---------------------------------------
-"El señor Sakuragi me encargo esto para ti"
+§"El señor Sakuragi me encargo esto para ti" | | hagino§
 
 
-"Ah, muchas gracias"
+§"Ah, muchas gracias" | | yuma§
 ---------------------------------------
 
 
@@ -164,11 +164,11 @@ Me sentí triste al recordar las veces en las que papá me dejaba escuchar cuand
 
 
 ---------------------------------------
-"¿Por qué mi padre me dejaría esto a mí?"
+§"¿Por qué mi padre me dejaría esto a mí?" | | yuma§
 
-"Yo tampoco conozco las razones, pero el mes pasado estuvo de visita aquí como en los viejos tiempos y me dijo "Cuando llegue mi hija, entrégale esto""
+§"Yo tampoco conozco las razones, pero el mes pasado estuvo de visita aquí como en los viejos tiempos y me dijo "Cuando llegue mi hija, entrégale esto"" | | hagino§
 
-"Ya veo..."
+§"Ya veo..." | | yuma§
 ---------------------------------------
 
 
@@ -180,20 +180,20 @@ Cuanto más miraba la caligrafía, más reafirmaba que era la letra de papá.
 
 
 ---------------------------------------
-"Yui-chan, ¿Sabes tocar la guitarra?"
+§"Yui-chan, ¿Sabes tocar la guitarra?" | | hagino§
 
 
 
-"Para nada... Hace tiempo practicaba el piano pero no tengo experiencia con la guitarra.
+§"Para nada... Hace tiempo practicaba el piano pero no tengo experiencia con la guitarra.
 Sin embargo, tengo mucho interés por aprender. No se si sea capaz... pero aún así quiero intentarlo.
-Me gustaría que me enseñara mi padre, pero mamá me tiene prohibido verlo..."
+Me gustaría que me enseñara mi padre, pero mamá me tiene prohibido verlo..." | | yuma§
 
 
-"Entiendo"
+§"Entiendo" | | hagino§
 
-"Quiero componer canciones. Mi experiencia en el mundo de la música es leve, y creo que soy una rebelde sin causa que no está conforme con su destino..."
+§"Quiero componer canciones. Mi experiencia en el mundo de la música es leve, y creo que soy una rebelde sin causa que no está conforme con su destino..." | | yuma§
 
-"Ehh una compositora..."
+§"Ehh una compositora..." | | hagino§
 ---------------------------------------
 
 
@@ -204,11 +204,11 @@ Se quedó un rato así, parecía estar pensando en algo. Y entonces me miró a l
 
 
 ---------------------------------------
-"Te enseñaré algunas cosas sobre la música"
+§"Te enseñaré algunas cosas sobre la música" | | hagino§
 
-"¡¿De verdad?!"
+§"¡¿De verdad?!" | | yuma§
 
-"El señor Sakuragi, tu padre me encargo especialmente la guitarra a mí, también me pidió que hablara contigo así que creo que esto es lo que habría deseado. Además..."
+§"El señor Sakuragi, tu padre me encargo especialmente la guitarra a mí, también me pidió que hablara contigo así que creo que esto es lo que habría deseado. Además..." | | hagino§
 ---------------------------------------
 
 
@@ -216,7 +216,7 @@ Las palabras del señor Hagino fueron trabadas, su expresión se tornó sombría
 
 
 ---------------------------------------
-"Lo siento, no es nada"
+§"Lo siento, no es nada" | | hagino§
 ---------------------------------------
 
 
@@ -224,8 +224,8 @@ Luego, cambió el tema de conversación.
 
 
 ---------------------------------------
-"Cuando iba a la escuela inicié una banda, y por obra del destino conocí al señor Sakuragi.
-Sabes, en esa época tu padre participaba en una popular banda del barrio, así que le insistí para que me convirtiera en su discípulo."
+§"Cuando iba a la escuela inicié una banda, y por obra del destino conocí al señor Sakuragi.
+Sabes, en esa época tu padre participaba en una popular banda del barrio, así que le insistí para que me convirtiera en su discípulo." | | hagino§
 ---------------------------------------
 
 
@@ -236,13 +236,13 @@ Sabía que mi padre practicaba la música, pero no que incluso se había consegu
 
 
 ---------------------------------------
-"Un tiempo luego de aquello, el señor Sakuragi se casó, y dejó la banda cuando nacieron sus niños"
+§"Un tiempo luego de aquello, el señor Sakuragi se casó, y dejó la banda cuando nacieron sus niños" | | hagino§
 
-"Así que fue eso..."
+§"Así que fue eso..." | | yuma§
 
-"Por cierto, está no es la primera vez que nos vemos"
+§"Por cierto, está no es la primera vez que nos vemos" | | hagino§
 
-"Eh! lo siento"
+§"Eh! lo siento" | | yuma§
 ---------------------------------------
 
 
@@ -254,10 +254,10 @@ El señor Hagino reía un poco mientras me veía avergonzada.
 
 
 ---------------------------------------
-"Claro que no lo recuerdas, tú aún eras un bebé en ese entonces"
+§"Claro que no lo recuerdas, tú aún eras un bebé en ese entonces" | | hagino§
 
 
-"Ah ya veo"
+§"Ah ya veo" | | yuma§
 ---------------------------------------
 
 
@@ -269,28 +269,28 @@ Tantos sentimientos dan vuelta en mi cabeza que siento que empieza a calentarse.
 
 
 ---------------------------------------
-"La razón por la que trabajo aquí también es gracias al señor Sakuragi...
+§"La razón por la que trabajo aquí también es gracias al señor Sakuragi...
 Bueno de todas formas da igual como lo quiera hacer ver, solo quiero devolverle todos los favores que me ha hecho.
-Por eso es que también quiero enseñarte sobre la música"
+Por eso es que también quiero enseñarte sobre la música" | | hagino§
 
-"Muchas gracias!... Cuento con usted!"
+§"Muchas gracias!... Cuento con usted!" | | yuma§
 
-"Igualmente"
+§"Igualmente" | | hagino§
 ---------------------------------------
 
 
 
 Bajé la cabeza exageradamente.
-El señor Hagino dijo "Es cierto! espérame un ratito" y luego empezó a caminar de un lado a otro por la tienda, dio una vuelta completa, tomó algunas productos de la tienda, los colocó en una canasta y por último los trajo.
+El señor Hagino dijo §"Es cierto! espérame un ratito" | | hagino§ y luego empezó a caminar de un lado a otro por la tienda, dio una vuelta completa, tomó algunas productos de la tienda, los colocó en una canasta y por último los trajo.
 Comenzó a sacar uno por uno y a explicarme.
 
 
 
 ---------------------------------------
-"Esto es un afinador de clips, se usa para sintonizar la guitarra. La gente que tiene un buen oído no lo necesita, pero es mejor que lo conserves.
+§"Esto es un afinador de clips, se usa para sintonizar la guitarra. La gente que tiene un buen oído no lo necesita, pero es mejor que lo conserves.
 Estas cuerdas son de la reserva de la tienda, las cuerdas las usamos todo el rato así que hay que cambiarlas cuando se rompan o envejezcan.
 Esto es una púa de guitarra y... Ah! a esto se le llama cejilla, sirve para cambiar las notas cuando lo colocas en los trastes de la guitarra.
-Ah y fíjate en esto de aquí..." 
+Ah y fíjate en esto de aquí..." | | hagino§
 ---------------------------------------
 
 
@@ -302,16 +302,16 @@ Me da pena decírselo, después de todo se ve muy emocionado mostrándome los pr
 
 
 ---------------------------------------
-"... Eso es todo. Aunque se trate de un manual para principiantes, contiene las anotaciones del señor Sakuragi, así que creo que es mucho mejor y más fácil de entender que cualquier otro que pudieras comprar.
-Ya que estamos, también deberías tener algunas partituras"
+§"... Eso es todo. Aunque se trate de un manual para principiantes, contiene las anotaciones del señor Sakuragi, así que creo que es mucho mejor y más fácil de entender que cualquier otro que pudieras comprar.
+Ya que estamos, también deberías tener algunas partituras" | | hagino§
 
-"Espere!..."
+§"Espere!..." | | yuma§
 
-"¿Qué sucede? Ah! El lubricante para la guitarra también deberí..."
+§"¿Qué sucede? Ah! El lubricante para la guitarra también deberí..." | | hagino§
 
-"No es eso! es que... no tengo el dinero..."
+§"No es eso! es que... no tengo el dinero..." | | yuma§
 
-"Ah... ya veo! lo siento"
+§"Ah... ya veo! lo siento" | | hagino§
 ---------------------------------------
 
 
@@ -322,7 +322,7 @@ Saqué el monedero dentro de mi mochila para confirmar cuanto dinero traía.
 
 
 ---------------------------------------
-"Solo traigo... mil yenes..."
+§"Solo traigo... mil yenes..." | | yuma§
 ---------------------------------------
 
 
@@ -333,18 +333,18 @@ Bueno nadie se esperaría una situación como esta, con el dinero de una estudia
 
 
 ---------------------------------------
-"Entonces ¿Qué tal si te doy los míos?"
+§"Entonces ¿Qué tal si te doy los míos?" | | hagino§
 
-"¿En serio? ¿Está bien?"
+§"¿En serio? ¿Está bien?" | | yuma§
 
-"Claro que sí! Dame un momentito"
+§"Claro que sí! Dame un momentito" | | hagino§
 ---------------------------------------
 
 
 
 Luego de decir eso, el señor Hagino volvió a dirigirse al fondo de la habitación.
 Mientras lo esperaba me puse a observar los utensilios que me había mostrado antes y me di cuenta de que era imposible obtenerlos con lo que llevaba en mis manos.
-"Qué jodidas son las guitarras!" Es lo que reflexionaba como si fuera una persona ajena a este tema.
+§"Qué jodidas son las guitarras!" | | yuma§ Es lo que reflexionaba como si fuera una persona ajena a este tema.
 
 
 
@@ -363,13 +363,10 @@ Pero podré lograrlo si continuo con la música!...
 Por alguna razón eso es lo que pensé.
 La carta de mi padre y su guitarra, no puedo dejar de sentir que esto es algo como el destino.
 
-
-
----------------------------------------
 El señor Hagino regresó con una bolsa de papel y luego me la entregó.
 
-
-"Bien, creo que esto cubrirá todas tus necesidades básicas"
+---------------------------------------
+§"Bien, creo que esto cubrirá todas tus necesidades básicas" | | hagino§
 ---------------------------------------
 
 
@@ -377,10 +374,10 @@ Dentro de la bolsa de papel habían utensilios parecidos a los que me había mos
 
 
 ---------------------------------------
-"¿De verdad está bien?" 
+§"¿De verdad está bien?" | | yuma§
 
 
-"Claro! Claro! No tengo experiencia como profesor de música, pero me emociona poder observar tu crecimiento desde cero"
+§"Claro! Claro! No tengo experiencia como profesor de música, pero me emociona poder observar tu crecimiento desde cero" | | hagino§
 ---------------------------------------
 
 
@@ -388,7 +385,7 @@ El señor Hagino dijo eso con una cara de satisfacción.
 
 
 ---------------------------------------
-"Muchas gracias! Me esforzaré!..."
+§"Muchas gracias! Me esforzaré!..." | | yuma§
 ---------------------------------------
 
 
@@ -399,13 +396,13 @@ Me congelo al reflexionar que soy la hija de esa persona.
 
 
 ---------------------------------------
-"Por cierto, pienso que es bueno practicar primero con alguna canción ¿Hay alguna en especial que quieras tocar?"
+§"Por cierto, pienso que es bueno practicar primero con alguna canción ¿Hay alguna en especial que quieras tocar?" | | hagino§
 
-"¿Alguna canción que quiera tocar?... No se me viene nada a la mente ¿Tiene alguna recomendación?"
+§"¿Alguna canción que quiera tocar?... No se me viene nada a la mente ¿Tiene alguna recomendación?" | | yuma§
 
-"Mmh, ya veo... Hay un libro de canciones para principiantes, pero no podrías comprarlo con mil yenes..."
+§"Mmh, ya veo... Hay un libro de canciones para principiantes, pero no podrías comprarlo con mil yenes..." | | hagino§
 
-"Si tomo en cuenta el precio del tren de regreso, mi presupuesto se disminuye más..."
+§"Si tomo en cuenta el precio del tren de regreso, mi presupuesto se disminuye más..." | | yuma§
 ---------------------------------------
 
 
@@ -413,7 +410,7 @@ De haberlo sabido hubiera traído más dinero ¿Cuánto dinero tendré en mi cha
 
 
 ---------------------------------------
-"En ese caso, probemos esto"
+§"En ese caso, probemos esto" | | hagino§
 ---------------------------------------
 
 
@@ -424,33 +421,33 @@ Luego los colocó en la misma mesa, eran partituras.
 
 
 ---------------------------------------
-"¿Qué es esto?"
+§"¿Qué es esto?" | | yuma§
 
 
-"Es una canción mía. No es complicada así que es perfecto para la ocasión"
+§"Es una canción mía. No es complicada así que es perfecto para la ocasión" | | hagino§
 ---------------------------------------
 
 
-"Yoruni ai" (Blue)
+§"Yoruni ai" (Blue) | https://www.youtube.com/watch?v=Csp715c4kSU | link3§
 
 
 Las notas musicales y los acordes estaban escritos en el pentagrama.
-El nombre de esa canción era "Yoruni ai" (Blue).
+El nombre de esa canción era §"Yoruni ai" (Blue) | https://www.youtube.com/watch?v=Csp715c4kSU | link3§
 La letra se sentía refrescante, pero trataba sobre una dolorosa escena y la juventud de la vida.
 En el instante en el que vi esas partituras, su melodía fluía suavemente por mi cabeza y yo la tarareaba.
 
 
 
 ---------------------------------------
-"Ya que has tenido experiencia con el piano, eres muy buena leyendo partituras"
+§"Ya que has tenido experiencia con el piano, eres muy buena leyendo partituras" | | hagino§
 
-"¿Voy por buen camino entonces?"
+§"¿Voy por buen camino entonces?" | | yuma§
 
-"Eso dalo por hecho, además tienes una buena voz ¿Antes cantabas?"
+§"Eso dalo por hecho, además tienes una buena voz ¿Antes cantabas?" | | hagino§
 
-"No para nada, solamente a veces tarareo en casa"
+§"No para nada, solamente a veces tarareo en casa" | | yuma§
 
-"Ya veo... Esto es emocionante!"
+§"Ya veo... Esto es emocionante!" | | hagino§
 ---------------------------------------
 
 
@@ -461,13 +458,13 @@ Tal vez solo lo dijo para levantarme los ánimos, pero realmente me hizo feliz.
 
 
 ---------------------------------------
-"Yo me esforzaré, tanto con la guitarra como cantando"
+§"Yo me esforzaré, tanto con la guitarra como cantando" | | yuma§
 
-"Por supuesto! ¿Quién pensaría que yo el discípulo del señor Sakuragi, sería quien le enseñaría música a su hija? Me provoca una extraordinaria sensación"
+§"Por supuesto! ¿Quién pensaría que yo el discípulo del señor Sakuragi, sería quien le enseñaría música a su hija? Me provoca una extraordinaria sensación" | | hagino§
 
-"Qué divertido!... Prácticamente soy el discípulo del discípulo... Cierto! ¿Está bien si le llamo maestro?"
+§"Qué divertido!... Prácticamente soy el discípulo del discípulo... Cierto! ¿Está bien si le llamo maestro?" | | yuma§
 
-"¿Ma-Maestro? Es un honor..."
+§"¿Ma-Maestro? Es un honor..." | | hagino§
 ---------------------------------------
 
 
@@ -475,7 +472,7 @@ El señor Hagino estaba tan apenado que sonreía nerviosamente.
 
 
 ---------------------------------------
-"Bueno, entonces espero nos llevemos bien de ahora en adelante !Maestro!"
+§"Bueno, entonces espero nos llevemos bien de ahora en adelante !Maestro!" | | yuma§
 ---------------------------------------
 
 
@@ -602,8 +599,8 @@ La noche anterior me llegó un mail del señor Hagino.
 
 
 ---------------------------------------
-"Si empiezas a sentir dolor en los dedos, deberías de descansar.
-Si continuas sobre esforzándote, tus dedos empeoraran y no podrás tocar por un tiempo"
+§"Si empiezas a sentir dolor en los dedos, deberías de descansar.
+Si continuas sobre esforzándote, tus dedos empeoraran y no podrás tocar por un tiempo" | | hagino§
 ---------------------------------------
 
 
@@ -612,7 +609,7 @@ Demaciado tarde...
 Cuando los toco me duelen, debería de descansar por lo menos hoy.
 Hoy también se encuentra Toudou-kun en la biblioteca después de la escuela.
 A mediados de junio la biblioteca toma la iniciativa permitiendo el uso del aire acondicionado.
-Eso la convierte en un buen lugar para huir del calor. Como consecuencia hay más "Clientes" de lo habitual.
+Eso la convierte en un buen lugar para huir del calor. Como consecuencia hay más §"Clientes" | | § de lo habitual.
 
 
 
@@ -642,7 +639,7 @@ Sin embargo, no pierdo nada aprendiendo así que mejor leeré los dos.
 
 
 
-Había una pegatina que decía "Prohibido prestar" en ese libro, seguramente es porque es un producto caro ¿no?
+Había una pegatina que decía §"Prohibido prestar" | | § en ese libro, seguramente es porque es un producto caro ¿no?
 No lo entiendo muy bien pero fue inesperado ver un libro que no se pueda prestar a excepción de diccionarios.
 Volví a mi asiento, y empecé a leer inmediatamente.
 
@@ -677,19 +674,19 @@ Caminando de regreso estuve conversando a solas con Toudou-kun.
 
 
 ---------------------------------------
-"Entonces ¿Ya no vendrás tan seguido a la biblioteca?"
+§"Entonces ¿Ya no vendrás tan seguido a la biblioteca?" | | toudou§
 
-"Planeo venir cuando desee tomarme un respiro, me gusta el ambiente de la biblioteca y además..."
+§"Planeo venir cuando desee tomarme un respiro, me gusta el ambiente de la biblioteca y además..." | | yuma§
 
-"¿Además?"
+§"¿Además?" | | toudou§
 ---------------------------------------
 
 
-Iba a decir "Además puedo reunirme contigo" pero me dio tanta vergüenza que me callé la boca. 
+Iba a decir §"Además puedo reunirme contigo" | | yuma§ pero me dio tanta vergüenza que me callé la boca. 
 
 
 ---------------------------------------
-"...Además aún hay libros que quiero leer! Sí, eso es!"
+§"...Además aún hay libros que quiero leer! Sí, eso es!" | | yuma§
 ---------------------------------------
 
 
@@ -697,7 +694,7 @@ Continué hablando para que no notará que había cambiado lo que iba a decir, p
 
 
 ---------------------------------------
-"Así que se trata de libros que quieres leer..."
+§"Así que se trata de libros que quieres leer..." | | toudou§
 ---------------------------------------
 
 
@@ -705,10 +702,10 @@ Eso fue lo que murmuró mientras parecía poner una extraña expresión.
 
 
 ---------------------------------------
-"Tokawa ¿Aún te interesa leer mi novela?"
+§"Tokawa ¿Aún te interesa leer mi novela?" | | toudou§
 
 
-"Por supuesto que sí! Quiero leerla! ¿Por qué preguntas?"
+§"Por supuesto que sí! Quiero leerla! ¿Por qué preguntas?" | | yuma§
 ---------------------------------------
 
 
@@ -716,13 +713,13 @@ Luego de un pequeño silencio él dijo:
 
 
 ---------------------------------------
-"Estaba pensando en participar en un concurso de novelas, pero me da miedo sea criticada"
+§"Estaba pensando en participar en un concurso de novelas, pero me da miedo sea criticada" | | toudou§
 
-"Un concurso..."
+§"Un concurso..." | |  yuma§
 
-"Siendo sincero... tengo confianza en mi obra! por eso es que me preocupa que sus críticas sean negativas, no creo ser capaz de soportarlo"
+§"Siendo sincero... tengo confianza en mi obra! por eso es que me preocupa que sus críticas sean negativas, no creo ser capaz de soportarlo" | | toudou§
 
-"Entiendo como te sientes"
+§"Entiendo como te sientes" | | yuma§
 ---------------------------------------
 
 
@@ -730,8 +727,8 @@ Aquellos recuerdos de mi último concurso de piano empiezan a resucitar. Mi pech
 
 
 ---------------------------------------
-"Yo también, participé en varios concursos de piano, en el último di todo y más de lo que pude.
-No tuve errores, aún así obtuve el segundo lugar"
+§"Yo también, participé en varios concursos de piano, en el último di todo y más de lo que pude.
+No tuve errores, aún así obtuve el segundo lugar" | | yuma§
 ---------------------------------------
 
 
@@ -739,16 +736,16 @@ Mientras contaba eso comenzaron a brotas aquellos sentimientos de frustración e
 
 
 ---------------------------------------
-"Mi padre me dijo que los jueces también tienen sus gustos.
+§"Mi padre me dijo que los jueces también tienen sus gustos.
 Mientras hayan personas que les guste las obras casuales, también habrán personas que deseen obras hechas con sinceridad y precisión.
 Al final muchas personas de diversas opiniones juzgan en base a lo que escuchan.
-Yo no pude alcanzar a aquellas personas, por más que le de vueltas, soy una mala perdedora"
+Yo no pude alcanzar a aquellas personas, por más que le de vueltas, soy una mala perdedora" | | yuma§
 
-"Personas de diversas opiniones..."
+§"Personas de diversas opiniones..." | | toudou§
 
-"Desde entonces he huido del piano.
+§"Desde entonces he huido del piano.
 Me perturbaba que las críticas de los demás negaran tan fácilmente todo mi esfuerzo.
-Seguramente es distinto a escribir obras, pero entiendo lo que dices Toudou-kun"
+Seguramente es distinto a escribir obras, pero entiendo lo que dices Toudou-kun" | | yuma§
 ---------------------------------------
 
 
@@ -756,13 +753,13 @@ Toudou-kun bajó la mirada como siempre y sus labios sufrían una ligera deforma
 
 
 ---------------------------------------
-"Por supuesto, es obvio que al mostrar una obra a la sociedad, entonces debe ser criticada.
-Mucho más si intentas conseguir alguna compensación, después de todo uno mismo es el que le pone precio a su obra."
+§"Por supuesto, es obvio que al mostrar una obra a la sociedad, entonces debe ser criticada.
+Mucho más si intentas conseguir alguna compensación, después de todo uno mismo es el que le pone precio a su obra." | | toudou§
 
-"... El valor de una obra, pienso que es algo que ya está ahí desde el momento en el que nace la obra.
-Crear algo desde cero por mi propia cuenta es increíble, por eso me pregunto si ¿Acaso se trata de algo que los demás puedan valuar como "obra basura", "obra maestra", "vendible", "no vendible"?"
+§"... El valor de una obra, pienso que es algo que ya está ahí desde el momento en el que nace la obra.
+Crear algo desde cero por mi propia cuenta es increíble, por eso me pregunto si ¿Acaso se trata de algo que los demás puedan valuar como "obra basura", "obra maestra", "vendible", "no vendible"?" | | yuma§
 
-"......"
+§"......" | | toudou§
 ---------------------------------------
 
 
@@ -770,10 +767,10 @@ Nos quedamos en silencio mientras subíamos las escaleras del puente peatonal. N
 
 
 ---------------------------------------
-"El arte me parece lo más hermoso que hay en este mundo"
+§"El arte me parece lo más hermoso que hay en este mundo" | | toudou§
 
 
-"¿Por qué?"
+§"¿Por qué?" | | yuma§
 ---------------------------------------
 
 
@@ -781,10 +778,10 @@ Yo dirigí mi mirada hacia él, y él me miró.
 
 
 ---------------------------------------
-"Pronto también lo entenderás Tokawa"
+§"Pronto también lo entenderás Tokawa" | | toudou§
 
 
-"Eh?"
+§"Eh?" | | yuma§
 ---------------------------------------
 
 

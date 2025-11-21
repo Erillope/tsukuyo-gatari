@@ -23,6 +23,12 @@
             "image": "home/4",
             "to": "ningen/",
             "videoLink": "https://www.youtube.com/watch?v=0qY9rsBAKPk"
+        },
+        {
+            "sumaryFile": "jigoku/jigoku_summary.txt",
+            "image": "home/5",
+            "to": "jigoku/",
+            "videoLink": "https://www.youtube.com/watch?v=QRJRGtxfWpk"
         }
     ],
     "commentSection": {

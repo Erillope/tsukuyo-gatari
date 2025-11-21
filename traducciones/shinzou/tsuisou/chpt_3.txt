@@ -55,8 +55,8 @@ Al experimentar eso, desde hace mucho empecé a estirar un poco mis dedos estir�
 
 
 ---------------------------------------
-"Pero hay muy buenos guitarristas que tienen manos pequeñas.
-El agarre, la flexibilidad, los reflejos, si logras volverte una experta en eso, no tendrás nada que envidiar de los demás"
+§"Pero hay muy buenos guitarristas que tienen manos pequeñas.
+El agarre, la flexibilidad, los reflejos, si logras volverte una experta en eso, no tendrás nada que envidiar de los demás" | | hagino§
 ---------------------------------------
 
 
@@ -81,7 +81,7 @@ Y mientras que con mis ojos seguía las partituras, toco la guitarra como si la 
 
 
 ---------------------------------------
-"Ahora lo estás haciendo muy bien"
+§"Ahora lo estás haciendo muy bien" | | hagino§
 ---------------------------------------
 
 
@@ -92,11 +92,11 @@ Al notar como su rostro pasaba de estar tenso a relajado, a mi también se me es
 
 
 ---------------------------------------
-"Muchas gracias"
+§"Muchas gracias" | | yuma§
 
-"Bueno, ya es hora de que intentes cantar mientras tocas"
+§"Bueno, ya es hora de que intentes cantar mientras tocas" | | hagino§
 
-"Eh!"
+§"Eh!" | | yuma§
 ---------------------------------------
 
 
@@ -109,10 +109,10 @@ Cierto, la primera vez que hablé con mi maestro, mencionó algo sobre cantar ¿
 
 
 ---------------------------------------
-"¿Qué sucede? ¿Muy difícil para ti?"
+§"¿Qué sucede? ¿Muy difícil para ti?" | | hagino§
 
 
-"... Lo intentaré"
+§"... Lo intentaré" | | yuma§
 ---------------------------------------
 
 
@@ -123,13 +123,13 @@ Tocar y cantar ¿Acaso seré capaz de lograr tales cosas a la vez?
 
 
 ---------------------------------------
-"El truco de cantar mientras tocas es solo dejarte llevar.
+§"El truco de cantar mientras tocas es solo dejarte llevar.
 Por ejemplo cuando charlas mientras caminas no te preocupas por tropezarte ¿no?
 De la misma forma, solo deja que tus manos se muevan.
-Está bien si tus manos son torpes al inicio, solamente canta!"
+Está bien si tus manos son torpes al inicio, solamente canta!" | | hagino§
 
 
-"Entiendo!..."
+§"Entiendo!..." | | yuma§
 ---------------------------------------
 
 
@@ -173,10 +173,10 @@ Inhalé y exhalé para calmar mi alterada respiración.
 
 
 ---------------------------------------
-"Yui-chan muchas gracias!"
+§"Yui-chan muchas gracias!" | | hagino§
 
 
-"No, no es nada!"
+§"No, no es nada!" | | yuma§
 ---------------------------------------
 
 
@@ -189,13 +189,13 @@ La fría brisa que viene del aire acondicionado toca mi caliente cuerpo y me sie
 
 
 ---------------------------------------
-"Lo sabía! tienes una buena voz! Además ya te familiarizaste con mi técnica de cantar poniendo todos tus sentimientos jeje."
+§"Lo sabía! tienes una buena voz! Además ya te familiarizaste con mi técnica de cantar poniendo todos tus sentimientos jeje." | | hagino§
 
-"¿Eso usted cree?..."
+§"¿Eso usted cree?..." | | yuma§
 
-"Claro, no exagero.
+§"Claro, no exagero.
 Bueno tocabas mientras cantabas así que tuviste unos pequeños fallos en el ritmo y los intervalos.
-Pero no hay nada que no se pueda mejorar con práctica!"
+Pero no hay nada que no se pueda mejorar con práctica!" | | hagino§
 ---------------------------------------
 
 
@@ -272,9 +272,9 @@ Qué temprano se fue hoy! Me senté en el comedor y encendí el televisor.
 
 
 ---------------------------------------
-"El horóscopo de hoy es ......
+§"El horóscopo de hoy es ......
 Así que tu signo zodiacal nos dice que hoy tus problemas se convertirán en tu felicidad!
-Espera un poco más para ver los resultados!"
+Espera un poco más para ver los resultados!" | | nota§
 ---------------------------------------
 
 
@@ -342,10 +342,10 @@ Esperé a Toudou-kun mientras holgazaneaba caminando por los pasillos que hay en
 
 
 ---------------------------------------
-"Toudou-kun! A los tiempos"
+§"Toudou-kun! A los tiempos" | | yuma§
 
 
-"Ah... Tokawa, a los tiempos"
+§"Ah... Tokawa, a los tiempos" | | toudou§
 ---------------------------------------
 
 
@@ -353,11 +353,11 @@ Al verlo después de tanto tiempo, me da la impresión de que se ve más adulto.
 
 
 ---------------------------------------
-"¿Has crecido?"
+§"¿Has crecido?" | | yuma§
 
-"¿Tú crees?"
+§"¿Tú crees?" | | toudou§
 
-"Mmm me da la impresión de que te ves más grande"
+§"Mmm me da la impresión de que te ves más grande" | | yuma§
 ---------------------------------------
 
 
@@ -368,10 +368,10 @@ Puse mis manos y las levanté desde mi cabeza hasta él.
 
 
 ---------------------------------------
-"Sip, eres un poco más alto que yo"
+§"Sip, eres un poco más alto que yo" | | yuma§
 
 
-"E-En serio? ¿No será tu imaginación?"
+§"E-En serio? ¿No será tu imaginación?" | | toudou§
 ---------------------------------------
 
 
@@ -379,7 +379,7 @@ Puse mis manos y las levanté desde mi cabeza hasta él.
 
 
 ---------------------------------------
-"Hey por cierto ¿Cómo va tu novela?"
+§"Hey por cierto ¿Cómo va tu novela?" | | yuma§
 ---------------------------------------
 
 
@@ -387,17 +387,17 @@ Al preguntarle eso, él dirigió su mirada hacia el sobre que cargaba en la mano
 
 
 ---------------------------------------
-"Más o menos estoy cerca de terminar, pero estoy preocupado sobre cómo escribir el final"
+§"Más o menos estoy cerca de terminar, pero estoy preocupado sobre cómo escribir el final" | | toudou§
 
-"Mmm el final eh"
+§"Mmm el final eh" | | yuma§
 
-"Hasta ahora ha ido todo bien, pero después de todo la impresión que causa una obra en parte se decide por su final. Tenía algo pensado pero lo descarté, y ya no se me ocurre nada más."
+§"Hasta ahora ha ido todo bien, pero después de todo la impresión que causa una obra en parte se decide por su final. Tenía algo pensado pero lo descarté, y ya no se me ocurre nada más." | | toudou§
 
-"Entiendo..."
+§"Entiendo..." | | yuma§
 
-"Tokawa ¿A ti cuál te gusta más? ¿Un final triste o un final feliz?"
+§"Tokawa ¿A ti cuál te gusta más? ¿Un final triste o un final feliz?" | | toudou§
 
-"Mmm"
+§"Mmm" | | yuma§
 ---------------------------------------
 
 
@@ -405,15 +405,15 @@ Cuando Toutou-kun me preguntó, yo me quedé callada. Mirando por todos lados, m
 
 
 ---------------------------------------
-"¿Es válido contestar que ambas me gustan?"
+§"¿Es válido contestar que ambas me gustan?" | | yuma§
 
 
-"...Mmm bueno, yo también opino igual.
+§"...Mmm bueno, yo también opino igual.
 Tanto los finales felices como los no tan felices quedan marcados en mi corazón así que no puedo decidir cuál es mejor.
-Pero la tendencia más común son los finales felices"
+Pero la tendencia más común son los finales felices" | | toudou§
 
 
-"Es verdad"
+§"Es verdad" | | yuma§
 ---------------------------------------
 
 
@@ -421,16 +421,16 @@ Cuando dije eso, él asintió su cabeza suavemente. Y entonces con unos tristes 
 
 
 ---------------------------------------
-"Es que he escuchado que en la actualidad las obras con un final triste casi no se venden.
-Sin embargo para mí no es importante escribir algo que se pueda vender"
+§"Es que he escuchado que en la actualidad las obras con un final triste casi no se venden.
+Sin embargo para mí no es importante escribir algo que se pueda vender" | | toudou§
 
-"... ¿Qué será lo que deseen en el concurso?"
+§"... ¿Qué será lo que deseen en el concurso?" | | yuma§
 
-"Seguramente un buen nivel de escritura, originalidad, y una historia que atraiga la atención de la gente."
+§"Seguramente un buen nivel de escritura, originalidad, y una historia que atraiga la atención de la gente." | | toudou§
 
-"Al final sí que se resume en cosas que se puedan vender ¿No crees?"
+§"Al final sí que se resume en cosas que se puedan vender ¿No crees?" | | yuma§
 
-"... ... ..."
+§"........." | | toudou§
 ---------------------------------------
 
 
@@ -442,7 +442,7 @@ Bueno en realidad no ha pasado un eterno silencio, es solo que este pesado ambie
 
 
 ---------------------------------------
-"Hey ¿Crees que no tiene valor lo que no se puede vender?"
+§"Hey ¿Crees que no tiene valor lo que no se puede vender?" | | toudou§
 ---------------------------------------
 
 
@@ -450,10 +450,10 @@ Finalmente Toudou-kun dijo algo, mis párpados reaccionaron moviéndose. Su tono
 
 
 ---------------------------------------
-"...No, no quise referirme a eso. Aunque no se pueda vender, siempre habrá alguien que lo deseará. Ahí se encuentra su sentido"
+§"...No, no quise referirme a eso. Aunque no se pueda vender, siempre habrá alguien que lo deseará. Ahí se encuentra su sentido" | | yuma§
 
 
-"El sentido..."
+§"El sentido..." | | toudou§
 ---------------------------------------
 
 
@@ -461,10 +461,10 @@ Luego de decir eso Toudou-kun se quedó callado, parece que otra vez está pensa
 
 
 ---------------------------------------
-"Toudou-kun ¿Para ti qué es lo bueno que tienen los finales tristes?"
+§"Toudou-kun ¿Para ti qué es lo bueno que tienen los finales tristes?" | | yuma§
 
 
-"Mmm déjame pensar..."
+§"Mmm déjame pensar..." | | toudou§
 ---------------------------------------
 
 
@@ -472,37 +472,29 @@ Mientras Toudou-kun se apoya en la ventana, reflexiona cruzando sus brazos.
 
 
 ---------------------------------------
-"Una de las cosas buenas, es que los finales tristes son más realistas. 
-Pero hay muchas personas que quieren ver un mundo feliz dentro de una ficción, así que entiendo que una infeliz historia en donde no hay salvación les cause una mala sensación"
+§"Una de las cosas buenas, es que los finales tristes son más realistas. 
+Pero hay muchas personas que quieren ver un mundo feliz dentro de una ficción, así que entiendo que una infeliz historia en donde no hay salvación les cause una mala sensación" | | toudou§
 
-"Hey pero incluso en los finales felices, aunque todo está representado muy lindo, no todas las personas coinciden con un final feliz"
+§"Hey pero incluso en los finales felices, aunque todo está representado muy lindo, no todas las personas coinciden con un final feliz" | | yuma§
 
+§"Es verdad, por ejemplo en las historias donde se castiga al malvado y el héroe es enaltecido, normalmente eso sería un final feliz.
+Pero si lo escribimos desde el punto de vista del villano entonces es un final triste. Qué irónico" | | toudou§
 
-"Es verdad, por ejemplo en las historias donde se castiga al malvado y el héroe es enaltecido, normalmente eso sería un final feliz.
-Pero si lo escribimos desde el punto de vista del villano entonces es un final triste. Qué irónico"
-
-
-
-"Ciertamente, depende desde que punto de vista se escriba, la historia podría cambiar.
+§"Ciertamente, depende desde que punto de vista se escriba, la historia podría cambiar.
 Cuando el protagonista es un personaje bondadoso, normalmente su oponente es un cruel villano.
-Seguramente ese villano también tenga orgullo y razones comprensibles."
+Seguramente ese villano también tenga orgullo y razones comprensibles." | | yuma§
 
+§"No es un villano absoluto, es un villano relativo. Pienso que es el lector quien debería de elegir quien es el "Heroe" o el "Villano".
+Eso sucede mucho en las historias de venganza. No todo se puede salvar solo con justicia" | | toudou§
 
+§"No todo se puede salvar solo con justicia...?" | | yuma§
 
-"No es un villano absoluto, es un villano relativo. Pienso que es el lector quien debería de elegir quien es el "Heroe" o el "Villano".
-Eso sucede mucho en las historias de venganza. No todo se puede salvar solo con justicia"
+§"Bueno es que casi todos sentimos empatía por el protagonista, sentimos un gran apego emocional hacia ellos y por ende deseamos que tenga un final feliz.
+Después de todo, nuestro arte es solo un tipo de escape de la realidad." | | toudou§
 
+§"Escribirlas también es un gran escape de la realidad ¿No crees?" | | yuma§
 
-"No todo se puede salvar solo con justicia...?"
-
-
-"Bueno es que casi todos sentimos empatía por el protagonista, sentimos un gran apego emocional hacia ellos y por ende deseamos que tenga un final feliz.
-Después de todo, nuestro arte es solo un tipo de escape de la realidad."
-
-
-"Escribirlas también es un gran escape de la realidad ¿No crees?"
-
-"Tienes razón"
+§"Tienes razón" | | toudou§
 ---------------------------------------
 
 
@@ -510,13 +502,13 @@ A Toudou-kun se le escapó una pequeña sonrisa.
 
 
 ---------------------------------------
-"Es verdad! hablando de arte, yo también empecé a componer algo."
+§"Es verdad! hablando de arte, yo también empecé a componer algo." | | yuma§
 
-"Ehh... Déjame escucharlo!"
+§"Ehh... Déjame escucharlo!" | | toudou§
 
-"Aún no he compuesto lo suficiente como para mostrárselo a alguien más... por eso cuando esté terminado, si te gustaría..."
+§"Aún no he compuesto lo suficiente como para mostrárselo a alguien más... por eso cuando esté terminado, si te gustaría..." | | yuma§
 
-"Claro! Esperaré con ansias!"
+§"Claro! Esperaré con ansias!" | | toudou§
 ---------------------------------------
 
 
@@ -553,7 +545,7 @@ No tengo ni idea, solamente lo repito una y otra vez poniendo todo de mí.
 
 
 
-Escucho mi voz cantando que he grabado en una nota de voz de mi celular, e inclino mi cuello pensando "Mmmh".
+Escucho mi voz cantando que he grabado en una nota de voz de mi celular, e inclino mi cuello pensando §"Mmmh" | | yuma§.
 No me satisface. Siento como si todos los puntos de mis melodías y lyrics son de mala calidad.
 ¿Cómo lo explico? no siento que sea una canción que se quede en mis oídos.
 
@@ -575,7 +567,7 @@ No he sido capaz de darle una buena forma a ninguna.
 
 
 ---------------------------------------
-"No lo entiendo"
+§"No lo entiendo" | | yuma§
 ---------------------------------------
 
 
@@ -625,7 +617,7 @@ Ese día, por primera vez completé mi primera canción.
 Una canción que persigue el fino rayo de luz de la esperanza oculta dentro de la oscuridad.
 
 
-El nombre de esa canción es "Yodaka" (Nightjar)
+El nombre de esa canción es §"Yodaka" (Nightjar) | https://www.youtube.com/watch?v=1hdtk9RZhHY | link3§
 
 Ese fue el inicio de la obra que levantaría mi vida.
 

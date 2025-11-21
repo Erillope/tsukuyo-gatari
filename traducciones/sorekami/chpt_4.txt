@@ -46,7 +46,7 @@ Una tarjeta de presentación estaba caída en sus pies, y entonces la recogió.
 Lo que estaba escrito en ella es:
 
 ----------------------------------------
-"Periodista independiente Ishigami Shinya"
+§"Periodista independiente Ishigami Shinya" | | ishigami§
 ----------------------------------------
 
 Y entonces Chiharu despertó.
@@ -59,7 +59,7 @@ Chiharu intenta recordarlo, sin embargo no logra recordar su rostro.
 Hubo un instante en el que su capucha se levantó debido al viento, el brillo del cuchillo frío está grabado en su mente.
 
 ----------------------------------------
-"Una mujer ......?"
+§"Una mujer ......?" | | chiharu§
 ----------------------------------------
 
 Cuando se levantó la capucha, pude ver un mechón de cabello y su figura.
@@ -67,13 +67,13 @@ Su largo cabello reflejando ligeramente la luz, bailó por el viento en un insta
 Por eso creo que es una mujer.
 
 Además, el tipo que estaba siendo perseguido por el encapuchado.
-Al recoger la tarjeta de presentación estaba escrito el nombre de "Ishigami Shinya"
+Al recoger la tarjeta de presentación estaba escrito el nombre de §"Ishigami Shinya" | | ishigami§
 
 Antes de olvidarlo, Chiharu escribió ese nombre en unas notas.
 Luego fue a recostarse mientras miraba la nota.
 
 ----------------------------------------
-"Periodista independiente Ishigami Shinya"
+§"Periodista independiente Ishigami Shinya" | | ishigami§
 ----------------------------------------
 
 Nunca he escuchado ese nombre.
@@ -96,7 +96,7 @@ Sin poder soportar el remolino de pensamientos que hay en su cabeza, Chiharu se 
 Enciende su laptop y escribe en el teclado
 
 ----------------------------------------
-"Ishigami Shinya......"
+§"Ishigami Shinya......" | | chiharu§
 ----------------------------------------
 
 Mientras Chiharu murmura ese nombre, lo escribe en el buscador de internet.
@@ -117,127 +117,127 @@ Una ligera brisa pasa por todo su cuerpo, el ligeramente nublado cielo se expand
 Teruna camina acercándose lentamente y pregunta
 
 ----------------------------------------
-"¿Y? ¿De qué querías charlar?"
+§"¿Y? ¿De qué querías charlar?" | | teruna§
 ----------------------------------------
 
 En respuesta a Teruna, Chiharu le dirige la mirada y luego vuelve a mirar las vallas.
 Finalmente dice:
 
 ----------------------------------------
-"Vi un sueño"
+§"Vi un sueño" | | chiharu§
 
-"¿Y está vez de qué trató?"
+§"¿Y está vez de qué trató?" | | teruna§
 ----------------------------------------
 
 Teruna se puso de pie al lado de Chiharu, mientras observaban el mismo paisaje.
 
 ----------------------------------------
-"En algún edificio viejo...... un hombre y una persona encapuchada...... El tipo encapuchado tenía un objeto afilado apuntando en la espalda del hombre.
+§"En algún edificio viejo...... un hombre y una persona encapuchada...... El tipo encapuchado tenía un objeto afilado apuntando en la espalda del hombre.
 El hombre le obedeció y subió unas escaleras hasta llegar a la azotea.
-El tipo encapuchado le dijo algo, y entonces el hombre saltó"
+El tipo encapuchado le dijo algo, y entonces el hombre saltó" | | chiharu§
 
-".................."
+§".................." | | teruna§
 ----------------------------------------
 
 Teruna se queda callada, mientras escuchaba a Chiharu su mano inconscientemente se entumeció dándole una sensación de incomodidad.
 
-"...... Entonces, se trata de un asesinato...... ¿no?"
+§"...... Entonces, se trata de un asesinato...... ¿no?" | | teruna§
 
-"Según las circunstancias sí"
+§"Según las circunstancias sí" | | chiharu§
 
-"...... Es extraño un sueño de un asesinato"
+§"...... Es extraño un sueño de un asesinato" | | teruna§
 
-"............ Ahh!......"
+§"............ Ahh!......" | | chiharu§
 
 Chiharu abrió sus ojos, y como si hubiese descubierto algo, su cara se nubló.
 Luego de pensar un rato, asintió serenamente.
 
 ----------------------------------------
-"Hasta ahora he soñado con gente que ha muerto en algún lugar, pero tienes razón...... En general se tratan de suicidios. Pero......"
+§"Hasta ahora he soñado con gente que ha muerto en algún lugar, pero tienes razón...... En general se tratan de suicidios. Pero......" | | chiharu§
 ----------------------------------------
 
 Chiharu iba a decir algo, pero dudó y se calló.
 
 ----------------------------------------
-"No es nada"
+§"No es nada" | | chiharu§
 ----------------------------------------
 
 Mintió para no continuar con lo que iba a decir, y entonces cambió el tema.
 
 ----------------------------------------
-"Sabes que..... el nombre de ese hombre que saltó, estaba escrito en una tarjeta que recogió el tipo encapuchado"
+§"Sabes que..... el nombre de ese hombre que saltó, estaba escrito en una tarjeta que recogió el tipo encapuchado" | | chiharu§
 ----------------------------------------
 
 Teruna observa a Chiharu.
 
 ----------------------------------------
-"Y entonces... ... ¿Sabes su nombre?"
+§"Y entonces... ... ¿Sabes su nombre?" | | teruna§
 
-"Así es. Lo busqué en internet y ya confirmé su identidad"
+§"Así es. Lo busqué en internet y ya confirmé su identidad" | | chiharu§
 
-"Tan rápido?!!...... Es una buena señal ¿no?"
+§"Tan rápido?!!...... Es una buena señal ¿no?" | | teruna§
 ----------------------------------------
 
 Al decir eso Teruna, Chiharu lo niega con su cabeza.
 
 ----------------------------------------
-"Conozco su nombre y su rostro, pero no tengo ni idea de como contactarlo......"
+§"Conozco su nombre y su rostro, pero no tengo ni idea de como contactarlo......" | | chiharu§
 
-"Cierto......"
+§"Cierto......" | | teruna§
 ----------------------------------------
 
 Obviamente no iba a ser así de fácil
 
 ----------------------------------------
-"Mira esto"
+§"Mira esto" | | chiharu§
 ----------------------------------------
 
 Chiharu le muestra una nota a Teruna.
 Teruna toma la nota, y lee lo que está escrito.
 
 ----------------------------------------
-"Periodista independiente, Ishigami...... Shinya............"
+§"Periodista independiente, Ishigami...... Shinya............" | | teruna§
 ----------------------------------------
 
 El rostro de Teruna se deforma mientras lee lo que está escrito en la nota.
 
 ----------------------------------------
-"¿Acaso lo conoces?"
+§"¿Acaso lo conoces?" | | chiharu§
 ----------------------------------------
 
 Chiharu pregunta, pero Teruna se queda callada por un momento y luego responde.
 
 ----------------------------------------
-"Antes....... Nos hemos topado"
+§"Antes....... Nos hemos topado" | | teruna§
 ----------------------------------------
 
 El rostro y tono de voz de Teruna indican de que no se trata de un simple conocido.
 Eso es lo que piensa Chiharu.
 
 ----------------------------------------
-"¿En donde se toparon?"
+§"¿En donde se toparon?" | | chiharu§
 ----------------------------------------
 
 Chiharu pregunta cuidadosamente.
 
 ----------------------------------------
-"Cuando...... cuando mi amiga Luli falleció. Después de casi medio año, él vino a visitarme para investigar sobre el caso"
+§"Cuando...... cuando mi amiga Luli falleció. Después de casi medio año, él vino a visitarme para investigar sobre el caso" | | teruna§
 
-"...... Ya veo"
+§"...... Ya veo" | | chiharu§
 ----------------------------------------
 
 Teruna se queda en silencio por un momento, y mira hacia el horizonte intentando recordar algo.
 
 ----------------------------------------
-"No es una mala persona. Pero un día en el que él me estaba entrevistando, alguien de la escuela nos vio..."
+§"No es una mala persona. Pero un día en el que él me estaba entrevistando, alguien de la escuela nos vio..." | | teruna§
 ----------------------------------------
 
 Teruna baja su mirada mientras habla con dificultad.
 
 ----------------------------------------
-"Y debido a eso... Empezaron a correr los rumores de que yo la asesiné"
+§"Y debido a eso... Empezaron a correr los rumores de que yo la asesiné" | | teruna§
 
-"Teruna..."
+§"Teruna..." | | chiharu§
 ----------------------------------------
 
 Mientras Chiharu escucha a Teruna, empieza a recordar el día en el que se conocieron.
@@ -245,31 +245,31 @@ Detrás de esta valla, Teruna estaba de pie.
 Ese día en el que ella iba a acabar con su vida, entiendo el sufrimiento por el que debió de cargar, tanto así que me duele.
 
 ----------------------------------------
-"Es cierto!... Recuerdo que el señor Ishigami me dio su tarjeta, ahí debe de estar su contacto!..."
+§"Es cierto!... Recuerdo que el señor Ishigami me dio su tarjeta, ahí debe de estar su contacto!..." | | teruna§
 ----------------------------------------
 
 Al escuchar esas palabras, Chiharu abre sus ojos, y dirige su mirada al rostro de Teruna.
 Impacientemente le pregunta.
 
 ----------------------------------------
-"¿Aún tienes esa tarjeta?"
+§"¿Aún tienes esa tarjeta?" | | chiharu§
 ----------------------------------------
 
 Teruna asiente tranquilamente ante la pregunta de Chiharu.
 
 ----------------------------------------
-"Tal vez esté en mi casa"
+§"Tal vez esté en mi casa" | | teruna§
 
-"Qué bueno...!"
+§"Qué bueno...!" | | chiharu§
 ----------------------------------------
 
 Chiharu se alivió al recuperar aquella pista que dejó ir.
 Teruna al ver esta situación sonríe solitariamente.
 
 ----------------------------------------
-"Estas coincidencias suelen pasar ¿no?"
+§"Estas coincidencias suelen pasar ¿no?" | | teruna§
 
-"...... sí verdad"
+§"...... sí verdad" | | chiharu§
 ----------------------------------------
 
 Chiharu se calló por un rato y pensó.
@@ -279,22 +279,22 @@ Y entonces finalmente tenemos un hilo de esperanzas en nuestras manos.
 Inesperadamente encontramos todas estas pistas, pero aún así...
 
 ----------------------------------------
-"No tienes que preocuparte"
+§"No tienes que preocuparte" | | teruna§
 ----------------------------------------
 
 Teruna dijo eso interrumpiendo los pensamientos de Chiharu
 
 ----------------------------------------
-"Sé lo que estás pensando Chiharu"
+§"Sé lo que estás pensando Chiharu" | | teruna§
 
-"...... Teruna............"
+§"...... Teruna............" | | chiharu§
 ----------------------------------------
 
 Teruna dice mientras observa el horizonte.
 
 ----------------------------------------
-"Si Luli no hubiera muerto, yo nunca habría conocido al señor Ishigami.
-De cierto modo, esta es una oportunidad que nos ha brindado Luli"
+§"Si Luli no hubiera muerto, yo nunca habría conocido al señor Ishigami.
+De cierto modo, esta es una oportunidad que nos ha brindado Luli" | | teruna§
 ----------------------------------------
 
 Después de un momento, Teruna empieza a sonreír.
@@ -323,9 +323,9 @@ No se siente la presencia de nadie al otro lado de la puerta.
 Al tocar la puerta por si acaso, no hubo ninguna respuesta.
 
 ----------------------------------------
-"No hay nadie... ..."
+§"No hay nadie... ..." | | teruna§
 
-"Sí, pero aún tenemos tiempo... ..."
+§"Sí, pero aún tenemos tiempo... ..." | | chiharu§
 ----------------------------------------
 
 Ambas volvieron a salir, bajaron las escaleras por donde subieron.
@@ -335,72 +335,72 @@ Al voltear sus miradas hacia la dirección del sonido de los pasos, vieron la fi
 Llevaba un abrigo negro, y caminaba mirando hacía abajo mientras hacía una mansa expresión.
 
 ----------------------------------------
-"...... ¿Ishigami-san?"
+§"...... ¿Ishigami-san?" | | chiharu§
 ----------------------------------------
 
 Al ver a esa persona, Chiharu le dirigió la voz.
 Ishigami Shinya se sorprendió por un instante, y luego se acerco a ellas lentamente.
 
 ----------------------------------------
-"¿Quiénes son ustedes?"
+§"¿Quiénes son ustedes?" | | ishigami§
 ----------------------------------------
 
 Ishigami Shinya frunce el ceño y observa a ambas.
 Su expresión facial es de sorpresa y alerta.
 
 ----------------------------------------
-"Ehh... a los tiempos"
+§"Ehh... a los tiempos" | | teruna§
 ----------------------------------------
 
 Eso dijo Teruna con un tono de voz de preocupación.
 Cuando Ishigami se fijó en el rostro de Teruna, le respondió como si la hubiese recordado.
 
 ----------------------------------------
-"Tú eres...... ¿La señorita Uebara?"
+§"Tú eres...... ¿La señorita Uebara?" | | ishigami§
 
-"Sí, y ella es mi amiga Chiharu"
+§"Sí, y ella es mi amiga Chiharu" | | teruna§
 ----------------------------------------
 
 Teruna señala hacia Chiharu con sus manos y la presenta.
 
 ----------------------------------------
-"Soy Agata Chiharu"
+§"Soy Agata Chiharu" | | chiharu§
 ----------------------------------------
 
 Chiharu baja su cabeza educadamente, y entonces Ishigami saca una de sus tarjetas de su abrigo y se la entrega en respuesta.
 
 ----------------------------------------
-"Soy un periodista independiente Ishigami Shinya"
+§"Soy un periodista independiente Ishigami Shinya" | | ishigami§
 ----------------------------------------
 
 Chiharu tímidamente acepta la tarjeta y la observa.
 Era exactamente la misma que había visto en su premonición.
 
 ----------------------------------------
-"¿Qué sucede?"
+§"¿Qué sucede?" | | ishigami§
 ----------------------------------------
 
 Ishigami notó el cambio en la expresión de Chiharu y curiosamente le preguntó
 
 ----------------------------------------
-"No, no pasa nada"
+§"No, no pasa nada" | | chiharu§
 
-"Ya veo...... y entonces ¿Qué se les ofrece hoy?"
+§"Ya veo...... y entonces ¿Qué se les ofrece hoy?" | | ishigami§
 ----------------------------------------
 
 Ishigami al preguntar eso, Teruna y Chiharu voltearon a verse, ambas asintieron y entonces Chiharu dice:
 
 ----------------------------------------
-"Ishigami-san, cerca de aquí...... usted acabará con su vida"
+§"Ishigami-san, cerca de aquí...... usted acabará con su vida" | | chiharu§
 
-"............ Queeee?!"
+§"............ Queeee?!" | | ishigami§
 ----------------------------------------
 
 Ambas seriamente observan al sorprendido Ishigami.
 Ishigami traga su propia saliva y volvió a su fría expresión
 
 ----------------------------------------
-"La Deidad de la muerte......"
+§"La Deidad de la muerte......" | | ishigami§
 ----------------------------------------
 
 Ishigami murmuró con una baja voz para que no lo escucharan.
@@ -411,43 +411,43 @@ No puedo pensar nada más que esto es una broma.
 Pero estas chicas se ven muy serias, no parece que quieran gastarme una broma.
 
 ----------------------------------------
-"...... Entiendo que no nos crea por más que se lo digamos. Pero yo lo sé"
+§"...... Entiendo que no nos crea por más que se lo digamos. Pero yo lo sé" | | chiharu§
 ----------------------------------------
 
 Chiharu dice eso con un serio tono de voz e Ishigami frunce el ceño.
 
 ----------------------------------------
-"¿Cómo lo sabes?"
+§"¿Cómo lo sabes?" | | ishigami§
 ----------------------------------------
 
 La voz de Ishigami sonaba discreta y algo enojada.
 
 ----------------------------------------
-"Lo soñé...... más bien, tuve una premonición"
+§"Lo soñé...... más bien, tuve una premonición" | | chiharu§
 
-".................. Ah?"
+§".................. Ah?" | | ishigami§
 ----------------------------------------
 
 Como si estuviera disgustado, Ishigami relaja sus hombors mientras da un gran respiro y ríe amargamente.
 
 ----------------------------------------
-"Ya dejen de bromear. Claramente nadie les va a creer ese cuento"
+§"Ya dejen de bromear. Claramente nadie les va a creer ese cuento" | | ishigami§
 
-"Aún así...... por favor créame"
+§"Aún así...... por favor créame" | | chiharu§
 ----------------------------------------
 
 Chiharu dice eso con un serio rostro.
 Ishigami al verla siente algo de responsabilidad, pero su opinión no va a cambiar.
 
 ----------------------------------------
-"...... Yo soy un periodista independiente, pero no me especializo en el ocultismo.
-Lo siento pero si tienen ganas de charlar de esos temas busquen a alguien más apropiado"
+§"...... Yo soy un periodista independiente, pero no me especializo en el ocultismo.
+Lo siento pero si tienen ganas de charlar de esos temas busquen a alguien más apropiado" | | ishigami§
 ----------------------------------------
 
 Luego de decir eso, Ishigami se prepara para irse caminando hacia el edificio donde está su oficina.
 
 ----------------------------------------
-"Espere por favor"
+§"Espere por favor" | | chiharu§
 ----------------------------------------
 
 Chiharu toma del brazo a Ishigami y lo detiene.
@@ -455,38 +455,38 @@ Ishigami voltea con un rostro de mal gusto.
 Y entonces Chiharu con una determinada mirada lo observa y le dice
 
 ----------------------------------------
-"A partir del día de hoy, dentro de dos días...... En el piso superior de un hotel llamado Levain Tokio, un hombre se colgará del cuello y morirá"
+§"A partir del día de hoy, dentro de dos días...... En el piso superior de un hotel llamado Levain Tokio, un hombre se colgará del cuello y morirá" | | chiharu§
 ----------------------------------------
 
 Ishigami frunce el ceño al escuchar las palabras de Chiharu.
 
 ----------------------------------------
-"............ ¿Eso también es una premonición?"
+§"............ ¿Eso también es una premonición?" | | ishigami§
 
-"Sí"
+§"Sí" | | chiharu§
 
-"¿Cómo sabes que será dentro de dos días?"
+§"¿Cómo sabes que será dentro de dos días?" | | ishigami§
 
-"La torre Tokio Mirai se puede ver desde el hotel... El diseño de la iluminación de esa torre cambia periódicamente.
-Después de tres días cambiará a un color navideño. En mi sueño la vi, y llevaba el mismo color que el de hoy"
+§"La torre Tokio Mirai se puede ver desde el hotel... El diseño de la iluminación de esa torre cambia periódicamente.
+Después de tres días cambiará a un color navideño. En mi sueño la vi, y llevaba el mismo color que el de hoy" | | chiharu§
 ----------------------------------------
 
 Chiharu responde la pregunta de Ishigami despreocupadamente.
 
 ----------------------------------------
-"...... ¿Y quién es ese hombre?"
+§"...... ¿Y quién es ese hombre?" | | ishigami§
 
-"Eso no lo sé. Según lo que vi, tal vez su edad ronda por los treinta años"
+§"Eso no lo sé. Según lo que vi, tal vez su edad ronda por los treinta años" | | chiharu§
 
-"Ya veo..."
+§"Ya veo..." | | ishigami§
 ----------------------------------------
 
 Ishigami se queda callado para digerir lo que le había contado Chiharu, luego de eso con una voz seria le pregunta.
 
 ----------------------------------------
-"Entonces...... Si un hombre en un hotel se cuelga el cuello como lo dice tu premonición...... No me quedará más opción que creerte ¿A eso te refieres?"
+§"Entonces...... Si un hombre en un hotel se cuelga el cuello como lo dice tu premonición...... No me quedará más opción que creerte ¿A eso te refieres?" | | ishigami§
 
-"...... Sí, si me cree entonces tome esto"
+§"...... Sí, si me cree entonces tome esto" | | chiharu§
 ----------------------------------------
 
 Chiharu le da una pequeña nota.
@@ -499,19 +499,19 @@ Ciertamente eso significa una gran determinación.
 Eso de alguna forma a Ishigami le recuerda a Kazuha.
 
 ----------------------------------------
-"Entiendo"
+§"Entiendo" | | ishigami§
 ----------------------------------------
 
 Ishigami deja de mirar hacia el edificio, le da la espalda a Chiharu y Teruna y se dirige hacia el camino por el que vino.
 
 ----------------------------------------
-"Eh...... ¿Hacia dónde va?"
+§"Eh...... ¿Hacia dónde va?" | | chiharu§
 ----------------------------------------
 
 Chiharu pregunta y entonces Ishigami dándole la espalda le responde
 
 ----------------------------------------
-"Al hotel que mencionaste...... Voy al Levain Tokio. No es que ya me haya creído tus palabras, pero me causa curiosidad"
+§"Al hotel que mencionaste...... Voy al Levain Tokio. No es que ya me haya creído tus palabras, pero me causa curiosidad" | | ishigami§
 ----------------------------------------
 
 Después de decir eso, Ishigami se marchó caminando despreocupadamente.

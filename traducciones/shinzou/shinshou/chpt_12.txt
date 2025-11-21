@@ -17,7 +17,7 @@ El sonido de la lluvia trae a mí aquellos imborrables recuerdos.
 
 
 ----------------------------------------
-"¿Tienes algún sueño para el futuro?"
+§"¿Tienes algún sueño para el futuro?" | | lino§
 ----------------------------------------
 
 
@@ -33,10 +33,10 @@ Puedo notar que su sonrisa oculta algo.
 
 
 ----------------------------------------
-"Es un secreto"
+§"Es un secreto" | | yuma§
 
 
-"Eh?"
+§"Eh?" | | lino§
 ----------------------------------------
 
 
@@ -53,7 +53,7 @@ Yo la observaba mientras pensaba en cosas triviales, luego ella nuevamente volvi
 
 
 ----------------------------------------
-"Bueno, si tanto insistes..."
+§"Bueno, si tanto insistes..." | | yuma§
 ----------------------------------------
 
 
@@ -61,7 +61,7 @@ Yuma con un gran respiro dijo:
 
 
 ----------------------------------------
-"Con música puedes salvar al mundo..."
+§"Con música puedes salvar al mundo..." | | yuma§
 ----------------------------------------
 
 
@@ -72,7 +72,7 @@ La chica que yo conozco no suele hacer muchas bromas así que nuevamente me sorp
 
 
 ----------------------------------------
-"Bueno en realidad no he pensado mucho en el futuro"
+§"Bueno en realidad no he pensado mucho en el futuro" | | yuma§
 ----------------------------------------
 
 
@@ -91,10 +91,10 @@ Sin embargo, últimamente siento que cada vez que me lo dice, se nota algo desan
 
 
 ----------------------------------------
-"¿Y tú Lino?"
+§"¿Y tú Lino?" | | yuma§
 
 
-"Yo..."
+§"Yo..." | | lino§
 ----------------------------------------
 
 
@@ -125,7 +125,7 @@ Al día siguiente, el maestro me llamó la atención debido a mi tarea.
 
 
 ----------------------------------------
-"Lo normal es tener un sueño, deberías de tener uno"
+§"Lo normal es tener un sueño, deberías de tener uno" | | §
 ----------------------------------------
 
 
@@ -144,10 +144,10 @@ Sin importar lo que sea, antes de que algo surja en mí, o antes de siquiera emp
 
 
 ----------------------------------------
-"Yo aún no lo tengo claro"
+§"Yo aún no lo tengo claro" | | lino§
 
 
-"Ya veo..."
+§"Ya veo..." | | yuma§
 ----------------------------------------
 
 

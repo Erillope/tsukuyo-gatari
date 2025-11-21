@@ -6,7 +6,7 @@ Si continúas deseando, yo confío con toda plenitud que se cumplirá.
 
 
 ----------------------------------------
-“Estoy esperando en el norte de la escuela, en la azotea.”
+§“Estoy esperando en el norte de la escuela, en la azotea.” | | yuma§
 ----------------------------------------
 
 
@@ -33,7 +33,7 @@ Una luz intensa me cegó por un momento. Avancé unos pasos sobre el concreto.
 
 
 ----------------------------------------
-"Hola!, ha pasado mucho tiempo..." 
+§"Hola!, ha pasado mucho tiempo..."| | yuma§
 ----------------------------------------
 
 
@@ -41,7 +41,7 @@ Al girarme, vi a Yuma sentada en una banca.
 
 
 ----------------------------------------
-"Ho-Hola, a los tiempos"
+§"Ho-Hola, a los tiempos" | | lino§
 ----------------------------------------
 
 
@@ -54,10 +54,10 @@ Decidí sentarme ahí, con un tímido movimiento me siento a su lado.
 
 
 ----------------------------------------
-"¿Vienes aquí siempre?"
+§"¿Vienes aquí siempre?" | | lino§
 
 
-"De vez en cuando"
+§"De vez en cuando" | | yuma§
 ----------------------------------------
 
 
@@ -65,15 +65,15 @@ Entonces noté que junto a la banca estaba su guitarra.
 
 
 ----------------------------------------
-"¿Traes tu guitarra a la escuela?"
+§"¿Traes tu guitarra a la escuela?" | | lino§
 
-"Sí. Cuando estoy en clase la suelo dejar en el almacén, más o menos es un lugar silencioso"
+§"Sí. Cuando estoy en clase la suelo dejar en el almacén, más o menos es un lugar silencioso" | | yuma§
 
-"¿Y en el club escolar no la tocas?"
+§"¿Y en el club escolar no la tocas?" | | lino§
 
-"A veces cuando les hace falta un guitarrista, me invitan y les ayudo. Pero a mí me gusta más tocar yo sola"
+§"A veces cuando les hace falta un guitarrista, me invitan y les ayudo. Pero a mí me gusta más tocar yo sola" | | yuma§
 
-"Wow..."
+§"Wow..." | | lino§
 ----------------------------------------
 
 
@@ -84,7 +84,7 @@ He escuchado al club de música ligera en el festival escolar. Y puedo decir que
 
 
 ----------------------------------------
-"¿Y hoy... por qué me pediste venir?"
+§"¿Y hoy... por qué me pediste venir?" | | lino§
 ----------------------------------------
 
 
@@ -92,7 +92,7 @@ Yuma tardó unos segundos en responder.
 
 
 ----------------------------------------
-"Porque me pareces interesante"
+§"Porque me pareces interesante" | | yuma§
 ----------------------------------------
 
 
@@ -102,10 +102,10 @@ Yo me ruboricé.
 
 
 ----------------------------------------
-"¿Por qué?"
+§"¿Por qué?" | | lino§
 
 
-"Mmmhh"
+§"Mmmhh" | | yuma§
 ----------------------------------------
 
 
@@ -113,11 +113,11 @@ Ella mira hacia otro lado.
 
 
 ----------------------------------------
-"Aquel día en el arte callejero, tú llorabas mientras me veías"
+§"Aquel día en el arte callejero, tú llorabas mientras me veías" | | yuma§
 
-"Yo?! De verdad?!"
+§"Yo?! De verdad?!" | | lino§
 
-"Sí ¿No lo recuerdas?"
+§"Sí ¿No lo recuerdas?" yuma§
 ----------------------------------------
 
 
@@ -125,26 +125,21 @@ No lo recuerdo en absoluto. ¿Tan absorta estaba en su live callejero?
 
 
 ----------------------------------------
-"......Vaya, no lo recuerdo pero tu música ciertamente resonó en mi corazón"
+§"......Vaya, no lo recuerdo pero tu música ciertamente resonó en mi corazón" | | lino§
 
 
-"Ya veo, eso me hace feliz"
+§"Ya veo, eso me hace feliz" | | yuma§
 ----------------------------------------
-
-
 
 Las puntas de sus labios se levantan, ella sonríe igual que aquella vez.
 No puedo evitar avergonzarme al ver su expresión. Pude notar que elogiar su música la hace más feliz que nada.
 
-
-
 ----------------------------------------
-"¿Quieres intentarlo?"
+§"¿Quieres intentarlo?" | | yuma§
 
 
-"Eh?!"
+§"Eh?!" | | lino§
 ----------------------------------------
-
 
 
 Inconscientemente lancé una chiflada voz de sorpresa.
@@ -153,13 +148,11 @@ Inconscientemente lancé una chiflada voz de sorpresa.
 ¿Será que lo estoy malinterpretando?
 Es una broma ¿verdad?
 
-
-
 ----------------------------------------
-"¿Tienes experiencia con algún instrumento musical?"
+§"¿Tienes experiencia con algún instrumento musical?" | | yuma§
 
 
-"De niña aprendí algo de piano así que podría decirse que sí"
+§"De niña aprendí algo de piano así que podría decirse que sí" | | lino§
 ----------------------------------------
 
 
@@ -183,11 +176,11 @@ Sus dedos tocaron las teclas con naturalidad, como si el instrumento la esperara
 
 
 ----------------------------------------
-"Ah... hace mucho que no toco el piano"
+§"Ah... hace mucho que no toco el piano" | | yuma§
 
-"¿Así que también puedes tocar el piano?"
+§"¿Así que también puedes tocar el piano?" | | lino§
 
-"Sí, aunque últimamente me he concentrado solo en mi guitarra acústica"
+§"Sí, aunque últimamente me he concentrado solo en mi guitarra acústica" | | yuma§
 ----------------------------------------
 
 
@@ -203,7 +196,7 @@ Me aterra la idea de tocar delante de ella.
 
 
 ----------------------------------------
-"Qui-Quiero que toques algo"
+§"Qui-Quiero que toques algo" | | lino§
 ----------------------------------------
 
 
@@ -211,7 +204,7 @@ Dije eso mientras esperaba en ese lugar.
 
 
 ----------------------------------------
-"......Mmh yo también..."
+§"......Mmh yo también..." | | yuma§
 ----------------------------------------
 
 
@@ -223,15 +216,15 @@ Ella da un respiro y luego empieza a tocar el teclado.
 
 
 
-Piano Sonata No.8 "Pathetic" Movimiento 2.
+§Piano Sonata No.8 "Pathetique" Movimiento 2. | https://www.youtube.com/watch?v=vGq3-Fi_zQY | link§
 Una de las reconocidas canciones de Beethoven.
 
 
-El primer movimiento se trata de una hermosa melodía que guarda una amabilidad y una melancolía compuesta por una iteración de pesadas y furiosas frases que te inundan como una ola de tristeza y desesperación.
+§El primer movimiento | https://www.youtube.com/watch?v=79gzdskOGu4 | link§ se trata de una hermosa melodía que guarda una amabilidad y una melancolía compuesta por una iteración de pesadas y furiosas frases que te inundan como una ola de tristeza y desesperación.
 
-El segundo movimiento como si fuera un descanzo del conflicto, expresa ternura, nostalgia, paz, como si buscara consuelo en medio del dolor. Muchos lo interpretan como una íntima confesión que expone la sensibilidad del ser humano.
+§El segundo movimiento | https://www.youtube.com/watch?v=vGq3-Fi_zQY | link§ como si fuera un descanzo del conflicto, expresa ternura, nostalgia, paz, como si buscara consuelo en medio del dolor. Muchos lo interpretan como una íntima confesión que expone la sensibilidad del ser humano.
 
-Por último el tercer movimiento, su tono retorna a la intensidad, pero no denota lucha, sino determinación. Es como si hallase la calma en medio del dolor, y fuera capaz de seguir adelante persiguiendo la esperanza del futuro.
+Por último §el tercer movimiento| https://www.youtube.com/watch?v=lJpSqC86vaw | link§, su tono retorna a la intensidad, pero no denota lucha, sino determinación. Es como si hallase la calma en medio del dolor, y fuera capaz de seguir adelante persiguiendo la esperanza del futuro.
 
 
 Dolor. Reflexión. Superación.
@@ -251,10 +244,10 @@ Tardo unos segundos en reaccionar y empiezo a aplaudir.
 
 
 ----------------------------------------
-"Cuando empecé con el piano, practiqué esta canción hasta el cansancio"
+§"Cuando empecé con el piano, practiqué esta canción hasta el cansancio" | | yuma§
 
 
-"Por eso puedes tocarla tan bien a pesar de no poseer un piano"
+§"Por eso puedes tocarla tan bien a pesar de no poseer un piano" | | lino§
 ----------------------------------------
 
 
@@ -262,10 +255,10 @@ Yuma se levanta, toma una silla que estaba por ahí cerca y luego la coloca a su
 
 
 ----------------------------------------
-"Vamos Siéntate"
+§"Vamos Siéntate" | | yuma§
 
 
-"S-sí"
+§"S-sí" | | lino§
 ----------------------------------------
 
 
@@ -273,18 +266,18 @@ Me pongo delante del piano, con los nervios a flor de piel.
 
 
 ----------------------------------------
-"¿Sabes tocar el Canon?"
+§"¿Sabes tocar el Canon?" | | yuma§
 
-"Lo he tocado alguna vez pero...¿Qué haremos?"
+§"Lo he tocado alguna vez pero...¿Qué haremos?" | | lino§
 
-"Será una presentación de piano a cuatro manos. Yo comienzo, y tú me sigues."
+§"Será una presentación de piano a cuatro manos. Yo comienzo, y tú me sigues." | | yuma§
 ----------------------------------------
 
 
 Al asentir con mi cabeza, ella empieza a tocar lentamente tonos bajos.
 
 
-El Canon de Pachelbel.
+§El Canon de Pachelbel. | https://www.youtube.com/watch?v=Gio1Ss0p0dE | link§
 Es reconocido como una de las piezas musicales más famosas de la música clásica.
 En la actualidad es usada en las ceremonias de graduación y en las bodas.
 
@@ -301,7 +294,7 @@ Trato de concentrarme para no estropear la presentación, pero seguramente ella 
 
 
 ----------------------------------------
-"¿Estás bien?"
+§"¿Estás bien?" | | yuma§
 ----------------------------------------
 
 

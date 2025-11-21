@@ -47,10 +47,10 @@ Y entonces Yuma dice algo con su habitual sereno tono de voz.
 
 
 ----------------------------------------
-"Has mejorado mucho"
+§"Has mejorado mucho" | | yuma§
 
 
-"¿Eso crees...? Gracias"
+§"¿Eso crees...? Gracias" | | lino§
 ----------------------------------------
 
 
@@ -72,11 +72,11 @@ Además ella también sigue mejorando.
 
 
 ----------------------------------------
-"Lino, esta claro que te volverás mejor que yo, en la guitarra, en cantar, incluso en componer canciones"
+§"Lino, esta claro que te volverás mejor que yo, en la guitarra, en cantar, incluso en componer canciones" | | yuma§
 
-"Eso es imposi..."
+§"Eso es imposi..." | | lino§
 
-"Es posible"
+§"Es posible" | | yuma§
 ----------------------------------------
 
 
@@ -92,10 +92,10 @@ Pero sus sinceras expectativas sembraban confianza en el corazón de Lino
 
 
 ----------------------------------------
-"Déjame escuchar esa canción"
+§"Déjame escuchar esa canción" | | yuma§
 
 
-"Ok..."
+§"Ok..." | | lino§
 ----------------------------------------
 
 
@@ -113,7 +113,7 @@ Si llegase a pararme en algún escenario perdería la consciencia.
 Los rayos del Sol desbordan del techo, reflejándose en la clavija de la guitarra.
 
 
-"El arte, me parece lo más hermoso que hay en este mundo"
+§"El arte, me parece lo más hermoso que hay en este mundo" | | yuma§
 Aquellas palabras que una vez dijo Yuma siempre han estado en mi cabeza.
 Alguien como yo que apenas empieza en el mundo de la música aún está a mil pasos de entender esas palabras correctamente.
 
@@ -172,7 +172,7 @@ La primavera de sus dieciséis años.
 Esa fue la vez que Lino compuso su primera canción.
 
 
-"Harumeku kotoba" (Palabras de primavera)
+§"Harumeku kotoba" (Palabras de primavera) | https://www.youtube.com/watch?v=4CVZvOTpLQw | link2§
 
 
 Mientras Yuma escuchaba, tuvo una sensación cálida expandiéndose desde su cuerpo.
@@ -182,7 +182,7 @@ Eso y también un poco de frustración corriendo por los rincones de su corazón
 
 
 Yuma pensó: 
-Después de muchos años de práctica, nunca había logrado esto. Ella tenía algo especial que yo no.
+§Después de muchos años de práctica, nunca había logrado esto. Ella tenía algo especial que yo no. | | yuma§
 
 
 
