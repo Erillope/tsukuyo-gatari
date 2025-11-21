@@ -55,7 +55,7 @@ Hoy también hace un ambiguo clima como aquel día. La banca donde coloco mis pi
 
 
 ---------------------------------------
-"Ah..."
+§"Ah..." | | toudou§
 ---------------------------------------
 
 
@@ -63,11 +63,11 @@ Escuché una pequeña voz, y volteé mi rostro.
 
 
 ---------------------------------------
-"¿Toudou-kun?"
+§"¿Toudou-kun?" | | yuma§
 ---------------------------------------
 
 
-"Tokaw... Yuma?"
+§"Tokaw... Yuma?" | | toudou§
 
 
 Llevábamos una expresión y voz perpleja.
@@ -76,7 +76,7 @@ Por un momento nos quedamos quietos. Mientras Toudou-kun se arreglaba la bufanda
 
 
 ---------------------------------------
-"Oye... ... Perdóname"
+§"Oye... ... Perdóname" | | toudou§
 ---------------------------------------
 
 
@@ -87,13 +87,13 @@ Sin embargo al ver el rostro de Toudou-kun, todos esos sentimientos desaparecier
 
 
 ---------------------------------------
-"¿Por qué te disculpas?"
+§"¿Por qué te disculpas?" | | yuma§
 
-"No...Es que...Pensé que estarías enojada conmigo"
+§"No...Es que...Pensé que estarías enojada conmigo" | | toudou§
 
-"...No estoy enojada. Pero sí me preocupé"
+§"...No estoy enojada. Pero sí me preocupé" | | yuma§
 
-"... ... Qué amable eres Yuma"
+§"... ... Qué amable eres Yuma" | | toudou§
 ---------------------------------------
 
 
@@ -105,20 +105,18 @@ Su voz la cual no escuchaba hace mucho, acaricia mi alborotado corazón suavemen
 
 
 ---------------------------------------
-"¿Se puede saber el por qué?"
+§"¿Se puede saber el por qué?" | | yuma§
 
-"... ...Perdí los escritos de la novela que iba a presentar en el concurso"
+§"...... Perdí los escritos de la novela que iba a presentar en el concurso" | | toudou§
 
-"Eh..."
+§"Eh..." | | yuma§
 
+§"Bueno, más que perderla en realidad fue desechada...Sabes, desde hace tiempo no he tenido una buena relación con mi padre.
+Siempre que ocurre algo, me grita como una bestia, cuando escribo novelas delante de él, se enoja mucho" | | toudou§
 
-"Bueno, más que perderla en realidad fue desechada...Sabes, desde hace tiempo no he tenido una buena relación con mi padre.
-Siempre que ocurre algo, me grita como una bestia, cuando escribo novelas delante de él, se enoja mucho"
+§"¿Por qué?" | | yuma§
 
-
-"¿Por qué?"
-
-"...Bueno él dice "Deja de hacer estás tonterías y ponte a estudiar" y se irrita mucho. Es por eso que hice lo posible por escribir fuera de casa pero..."
+§"...Bueno él dice "Deja de hacer estás tonterías y ponte a estudiar" y se irrita mucho. Es por eso que hice lo posible por escribir fuera de casa pero..." | | toudou§
 ---------------------------------------
 
 
@@ -126,10 +124,10 @@ Al escuchar eso, recuerdo la figura de Toudou-kun escribiendo sus novelas en la 
 
 
 ---------------------------------------
-"Ya veo...Entonces ¿Qué sucedió con tu novela?...¿Acaso no pudiste terminarla a tiempo?"
+§"Ya veo...Entonces ¿Qué sucedió con tu novela?...¿Acaso no pudiste terminarla a tiempo?" | | yuma§
 
 
-"No la terminé a tiempo... Pero está bien. Después de todo no tenía la suficiente confianza en mí mismo"
+§"No la terminé a tiempo... Pero está bien. Después de todo no tenía la suficiente confianza en mí mismo" | | toudou§
 ---------------------------------------
 
 
@@ -140,11 +138,11 @@ Toudou-kun dijo eso con un brillante tono de voz, y se podía notar el autodespr
 
 
 ---------------------------------------
-"Pero, en primavera habrá otro concurso así que tengo planeado inscribirme"
+§"Pero, en primavera habrá otro concurso así que tengo planeado inscribirme" | | toudou§
 
-"Qué bueno!... ¡Ánimos!"
+§"Qué bueno!... ¡Ánimos!" | | yuma§
 
-"...Muchas gracias"
+§"...Muchas gracias" | | toudou§
 ---------------------------------------
 
 
@@ -152,10 +150,10 @@ Me relajó el hecho de que Toudou-kun decidiera continuar escribiendo novelas.
 
 
 ---------------------------------------
-"...Y tú Yuma? ¿Qué tal la música?"
+§"...Y tú Yuma? ¿Qué tal la música?" | | toudou§
 
 
-"Bueeeno... Ni bien ni mal"
+§"Bueeeno... Ni bien ni mal" | | yuma§
 ---------------------------------------
 
 
@@ -166,10 +164,10 @@ Bueno, en realidad tampoco sé si me ha ido bien.
 
 
 ---------------------------------------
-"¿Puedo ir a verte la próxima vez?"
+§"¿Puedo ir a verte la próxima vez?" | | toudou§
 
 
-"... Por supuesto! Fortuitamente saldré un evento..."
+§"... Por supuesto! Fortuitamente saldré un evento..." | | yuma§
 ---------------------------------------
 
 
@@ -177,13 +175,13 @@ Busqué algo en mi mochila escolar, y le di a Toudou-kun un boleto que tenía de
 
 
 ---------------------------------------
-"Evento musical del año nuevo..."
+§"Evento musical del año nuevo..." | | toudou§
 
-"Como podrás notar, Yuma será uno de los participantes"
+§"Como podrás notar, Yuma será uno de los participantes" | | yuma§
 
-"Ehhh... Definitivamente iré!"
+§"Ehhh... Definitivamente iré!" | | toudou§
 
-"Yeey me esforzaré!"
+§"Yeey me esforzaré!" | | yuma§
 ---------------------------------------
 
 
@@ -211,13 +209,13 @@ Tras tomar un tren en una línea desconocida, llegué a la estación más cercan
 
 
 ---------------------------------------
-"¿Cómo estás?"
+§"¿Cómo estás?" | | hagino§
 
-"Más o menos..."
+§"Más o menos..." | | yuma§
 
-"Bueno, tú solo haz lo de siempre"
+§"Bueno, tú solo haz lo de siempre" | | hagino§
 
-"...No, lo haré mejor que siempre"
+§"...No, lo haré mejor que siempre" | | yuma§
 ---------------------------------------
 
 
@@ -229,7 +227,7 @@ Aunque sea pequeño, para mí es super gigante. El concurso al que asistí era m
 
 
 ---------------------------------------
-"Oh, Hagino!"
+§"Oh, Hagino!" | | gawara§
 ---------------------------------------
 
 
@@ -237,7 +235,7 @@ Mi maestro y yo nos volteamos hacia aquella voz.
 
 
 ---------------------------------------
-"Gawara! a los tiempos"
+§"Gawara! a los tiempos" | | hagino§
 ---------------------------------------
 
 
@@ -248,7 +246,7 @@ Aquel hombre llamado Gawara me resulta familiar.
 
 
 ---------------------------------------
-"Acaso esa chica no es...?"
+§"Acaso esa chica no es...?" | | gawara§
 ---------------------------------------
 
 
@@ -256,7 +254,7 @@ Eso fue lo que pregunto aquel señor mientras me echaba un vistazo.
 
 
 ---------------------------------------
-"Así es, ella es Yuma-chan"
+§"Así es, ella es Yuma-chan" | | hagino§
 ---------------------------------------
 
 
@@ -264,10 +262,10 @@ Cuando mi maestro respondió esto, aquel señor me saludó y me miró así que m
 
 
 ---------------------------------------
-"Gu-gusto en conocerle. Soy Yuma"
+§"Gu-gusto en conocerle. Soy Yuma" | | yuma§
 
 
-"El gusto es mío, puedes llamarme Ogawara"
+§"El gusto es mío, puedes llamarme Ogawara" | | gawara§
 ---------------------------------------
 
 
@@ -279,15 +277,15 @@ Ante mis ojos, transmite un aura de artísta.
 
 
 ---------------------------------------
-"Gawara y yo somos hermanos aprendices, o sea que al igual que yo él también fue aprendiz de tu padre Yuma"
+§"Gawara y yo somos hermanos aprendices, o sea que al igual que yo él también fue aprendiz de tu padre Yuma" | | hagino§
 
-"Ya veo..."
+§"Ya veo..." | | yuma§
 
-"En cuanto a eso...Mi maestro para mí es el muro que debo de superar. Tú su hija, ahora apuntas hacia el camino de la música, me gustaría presenciar tal asombroso suceso, por eso te he invitado al evento."
+§"En cuanto a eso...Mi maestro para mí es el muro que debo de superar. Tú, su hija, ahora apuntas hacia el camino de la música, me gustaría presenciar tal asombroso suceso, por eso te he invitado al evento." | | gawara§
 
-"Es un gran honor!... Muchas gracias!"
+§"Es un gran honor!... Muchas gracias!" | | yuma§
 
-"Hagino es un regañón ¿verdad?"
+§"Hagino es un regañón ¿verdad?" | | gawara§
 ---------------------------------------
 
 
@@ -295,7 +293,7 @@ Eso dijo el señor Ogawara mientras sonreía un poco.
 
 
 ---------------------------------------
-"Sí... lo es un poco, pero también es super amable"
+§"Sí... lo es un poco, pero también es super amable" | | yuma§
 ---------------------------------------
 
 
@@ -303,10 +301,10 @@ Al decir eso, el señor Ogawara sonrío placenteramente.
 
 
 ---------------------------------------
-"Vaya, Hagino así que te has vuelto un blandito"
+§"Vaya, Hagino así que te has vuelto un blandito" | | gawara§
 
 
-"Gawara! Deja de decir tonterias"
+§"Gawara! Deja de decir tonterias" | | hagino§
 ---------------------------------------
 
 
@@ -314,7 +312,7 @@ Mi maestro dijo eso mientras se le cortaba la sonrisa como si le hubieran clavad
 
 
 ---------------------------------------
-"Está bien, está bien"
+§"Está bien, está bien" | | gawara§
 ---------------------------------------
 
 
@@ -326,15 +324,15 @@ Bueno después de todo son hermanos aprendices, seguramente sean amigos íntimos
 
 
 ---------------------------------------
-"Por cierto Gawara, ni creas que Yuma-chan se cambiará de bando"
+§"Por cierto Gawara, ni creas que Yuma-chan se cambiará de bando" | | hagino§
 
-"Ya lo sé, tranqui no te robaré tu diversión Hagino. Además yo también ya tengo un discípulo desde hace un año"
+§"Ya lo sé, tranqui no te robaré tu diversión Hagino. Además yo también ya tengo un discípulo desde hace un año" | | gawara§
 
-"Eh! no me lo habías contado"
+§"Eh! no me lo habías contado" | | hagino§
 
-"Ya la conocerás, también participará en el evento de hoy"
+§"Ya la conocerás, también participará en el evento de hoy" | | gawara§
 
-"Ya veo, hoy será un evento muy divertido"
+§"Ya veo, hoy será un evento muy divertido" | | hagino§
 ---------------------------------------
 
 
@@ -351,7 +349,7 @@ Mi aliento se siente dulce.
 
 
 ---------------------------------------
-"Eh! ¿Yui-chan?"
+§"Eh! ¿Yui-chan?" | | nagisa§
 ---------------------------------------
 
 
@@ -363,7 +361,7 @@ Al voltear mi mirada, quien se hallaba frente a mí era alguien muy familiar.
 
 
 ---------------------------------------
-"Ah!...Na-Nagisa-chan!"
+§"Ah!...Na-Nagisa-chan!" | | yuma§
 ---------------------------------------
 
 
@@ -377,13 +375,13 @@ Ella siempre ganaba el premio de oro.
 
 
 ---------------------------------------
-"A los siglos!" ¿Cuánto tiempo ha pasado? Desde aquel concurso ¿no?"
+§"A los siglos! ¿Cuánto tiempo ha pasado? Desde aquel concurso ¿no?" | | nagisa§
 
-"A-Así es"
+§"A-Así es" | | yuma§
 
-"¿Por qué tan formal? jaja. Vamos no pasa nada, charlemos como en los viejos tiempos"
+§"¿Por qué tan formal? jaja. Vamos no pasa nada, charlemos como en los viejos tiempos" | | nagisa§
 
-"Eh... ah... sí"
+§"Eh... ah... sí" | | yuma§
 ---------------------------------------
 
 
@@ -400,24 +398,24 @@ Nagisa-chan está de pie delante de la máquina expendedora pensando cuidadosame
 
 
 ---------------------------------------
-"Por cierto, ya no te he visto en los concursos. Todos nos preocupamos pensando qué había sido de ti"
+§"Por cierto, ya no te he visto en los concursos. Todos nos preocupamos pensando qué había sido de ti" | | nagisa§
 
 
-"Mmmh... es que pasaron muchas cosas"
+§"Mmmh... es que pasaron muchas cosas" | | yuma§
 ---------------------------------------
 
 
 
 Inconscientemente aparté la mirada.
-Obviamente no le podía decir algo como "Me rendí al fracasar perdiendo ante ti"
+Obviamente no le podía decir algo como §"Me rendí al fracasar perdiendo ante ti" | | yuma§
 
 
 
 ---------------------------------------
-"Bueno, yo tampoco he participado. Sin Yui-chan no hay oponentes interesantes"
+§"Bueno, yo tampoco he participado. Sin Yui-chan no hay oponentes interesantes" | | nagisa§
 
 
-"Eh!"
+§"Eh!" | | yuma§
 ---------------------------------------
 
 
@@ -428,11 +426,11 @@ Entonces Nagisa-chan presionó el botón de la máquina expendedora, el sonido d
 
 
 ---------------------------------------
-"Yo soy dos años mayor que tú Yui-chan ¿no? Pero a decir verdad, desde la primera vez que te vi he pensado que eres mucho más talentosa que yo cuando tenía tu edad"
+§"Yo soy dos años mayor que tú Yui-chan ¿no? Pero a decir verdad, desde la primera vez que te vi he pensado que eres mucho más talentosa que yo cuando tenía tu edad" | | nagisa§
 
-"Ehh!...Eso es imposible"
+§"Ehh!...Eso es imposible" | | yuma§
 
-"No, no estoy equivocada! Practicaba tanto porque no quería perder siendo yo la mayor"
+§"No, no estoy equivocada! Practicaba tanto porque no quería perder siendo yo la mayor" | | nagisa§
 ---------------------------------------
 
 
@@ -440,7 +438,7 @@ Eso confesó Nagisa-chan mientras llevaba la lata de jugo a su boca.
 
 
 ---------------------------------------
-"Y luego de que me enteré que ya no participarías, perdí el total interés jaja. Por supuesto, aún sigo practicando el piano"
+§"Y luego de que me enteré que ya no participarías, perdí el total interés jaja. Por supuesto, aún sigo practicando el piano" | | nagisa§
 ---------------------------------------
 
 
@@ -452,16 +450,16 @@ En estos momentos solamente me quedo callada sin saber qué responder.
 
 Siendo sincera, una parte de mí la odiaba.
 No podía superarla sin importar cuanto me esforzara.
-Incluso llegué a pensar algo tan feo como "Ojalá no existieras"
+Incluso llegué a pensar algo tan feo como §"Ojalá no existieras" | | yuma§
 Sin embargo, para ella yo también representaba una amenaza.
 
 
 
 ---------------------------------------
-"Perdóname..."
+§"Perdóname..." | | yuma§
 
 
-"¿Por qué te disculpas?"
+§"¿Por qué te disculpas?" | | nagisa§
 ---------------------------------------
 
 
@@ -469,10 +467,10 @@ Nagisa-chan sonríe alegremente. Puedo sentir como ligeramente mis lágrimas cub
 
 
 ---------------------------------------
-"...Muchas gracias"
+§"...Muchas gracias" | | yuma§
 
 
-"¿Por qué me agradeces?"
+§"¿Por qué me agradeces?" | | nagisa§
 ---------------------------------------
 
 
@@ -485,7 +483,7 @@ A pesar de que ella estaba dispuesta a enfrentarme frente a frente, yo no fui ca
 
 
 ---------------------------------------
-"Espera! más importante que nada ¿Qué haces por aquí?"
+§"Espera! más importante que nada ¿Qué haces por aquí?" | | nagisa§
 ---------------------------------------
 
 
@@ -496,10 +494,10 @@ Claro! Ella también es uno de los participantes.
 
 
 ---------------------------------------
-"Yo también participaré en el evento de hoy"
+§"Yo también participaré en el evento de hoy" | | yuma§
 
 
-"Lo sabía! de lo contrario no tendría sentido verte por aquí"
+§"Lo sabía! de lo contrario no tendría sentido verte por aquí" | | nagisa§
 ---------------------------------------
 
 
@@ -507,7 +505,7 @@ Luego, ella recompone su postura, con un serio rostro y el pecho en lo alto dijo
 
 
 ---------------------------------------
-"Yo soy la cantautora Saito Nagisa ¿Y tú?"
+§"Yo soy la cantautora Saito Nagisa ¿Y tú?" | | nagisa§
 ---------------------------------------
 
 
@@ -518,10 +516,10 @@ Luego de un segundo de retraso yo también respondí.
 
 
 ---------------------------------------
-"...Yo soy Yuma. La cantautora Yuma"
+§"...Yo soy Yuma. La cantautora Yuma" | | yuma§
 
 
-"Llevémonos bien Yuma-chan"
+§"Llevémonos bien Yuma-chan" | | nagisa§
 ---------------------------------------
 
 
@@ -533,7 +531,7 @@ Recuerdo que hace tiempo también era así, juntábamos nuestros puños y nos d�
 
 
 ---------------------------------------
-"Eh! cierto ¿Por qué Yuma?"
+§"Eh! cierto ¿Por qué Yuma?" | | nagisa§
 ---------------------------------------
 
 
@@ -541,7 +539,7 @@ Preguntó Nagisa-chan mientras me miraba.
 
 
 ---------------------------------------
-"...No es nada importante"
+§"...No es nada importante" | | yuma§
 ---------------------------------------
 
 
@@ -549,10 +547,10 @@ Luego de decir eso, tomé un pequeño respiro
 
 
 ---------------------------------------
-"Es solo que quise renacer"
+§"Es solo que quise renacer" | | yuma§
 
 
-"¿Renacer?"
+§"¿Renacer?" | | nagisa§
 ---------------------------------------
 
 
@@ -560,7 +558,7 @@ Nagisa-chan baja su mirada mientras repite lo que dije.
 
 
 ---------------------------------------
-"Yo una vez dejé la música. Así que no tuve más opción que ser un nuevo yo para poder levantarme"
+§"Yo una vez dejé la música. Así que no tuve más opción que ser un nuevo yo para poder levantarme" | | yuma§
 ---------------------------------------
 
 
@@ -571,7 +569,7 @@ Ella también sonrió mientras cerraba sus ojos.
 
 
 ---------------------------------------
-"Ya veo, me reconforta saber que continues con la música"
+§"Ya veo, me reconforta saber que continues con la música" | | nagisa§
 ---------------------------------------
 
 
@@ -627,10 +625,10 @@ Regresé a la parte lateral del escenario, y luego de dar un gran respiro mi mae
 
 
 ---------------------------------------
-"Bien hecho"
+§"Bien hecho" | | hagino§
 
 
-"Muchas gracias..."
+§"Muchas gracias..." | | yuma§
 ---------------------------------------
 
 
@@ -641,10 +639,10 @@ Sentí un gran alivio mientras el líquido de la fría bebida recorría todo mi 
 
 
 ---------------------------------------
-"¿Cómo te sentiste?"
+§"¿Cómo te sentiste?" | | hagino§
 
 
-"Ehh...Fue muy divertido"
+§"Ehh...Fue muy divertido" | | yuma§
 ---------------------------------------
 
 
@@ -655,10 +653,10 @@ Luego, mientras hablamos por un rato, vino el siguiente participante el señor O
 
 
 ---------------------------------------
-"¿Qué tal? Hagino, Yuma-chan"
+§"¿Qué tal? Hagino, Yuma-chan" | | gawara§
 
 
-"Señor Ogawara! Muchas gracias por lo de hoy"
+§"Señor Ogawara! Muchas gracias por lo de hoy" | | yuma§
 ---------------------------------------
 
 
@@ -666,11 +664,11 @@ Bajé profundamente mi cabeza.
 
 
 ---------------------------------------
-"El gusto es mío, justo como lo esperé...No, incluso superando mis expectativas, brillaste mucho más que en los ensayos.
-Al ver aquel escenario, me sentí orgulloso de patrocinar un evento como este"
+§"El gusto es mío, justo como lo esperé...No, incluso superando mis expectativas, brillaste mucho más que en los ensayos.
+Al ver aquel escenario, me sentí orgulloso de patrocinar un evento como este" | | gawara§
 
 
-"No, como cree..."
+§"No, como cree..." | | yuma§
 ---------------------------------------
 
 
@@ -681,11 +679,11 @@ Al ver a mi maestro, el también está muy contento.
 
 
 ---------------------------------------
-"Gawara, tu discípulo es esa chica Saito Nagisa ¿no?"
+§"Gawara, tu discípulo es esa chica Saito Nagisa ¿no?" | | hagino§
 
-"Vaya ¿Cómo lo supiste?"
+§"Vaya ¿Cómo lo supiste?" | | gawara§
 
-"Ya me conoces, mera intuición"
+§"Ya me conoces, mera intuición" | | hagino§
 ---------------------------------------
 
 
@@ -696,10 +694,10 @@ En su canción, en su piano, en su melodía, puedo sentir la influencia del señ
 
 
 ---------------------------------------
-"Esa chica sí que me sorprendió, no solo fue capaz de heredar tu estilo de música Gawara, si no que también lo ha mezclado con su propio estilo. Puedo sentir lo mucho que ha evolucionado."
+§"Esa chica sí que me sorprendió, no solo fue capaz de heredar tu estilo de música Gawara, si no que también lo ha mezclado con su propio estilo. Puedo sentir lo mucho que ha evolucionado." | | hagino§
 
 
-"A que sí?"
+§"A que sí?" | | gawara§
 ---------------------------------------
 
 
@@ -710,8 +708,8 @@ Son como dos padres presumiendo a sus hijas.
 
 
 ---------------------------------------
-"Tu Yuma-chan y mi Nagisa-chan, siento que un abrir y cerrar de ojos serán capaces de superarnos.
-Y yo que pensaba que nosotros aún éramos jóvenes, pero ya veo que empiezan a brotar las semillas de la siguiente generación"
+§"Tu Yuma-chan y mi Nagisa-chan, siento que un abrir y cerrar de ojos serán capaces de superarnos.
+Y yo que pensaba que nosotros aún éramos jóvenes, pero ya veo que empiezan a brotar las semillas de la siguiente generación" | | gawara§
 ---------------------------------------
 
 
@@ -719,10 +717,10 @@ El señor Ogawara cierra los ojos como si estuviera recordando los viejos tiempo
 
 
 ---------------------------------------
-"La siguiente vez que nos veamos, puliré mucho más a mi Nagisa-chan"
+§"La siguiente vez que nos veamos, puliré mucho más a mi Nagisa-chan" | | gawara§
 
 
-"Lo mismo digo yo!"
+§"Lo mismo digo yo!" | | hagino§
 ---------------------------------------
 
 
@@ -736,10 +734,10 @@ Apresuradamente fui y me senté a su lado.
 
 
 ---------------------------------------
-"Yuma-chan bien hecho!"
+§"Yuma-chan bien hecho!" | | nagisa§
 
 
-"Tú también bien hecho! Nagisa-chan"
+§"Tú también bien hecho! Nagisa-chan" | | yuma§
 ---------------------------------------
 
 
@@ -751,10 +749,10 @@ Dentro de mi cabeza solo daba vueltas aquel escenario donde Nagisa-chan y yo est
 
 
 ---------------------------------------
-"Ahh... después de todo, no soy rival para Yuma"
+§"Ahh... después de todo, no soy rival para Yuma" | | nagisa§
 
 
-"Ehh!?"
+§"Ehh!?" | | yuma§
 ---------------------------------------
 
 
@@ -765,10 +763,10 @@ Mientras ella cerraba sus ojos sonreía sombríamente.
 
 
 ---------------------------------------
-"Tal vez yo no tenga talento"
+§"Tal vez yo no tenga talento" | | nagisa§
 
 
-"Eso no es así..."
+§"Eso no es así..." | | nagisa§
 ---------------------------------------
 
 
@@ -780,11 +778,11 @@ Al ver su expresión nublada, no pude decir nada y me quedé callada una vez má
 
 
 ---------------------------------------
-"Creo que si ahora mismo estuviéramos en aquel concurso...Sin duda alguna perdería ante ti Yuma-chan"
+§"Creo que si ahora mismo estuviéramos en aquel concurso...Sin duda alguna perdería ante ti Yuma-chan" | | nagisa§
 
-"...¿Por qué piensas eso?"
+§"...¿Por qué piensas eso?" | | yuma§
 
-"¿Por qué?"
+§"¿Por qué?" | | nagisa§
 ---------------------------------------
 
 
@@ -793,8 +791,8 @@ Sentí algo de rabia en el tono de Nagisa-chan cuando repitió mis palabras.
 
 
 ---------------------------------------
-"Sabes, cuando te escuché cantar Yuma-chan, me di cuenta de que tienes algo que yo no.
-Pensé que solo me faltaba habilidad...Pero no es así, no es solo eso"
+§"Sabes, cuando te escuché cantar Yuma-chan, me di cuenta de que tienes algo que yo no.
+Pensé que solo me faltaba habilidad...Pero no es así, no es solo eso" | | nagisa§
 ---------------------------------------
 
 
@@ -802,15 +800,15 @@ Nagisa-chan respira para calmar su aliento, y continua con su charla.
 
 
 ---------------------------------------
-"En aquel escenario, al verte cantar mientras las luces te iluminaban.
+§"En aquel escenario, al verte cantar mientras las luces te iluminaban.
 Te veías taaaaan increíble, taaaaan hermosa.
-Al ver tu escena dando absolutamente todo de ti, simplemente pensé que eras inalcanzable para mí"
+Al ver tu escena dando absolutamente todo de ti, simplemente pensé que eras inalcanzable para mí" | | nagisa§
 
 
-"... ... ..."
+§"........." | | yuma§
 
 
-"Por lo menos ahora...No, incluso si llegase a alcanzar a la Yuma-chan de hoy, seguramente ya habrías avanzado mil pasos más ¿no?"
+§"Por lo menos ahora...No, incluso si llegase a alcanzar a la Yuma-chan de hoy, seguramente ya habrías avanzado mil pasos más ¿no?" | | nagisa§
 ---------------------------------------
 
 
@@ -821,11 +819,11 @@ Pienso que aunque niegue o le de la razón a lo que dice, mis palabras no llegar
 
 
 ---------------------------------------
-"Pero bueno, es algo natural ¿no?
+§"Pero bueno, es algo natural ¿no?
 Hay personas que tienen talento...Y otras que no...
 Solo me queda creer intensamente en mí misma, avanzar ciegamente por un camino que desconozco si es el correcto o no...
 Y al final llegar a un callejón sin salida.
-Tarde o temprano en algún momento todos se darán cuenta"
+Tarde o temprano en algún momento todos se darán cuenta" | | nagisa§
 ---------------------------------------
 
 
@@ -836,19 +834,19 @@ En su voz se notaba que estaba a punto de llorar, aún así ella continuó habla
 
 
 ---------------------------------------
-"Las personas que tienen talento, sin siquiera notarlo pisotean a los que no lo tienen.
+§"Las personas que tienen talento, sin siquiera notarlo pisotean a los que no lo tienen.
 Presumen de su talento sin ser consientes de lo especiales que son.
 Cada vez que se cumplen sus sueños, destruyen el de alguien más...
 Al final solo queda un ganador y un perdedor.
-Por eso...Es justamente por eso que el ganador tiene la responsabilidad de seguir adelante por el perdedor"
+Por eso...Es justamente por eso que el ganador tiene la responsabilidad de seguir adelante por el perdedor" | | nagisa§
 
-"La responsabilidad..."
+§"La responsabilidad..." | | yuma§
 
-"Ojalá haberme dado cuenta de esto antes, ya es tarde como para dar marcha atrás"
+§"Ojalá haberme dado cuenta de esto antes, ya es tarde como para dar marcha atrás" | | nagisa§
 
-"¿Te refieres a dejar la música?"
+§"¿Te refieres a dejar la música?" | | yuma§
 
-"Sí...Tal vez la deje"
+§"Sí...Tal vez la deje" | | nagisa§
 ---------------------------------------
 
 
@@ -856,10 +854,10 @@ Ella baja su cabeza intentando esconder su mirada. Su cuerpo se veía mucho más
 
 
 ---------------------------------------
-"...No puedes hacer eso!"
+§"...No puedes hacer eso!" | | yuma§
 
 
-"...¿Por qué?"
+§"...¿Por qué?" | | nagisa§
 ---------------------------------------
 
 
@@ -867,14 +865,14 @@ Eso preguntó ella con una débil voz y con su cabeza mirando hacia abajo.
 
 
 ---------------------------------------
-"Yo también...Hui al perder ante ti Nagisa-chan en aquel concurso de piano.
-Pero en lo profundo de mí siempre me estuve arrepintiendo. Sabía que podía esforzarme más"
+§"Yo también...Hui al perder ante ti Nagisa-chan en aquel concurso de piano.
+Pero en lo profundo de mí siempre me estuve arrepintiendo. Sabía que podía esforzarme más" | | yuma§
 
-"Pero, al fin de cuentas..."
+§"Pero, al fin de cuentas..." | | nagisa§
 
-""Mis sueños no se cumplirán"??? No crees que aún es muy temprano para decidir eso y huir? Sé que es doloroso si después de mucho y mucho esfuerzo los resultados no son favorables. Pero..."
+§""Mis sueños no se cumplirán"??? No crees que aún es muy temprano para decidir eso y huir? Sé que es doloroso si después de mucho y mucho esfuerzo los resultados no son favorables. Pero..." | | yuma§
 
-"¿Pero?"
+§"¿Pero?" | | nagisa§
 ---------------------------------------
 
 
@@ -882,13 +880,13 @@ Como si me incitara a continuar con mis palabras, ella alzó su cabeza.
 
 
 ---------------------------------------
-"¿De verdad puedes decir que te has esforzado lo suficiente como para rendirte?"
+§"¿De verdad puedes decir que te has esforzado lo suficiente como para rendirte?" | | yuma§
 
-"... ...Es que... ..."
+§"......Es que......" | | nagisa§
 
-"¿Qué será de mí en el futuro? Yo también pienso en eso de vez en cuando. Sé que solo porque me guste la música no significa que podré comer de eso.
+§"¿Qué será de mí en el futuro? Yo también pienso en eso de vez en cuando. Sé que solo porque me guste la música no significa que podré comer de eso.
 Pero quiero hacer lo que me gusta. Todos apuntamos a eso ¿no?
-Spy consiente de que hacerlo realidad no es nada sencillo. Sin embargo si nunca te esfuerzas, jamás serás recompensado"
+Soy consiente de que hacerlo realidad no es nada sencillo. Sin embargo si nunca te esfuerzas, jamás serás recompensado" | | yuma§
 ---------------------------------------
 
 
@@ -896,10 +894,10 @@ Continuo lanzando mis pensamientos mientras Nagisa-chan me escucha sin decir nin
 
 
 ---------------------------------------
-"Es injusto poner de excusa que uno es joven, pero por ahora y hasta que seamos adultas ¿No crees que sería hermoso soñar?"
+§"Es injusto poner de excusa que uno es joven, pero por ahora y hasta que seamos adultas ¿No crees que sería hermoso soñar?" | | yuma§
 
 
-"...Sí...Es verdad"
+§"...Sí...Es verdad" | | yuma§
 ---------------------------------------
 
 
@@ -907,18 +905,18 @@ Nagisa-chan me responde con una voz muy débil.
 
 
 ---------------------------------------
-"Perdón, ceo que te he hablado agresivamente"
+§"Perdón, ceo que te he hablado agresivamente" | | yuma§
 
-"...Jaja. ¿Y tú por qué estás llorando Yuma-chan?"
+§"...Jaja. ¿Y tú por qué estás llorando Yuma-chan?" | | nagisa§
 
-"Eh!?"
+§"Eh!?" | | yuma§
 ---------------------------------------
 
 
 
 Cuando me dijo eso, noté que mis lágrimas acarician mis mejillas, me di prisa y me limpié.
 Quería mirar cuál era su expresión, así que dirigí mi mirada hacia ella.
-Unas cristalinas gotas empezaron a brotar de sus ojos"
+Unas cristalinas gotas empezaron a brotar de sus ojos
 
 
 
@@ -928,7 +926,7 @@ Luego me miró y me dijo con unos ojos serios llenos de determinación.
 
 
 ---------------------------------------
-"Gracias! Intentaré esforzarme un poco más!"
+§"Gracias! Intentaré esforzarme un poco más!" | | nagisa§
 ---------------------------------------
 
 

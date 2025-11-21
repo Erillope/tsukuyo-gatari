@@ -27,7 +27,7 @@ Mientras me cubro la cara con mis manos, doy un paso hacia el riel de la puerta 
 A través de la brecha entre mis dedos, pude ver su figura.
 
 ----------------------------------------
-"¿Teruna?"
+§"¿Teruna?" | | chiharu§
 ----------------------------------------
 
 La voz de Chiharu, fríamente es absorbida por el pacífico viento.
@@ -37,14 +37,14 @@ De lado de la valla, La figura de Teruna dando la espalda y parada sobre el bord
 Su cabello a la altura de su cuello se balancea junto al viento dejando ver ocasionalmente su blanca nuca del cuello.
 
 ----------------------------------------
-"Hey, ¿Qué haces?"
+§"Hey, ¿Qué haces?" | | chiharu§
 ----------------------------------------
 
 Chiharu vuelve a preguntar, pero con un tono de voz más fuerte que antes.
 Hacía lo posible para mantener la calma, sin embargo, su voz tiembla ligeramente y se notan sus intentos por ocultar su terror.
 
 ----------------------------------------
-"¡Espera!"
+§"¡Espera!" | | chiharu§
 ----------------------------------------
 
 Mientras responde eso, gira levemente su rostro hacía aquí.
@@ -58,7 +58,7 @@ Teruna lentamente extiende sus dos brazos y como si fuera un ave su silueta form
 De inmediatamente, Chiharu corre hacia Teruna y extiende sus brazos.
 
 ----------------------------------------
-"Lo siento Chiharu, perdóname"
+§"Lo siento Chiharu, perdóname" | | teruna§
 ----------------------------------------
 
 En ese instante, el cuerpo de Teruna saltó al vacío.
@@ -82,7 +82,7 @@ En su frente, en sus párpados, incluso en las raíces de sus cabellos se sentí
 Sus manos tiemblan al alzarlas para limpiarse.
 
 ----------------------------------------
-"Acabo de ver un sueño horripilante" 
+§"Acabo de ver un sueño horripilante" | | chiharu§
 ----------------------------------------
 
 Es lo que pensó Chiharu.
@@ -119,7 +119,7 @@ En las clases de la mañana me estaba quedando dormida.
 A pesar de que trate de aguantar, mientras apoyo la barbilla en mis manos, mis párpados naturalmente ceden, y poco a poco perdía la conciencia. Entonces las voces y ruidos a mi alrededor, comenzaron a alejarse.
 
 ----------------------------------------
-"Chiharu"
+§"Chiharu" | | teruna§
 ----------------------------------------
 
 Vacío, en una habitación totalmente blanca.
@@ -173,26 +173,26 @@ El frío viento de repente penetró su cuerpo.
 Justo como intuía su corazonada, ahí estaba ella.
 
 ----------------------------------------
-"Eh? Chiharu, ¿Te sucede algo?"
+§"Eh? Chiharu, ¿Te sucede algo?" | | teruna§
 ----------------------------------------
 
 Chiharu en vez de responder, corre hacia Teruna y se lanza a ella para abrazarla.
 Mientras toca su espalda, la sostenía con más fuerza.
 
 ----------------------------------------
-"Chi... Chiharu?"
+§"Chi... Chiharu?" | | teruna§
 ----------------------------------------
 
 Teruna está desconcertada, pero para corresponderle, nerviosamente también abraza a Chiharu.
 
 ----------------------------------------
-“Teruna”
+§“Teruna” | | chiharu§
 ----------------------------------------
 
 Como si hubiera captado la preocupación que se hallaba en la voz de Chiharu, Teruna amablemente acaricia su espalda.
 
 ----------------------------------------
-"Ahh al fin lo entiendo, tengo miedo de perder a Teruna"
+§"Ahh al fin lo entiendo, tengo miedo de perder a Teruna" | | chiharu§
 ----------------------------------------
 
 Es lo que pensó Chiharu.
@@ -202,17 +202,17 @@ Es por eso que pienso que es necesario.
 Eso no es todo, no se trata de algo egoísta, simplemente es alguien a quien no quiero perder.
 
 ----------------------------------------
-"¿Estás bien?"
+§"¿Estás bien?" | | teruna§
 ----------------------------------------
 
 Ella se ve tan preocupada que le habló amablemente, como si estuviera tratando con un artículo frágil.
 
 ----------------------------------------
-"No pasa nada, es solo que tuve un horrible sueño"
+§"No pasa nada, es solo que tuve un horrible sueño" | | chiharu§
 
-"¿Sueño? ¿Te refieres a "esos sueños"?"
+§"¿Sueño? ¿Te refieres a "esos sueños"?" | | teruna§
 
-"No, esta vez fue un poco distinto"
+§"No, esta vez fue un poco distinto" | | chiharu§
 ----------------------------------------
 
 Intentó contarle sobre el sueño de la mañana, pero al final se quedó callada.
@@ -222,23 +222,23 @@ Chiharu se alejó de Teruna con una expresión de pena.
 Desafortunadamente Chiharu no encuentra las palabras para explicar lo que trata de decir.
 
 ----------------------------------------
-"En cuanto a sueños, yo también he tenido sueños raros"
+§"En cuanto a sueños, yo también he tenido sueños raros" | | teruna§
 
-"¿Sueños raros?"
+§"¿Sueños raros?" | | chiharu§
 ----------------------------------------
 
 Chiharu inclina su cuello.
 
 ----------------------------------------
-"Por ejemplo, un sueño en el que nos convertimos en héroes de la justicia y ¡luchamos contra los tipos malos!"
+§"Por ejemplo, un sueño en el que nos convertimos en héroes de la justicia y ¡luchamos contra los tipos malos!" | | teruna§
 
-"¿Qué rayos es eso? Es super raro"
+§"¿Qué rayos es eso? Es super raro" | | chiharu§
 ----------------------------------------
 
 Ambas empiezan a reír a carcajadas.
 
 ----------------------------------------
-"Se tratan de tontos sueños, pero Teruna realmente podría ser quien pueda salvarme"
+§"Se tratan de tontos sueños, pero Teruna realmente podría ser quien pueda salvarme" | | chiharu§
 ----------------------------------------
 
 Pensó Chiharu.

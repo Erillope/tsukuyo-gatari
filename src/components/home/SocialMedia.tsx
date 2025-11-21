@@ -1,6 +1,6 @@
-import YoutubeIcon from "../../../public/assets/youtube.svg";
-import TwitterIcon from "../../../public/assets/twitter.svg";
-import TikTokIcon from "../../../public/assets/tiktok.svg";
+import YoutubeIcon from "../../assets/youtube.svg";
+import TwitterIcon from "../../assets/twitter.svg";
+import TikTokIcon from "../../assets/tiktok.svg";
 import { Box} from "@mui/material";
 import { Icon } from "../ui/Icon";
 

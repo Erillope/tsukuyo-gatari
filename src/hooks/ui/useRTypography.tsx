@@ -1,10 +1,11 @@
 import { useEffect, useState } from "react"
 import { useStartTransition } from "../useStartTransition"
+import "../../styles.css"
 
 type ParsedSegment =
     | { type: "text"; value: string }
     | {
-        type: "link";
+        type: "link" | "dialog";
         label: string;
         href: string;
         className?: string;
@@ -22,6 +23,10 @@ export const useRTypography = (props: { variant?: string, text: string }) => {
         return segments.map((seg) => {
             if (seg.type === "text") {
                 return <span key={seg.value}> {seg.value} </span>;
+            }
+
+            if (seg.type === "dialog") {
+                return <span key={seg.label} className={"character " + (seg.className || "")}> {seg.label} </span>;
             }
 
             return (
@@ -61,7 +66,7 @@ export const useRTypography = (props: { variant?: string, text: string }) => {
             }
             const inner = part.slice(1, -1);
             const { label, href, className } = getSegmentData(inner);
-            segments.push({ type: "link", label, href, className: className || undefined });
+            segments.push({ type: href.trim() === "" ? "dialog" : "link", label, href, className: className || undefined });
         }
         return segments;
     }

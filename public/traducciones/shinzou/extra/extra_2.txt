@@ -55,7 +55,7 @@ Se veían como si fueran grandes tumbas
 
 
 
-Una familia que le dijera "Bienvenida" al regresar.
+Una familia que le dijera §"Bienvenida" | | § al regresar.
 Una familia que la rodeara en una cálida mesa.
 Algo tan habitual como eso, ella no lo tuvo en su hogar.
 
@@ -66,7 +66,7 @@ Cuando me comentó eso, yo le pregunté ¿También me odias a mí? y entonces el
 
 
 
-Cuando me di cuenta, mi voluntad había sido arrebatada por la filosofía "Mira al de tu derecha".
+Cuando me di cuenta, mi voluntad había sido arrebatada por la filosofía §"Mira al de tu derecha | | §".
 En mi crianza eso era lo normal, pero en algún momento de mi vida me aferré a tales preguntas como ¿Por qué estoy viva?
 
 
@@ -99,7 +99,7 @@ Al darme cuenta, ya habían pasado tres inviernos desde que salí de esta ciudad
 
 
 ---------------------------------------
-"Nadie nunca pidió nacer. Es por eso que si en algún momento sientes que ya has caminado mucho, está bien detenerse y llorar"
+§"Nadie nunca pidió nacer. Es por eso que si en algún momento sientes que ya has caminado mucho, está bien detenerse y llorar" | | yuma§
 ---------------------------------------
 
 
@@ -149,10 +149,10 @@ El sonido de las gotas de lluvia al chocar contra el concreto.
 
 
 ---------------------------------------
-"Ya es hora de regresar"
+§"Ya es hora de regresar" | | yuma§
 
 
-"Claro!"
+§"Claro!" | | lino§
 ---------------------------------------
 
 
@@ -160,7 +160,7 @@ Conversaba de todo con ella, no buscaba consuelo, ni tampoco empatía.
 
 
 ---------------------------------------
-"Ojalá no existiera un mañana"
+§"Ojalá no existiera un mañana" | | yuma§
 ---------------------------------------
 
 
@@ -174,8 +174,8 @@ Recuerdo la vez que charlamos mientras mirábamos hacia abajo estas tierras desd
 
 
 ---------------------------------------
-"Algún día larguémonos lejos de aquí!"
-"Escapemos de esta pequeña ciudad"
+§"Algún día larguémonos lejos de aquí!"
+"Escapemos de esta pequeña ciudad" | | yuma§
 ---------------------------------------
 
 

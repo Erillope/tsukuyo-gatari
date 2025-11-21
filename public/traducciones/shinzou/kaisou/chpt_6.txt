@@ -20,7 +20,7 @@ Me atrevo a decir que...Tal vez sea mejor aceptar la muerte, mientras aún siga 
 
 
 Yo alguna vez tuve una hermana mayor.
-Y la razón por la que digo "Alguna vez" es porque ella falleció.
+Y la razón por la que digo §"Alguna vez" | | § es porque ella falleció.
 
 
 
@@ -35,7 +35,7 @@ No es que lo haya olvidado de golpe, con el tiempo y sin notarlo poco a poco los
 
 
 
-Los médicos lo llaman "Amnesia disociativa".
+Los médicos lo llaman §"Amnesia disociativa" | | key§.
 Supe de este término después de que se presentaran los síntomas, pero al parecer se trata de que el cerebro desecha ciertos recuerdos para protegerte de un episodio traumático.
 
 
@@ -91,12 +91,12 @@ La muerte no es algo raro, sin embargo todos le tememos.
 
 Los niños no entienden mucho sobre la muerte, eso es porque son protegidos por los adultos.
 Para los niños el fin de la vida consiste en como máximo perder la conciencia, o que todo se vuelva oscuro.
-Es por eso que ellos son capaces de decir cosas como "Muérete" o "Quiero morir" con cierta facilidad.
+Es por eso que ellos son capaces de decir cosas como §"Muérete" | | § o §"Quiero morir" | | § con cierta facilidad.
 Sin embargo eso también es responsabilidad de los adultos.
 
 
 
-"Debes valorar tu vida" Es lo que los adultos repiten a los niños pero sin ponerlo en práctica.
+§"Debes valorar tu vida" | | § Es lo que los adultos repiten a los niños pero sin ponerlo en práctica.
 Y entonces al final el único mensaje que dejan es que la vida no tiene una gran importancia.
 
 

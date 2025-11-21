@@ -59,7 +59,7 @@ El rostro de Yuna aflojó una expresión de pena y felicidad.
 Finalmente, las chicas se dirigen hacia la puerta de salida.
 Yuna las observa como si les diera la despedida, y al mismo tiempo recuerda a sus amigos de los cuales se distanció.
 
-A esos amigos que vinieron a visitarla, adoptando una terrible y engreída aptitud al final les dijo "¡Ya no vengan más!".
+A esos amigos que vinieron a visitarla, adoptando una terrible y engreída aptitud al final les dijo §"¡Ya no vengan más!" | | yuna§.
 El rostro de esa chica retirándose mientras se disculpaba de esa irracional Yuna, ha quedado grabado en su mente y no puede olvidarlo.
 
 Cada vez que ve a esa chica envuelta en su uniforme escolar, la invaden los celos y la envidia.
@@ -78,7 +78,7 @@ A veces he pensado en escaparme del hospital a escondidas, me gustaría ir a alg
 Incluso aunque escape del hospital, no puedo escapar de mi enfermedad.
 
 ----------------------------------------
-"¿Por qué solo a mí?"
+§"¿Por qué solo a mí?" | | yuna§
 ----------------------------------------
 
 Me quedo observando la palma de mi mano.
@@ -127,23 +127,23 @@ Llegó la noche, y ahora él estaba dibujando un sakura floreciendo en medio de 
 Yuna no se podía aguantar las ganas de preguntarle.
 
 ----------------------------------------
-"Oye... disculpa"
+§"Oye... disculpa" | | yuna§
 
-"¿Pasa algo?"
+§"¿Pasa algo?" | | ryuuichi§
 ----------------------------------------
 
 El chico le respondió amablemente y dirigió su mirada hacia Yuna quien le había preguntado con una voz muy tímida.
 
 ----------------------------------------
-"¿Cómo es que ese sakura...?"
+§"¿Cómo es que ese sakura...?" | | yuna§
 
-"Ahh ¿Te refieres a esto?"
+§"Ahh ¿Te refieres a esto?" | | ryuuichi§
 ----------------------------------------
 
 Él dijo con una voz clara:
 
 ----------------------------------------
-"Aunque sea una mentira, pensé que se vería hermoso"
+§"Aunque sea una mentira, pensé que se vería hermoso" | | ryuuichi§
 ----------------------------------------
 
 Fue una respuesta muy simple, tal vez para él sea una manera común y normal de pensar, pero cuando dijo eso un gran sentimiento surgió desde lo más profundo del pecho de Yuna.
@@ -175,13 +175,13 @@ Pasó más o menos un año y el sakura floreció.
 Ese día él estaba dibujando con un confortable fondo del día despejado.
 
 ----------------------------------------
-"Hey dibújame a mí también"
+§"Hey dibújame a mí también" | | yuna§
 ----------------------------------------
 
 Eso fue lo que se me ocurrió, pero no tenía ninguna razón profunda en especial.
 
 ----------------------------------------
-"Yo solamente dibujo los paisajes"
+§"Yo solamente dibujo los paisajes" | | ryuuichi§
 ----------------------------------------
 
 Yuna de alguna manera se imaginaba esa respuesta de Ryuuichi.
@@ -189,15 +189,15 @@ Yuna de alguna manera se imaginaba esa respuesta de Ryuuichi.
 Hasta ahora he visto los cuadros de Ryuuichi, pero jamás ha dibujado a una persona.
 
 ----------------------------------------
-"¿Por qué no dibujas a personas?"
+§"¿Por qué no dibujas a personas?" | | yuna§
 
-"Es que no me gusta la gente"
+§"Es que no me gusta la gente" | | ryuuichi§
 ----------------------------------------
 
 Como siempre continúa moviendo su pincel mientras contesta desinteresadamente.
 
 ----------------------------------------
-"¿También me odias a mí?"
+§"¿También me odias a mí?" | | yuna§
 ----------------------------------------
 
 Yuna se quedó observando el rostro de Ryuuichi.
@@ -205,7 +205,7 @@ Tal vez fue una pregunta de mal gusto.
 Extrañamente Ryuuichi detuvo su mano.
 
 ----------------------------------------
-"A ti no te odio"
+§"A ti no te odio" | | ryuuichi§
 ----------------------------------------
 
 Luego de decir eso, retomó sus pinceladas como si no hubiera pasado nada.
@@ -213,9 +213,9 @@ Fácilmente se le notaba que trataba de esconder la pena que sentía.
 Yuna sonrió naturalmente de punta a punta mientras pensaba en lo adorable que se veía Ryuuichi.
 
 ----------------------------------------
-"Entonces dibújame!"
+§"Entonces dibújame!" | | yuna§
 
-"Esto y eso son cosas distintas"
+§"Esto y eso son cosas distintas" | | ryuuichi§
 ----------------------------------------
 
 Ryuuichi lo dijo clara y decisiva.
@@ -235,16 +235,16 @@ Hacía mucho tiempo desde que Yuna vestía algo distinto a la ropa del hospital.
 Se puso algo nerviosa cuando se encontró con Ryuuichi mientras usaba estas prendas.
 
 ----------------------------------------
-"Nos vemos"
+§"Nos vemos" | | yuna§
 
-"Ya no vuelvas por aquí!"
+§"Ya no vuelvas por aquí!" | | ryuuichi§
 ----------------------------------------
 
 No me gustaban las despedidas deprimentes, así que me aguanté mi tristeza y me despedí manteniendo la misma atmósfera de siempre.
 ¿Ryuuichi pensará lo mismo? Yuna se despide de él con una actitud normal.
 
 ----------------------------------------
-"¿Puedo venir a visitarte?"
+§"¿Puedo venir a visitarte?" | | yuna§
 ----------------------------------------
 
 Cuando Yuna preguntó, Ryuuichi agachó su cabeza durante un leve momento.
@@ -252,7 +252,7 @@ La ropa secándose revolotea en la azotea de la sala de hospital que se encuentr
 Ryuuichi alzó su cabeza, y abrió su boca mientras intentaba evitar ver a Yuna a los ojos.
 
 ----------------------------------------
-"Ya te dije que no vuelvas más por aquí"
+§"Ya te dije que no vuelvas más por aquí" | | ryuuichi§
 ----------------------------------------
 
 Su forma de decirlo no fue como para rechazarme, sino como si estuviera ocultando sus intenciones.
@@ -264,16 +264,16 @@ Trato de encontrar las palabras pero cuanto más lo intente no sé qué decir.
 Yuna dice mientras mira hacia el suelo:
 
 ----------------------------------------
-"Ryuuichi-san..."
+§"Ryuuichi-san..." | | yuna§
 ----------------------------------------
 
 En ese momento las palabras de Yuna se trabaron.
 Luego de una breve pausa, valientemente alzó su cabeza y continuó con sus palabras.
 
 ----------------------------------------
-"Estoy segura de que te recuperarás! ¡Y entonces iremos a ver juntos los sakuras!"
+§"Estoy segura de que te recuperarás! ¡Y entonces iremos a ver juntos los sakuras!" | | yuna§
 
-"... Muchas gracias"
+§"... Muchas gracias" | | ryuuichi§
 ----------------------------------------
 
 Ryuuichi contestó con una débil voz.
@@ -326,39 +326,39 @@ Me senté en la banca mientras pensaba en qué hacer, de repente delante de mis 
 Yuna se levantó inmediatamente y corrió hacia aquel anciano.
 
 ----------------------------------------
-"Oiga, disculpe!"
+§"Oiga, disculpe!" | | yuna§
 
-"Mmm? ¿Qué sucede?"
+§"Mmm? ¿Qué sucede?" | | character1§
 ----------------------------------------
 
 El anciano con un lento movimiento miró hacia acá.
 
 ----------------------------------------
-"¿Conoce a un chico que se la pasa dibujando por aquí?"
+§"¿Conoce a un chico que se la pasa dibujando por aquí?" | | yuna§
 ----------------------------------------
 
 Yuna dijo eso mientras señalaba la banca
 
 ----------------------------------------
-"Un chico dibujante? Mmm"
+§"Un chico dibujante? Mmm" | | character1§
 ----------------------------------------
 
 Frotaba sus mejillas mientras murmuraba eso.
-Luego, como si hubiese recordado algo dijo "Ah!".
+Luego, como si hubiese recordado algo dijo §"Ah!" | | character1§.
 Entonces Yuna inmediatamente le interrumpió y preguntó:
 
 ----------------------------------------
-"¿Sabe algo sobre él?"
+§"¿Sabe algo sobre él?" | | yuna§
 
-"Sí me acuerdo, sí me acuerdo. Él se la pasaba aquí hasta hace poco Mmm"
+§"Sí me acuerdo, sí me acuerdo. Él se la pasaba aquí hasta hace poco Mmm" | | character1§
 ----------------------------------------
 
 Al escuchar eso, una extraña tensión envolvió mi cuerpo.
 
 ----------------------------------------
-"Ehh me suena haber escuchado de las enfermeras que ya le dieron de alta Mmm"
+§"Ehh me suena haber escuchado de las enfermeras que ya le dieron de alta Mmm" | | character1§
 
-"Ya veo..."
+§"Ya veo..." | | yuna§
 ----------------------------------------
 
 ¿Ya le dieron de alta a Ryuuichi?
@@ -371,7 +371,7 @@ Es solo que Yuna tenía prohibido contactarle.
 
 Yuna sacó su celular y revisó su lista de contactos.
 Gracias a que tenía muy pocos guardados, pudo encontrar rápidamente su nombre.
-El nombre de "Ryuuichi-san" estaba guardado y se mostraba su número de celular.
+El nombre de §"Ryuuichi-san" | | key§ estaba guardado y se mostraba su número de celular.
 
 Si lo presionase podría llamarlo.
 Justo cuando lo iba a hacer me detuve.
@@ -388,7 +388,7 @@ Mi corazón palpita super rápido. Incluso me cuesta respirar.
 Después de mucho, escuché una voz
 
 ----------------------------------------
-"El número al que usted intenta llamar, no está disponible"
+§"El número al que usted intenta llamar, no está disponible" | | nota§
 ----------------------------------------
 
 Era la voz del anuncio por defecto
@@ -414,7 +414,7 @@ Tal vez solo le dio pena verme rondando por los alrededores.
 Sí, seguramente es eso.
 
 ----------------------------------------
-"A ti no te odio"
+§"A ti no te odio" | | ryuuichi§
 ----------------------------------------
 
 Las palabras de Ryuuichi de aquel día se reproducen en mi cabeza.
@@ -424,7 +424,7 @@ Mentiroso.
 Se desbordan estos sentimientos que no puedo expresar con palabras.
 
 ----------------------------------------
-"Disculpa... ¿Eres Kawada Yuna?" 
+§"Disculpa... ¿Eres Kawada Yuna?" | | mamiko§
 ----------------------------------------
 
 Yuna volteó su mirada mientras estaba sorprendida porque de repente le dirigieron la voz.
@@ -432,11 +432,11 @@ Ahí estaba parada una señora de mediana edad que ni conocía.
 La figura de su cuerpo era tan delgada como el de una modelo. Es muy hermosa.
 
 ----------------------------------------
-"Sí... Esa soy yo"
+§"Sí... Esa soy yo" | | yuna§
 
-"Perdón por llamarte tan repentinamente. Soy Fukunaga Mamiko, la madre de Ryuuichi"
+§"Perdón por llamarte tan repentinamente. Soy Fukunaga Mamiko, la madre de Ryuuichi" | | mamiko§
 
-"Aaah..."
+§"Aaah..." | | yuna§
 ----------------------------------------
 
 Yuna escuchó su nombre, y de pronto la madre de Ryuuichi estaba delante de ella.
@@ -444,21 +444,21 @@ Se puso tan nerviosa que no le salían las palabras.
 Entonces con algo de miedo y aferrándose a una leve esperanza preguntó:
 
 ----------------------------------------
-"A Ryuuichi-san... ¿Ya le dieron de alta?"
+§"A Ryuuichi-san... ¿Ya le dieron de alta?" | | yuna§
 ----------------------------------------
 
 Mi voz temblaba tanto que me sorprendía.
 Luego de un momento Mamiko respondió
 
 ----------------------------------------
-"... ... sí"
+§"...... sí" | | mamiko§
 ----------------------------------------
 
 Su tono de voz sonaba dudoso, así que Yuna se hacía una idea.
 No puede controlar sus sentimientos, hay muchas cosas pasando por su cabeza ahora.
 
 ----------------------------------------
-"Mi hijo... me encargó esto para ti"
+§"Mi hijo... me encargó esto para ti" | | mamiko§
 ----------------------------------------
 
 Mientras sacaba un sobre gigante, las lágrimas de aquella señora cubrían sus ojos.
@@ -469,13 +469,13 @@ Inmediatamente sacó lo que había dentro.
 En ese momento vívidamente resucitaron aquellos viejos recuerdos.
 
 ----------------------------------------
-"Aunque sea una mentira, pensé que se vería hermoso"
+§"Aunque sea una mentira, pensé que se vería hermoso" | | ryuuichi§
 ----------------------------------------
 
 El mundo que él veía era totalmente distinto al mío.
 
 ----------------------------------------
-"Yuna ¿Cuál será la razón por la que hemos nacido?"
+§"Yuna ¿Cuál será la razón por la que hemos nacido?" | | ryuuichi§
 ----------------------------------------
 
 Me es imposible entenderlo, quisiera entenderlo.
@@ -489,14 +489,14 @@ Se trataba de las pinturas con acuarela de él.
 Lo que estaba dibujado ahí era un impresionantemente hermoso árbol cubierto de carmesí hojas de otoño junto a Yuna.
 
 ----------------------------------------
-"Esto..."
+§"Esto..." | | yuna§
 ----------------------------------------
 
 Estas palabras no van dirigidas hacía Mamiko ni a alguien más.
 Solamente son las sinceras palabras que vienen desde el fondo del corazón de Yuna quien se encuentra en un estado emocional sensible.
 
 ----------------------------------------
-"Aunque dibujes esto para mí... No me hace feliz si ya no estás aquí"
+§"Aunque dibujes esto para mí... No me hace feliz si ya no estás aquí" | | yuna§
 ----------------------------------------
 
 Sé que estoy diciendo estupideces, aun así no puedo evitar arrojar y desahogar esta desbordante tristeza, este increíble vació sin destino a donde ir.
@@ -515,7 +515,7 @@ Pero al final se detuvo.
 Entonces notó algo escrito modestamente en el borde de la parte trasera de la hoja de dibujo.
 Seguramente se trata del nombre de esta obra.
 
-"Aki urara" (Glorioso otoño)
+§"Aki urara" (Glorioso otoño) | https://www.youtube.com/watch?v=Yyqw-BHRmfw | link§
 
 Lo leyó mientras cerraba fuertemente sus dientes.
 
@@ -531,7 +531,7 @@ Incluso voltearse cuando está recostada es doloroso.
 Para empeorar, las medicinas que toma también le atribuyen un efecto secundario.
 Día tras día aumentan sus horas de insomnio.
 
-Desde aquel día sus pensamientos se han balanceado entre "Quiero morir" "No quiero morir" una y otra vez.
+Desde aquel día sus pensamientos se han balanceado entre §"Quiero morir" "No quiero morir" | | key§ una y otra vez.
 
 En aquellos tiempos cuando la pasaba con Ryuuichi, ella era un espíritu rebosante de vida.
 Pero en la actualidad solo quedan los restos de una existencia que espera su muerte.
@@ -555,7 +555,7 @@ Aun así, definitivamente mi vida ahora es una miseria.
 ¿O estará deseando que yo viva?
 
 ----------------------------------------
-"Ya no vuelvas por aquí!"
+§"Ya no vuelvas por aquí!" | | ryuuichi§
 ----------------------------------------
 
 Recuerdo las palabras que me dijo Ryuuichi cuando me dieron de alta.
@@ -585,7 +585,7 @@ No pudo evitar reírse de si misma.
 Sin embargo, incluso en estos melancólicos momentos donde pareciera que el viento se la llevará consigo, el corazón de Yuna se agita.
 
 ----------------------------------------
-"No te vayas"
+§"No te vayas" | | yuna§
 ----------------------------------------
 
 Aún estoy a tiempo.

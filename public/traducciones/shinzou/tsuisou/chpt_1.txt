@@ -76,12 +76,12 @@ Le echaré un vistazo a los títulos de los libros que prestó.
 
 
 Esos libros estaban escritos con una literatura extraña y fantasiosa que representan el estilo de literatura moderna.
-Uno de esos libros era una novela escrita por un "Gran escritor", conocía el título de la obra, pero nada me parecía familiar.
+Uno de esos libros era una novela escrita por un §"Gran escritor" | | §, conocía el título de la obra, pero nada me parecía familiar.
 
 
 
 Al día siguiente, encontré ese libro en la biblioteca.
-Su título es "Dogra Magra", una violenta obra de Kyuusaku Yumeno.
+Su título es §"Dogra Magra" | | §, una violenta obra de Kyuusaku Yumeno.
 Otra vez, he encontrado algo de él que se opone a la imagen que tenía.
 
 
@@ -127,7 +127,7 @@ De vez en cuando, en su rostro se dibujaba una pensativa expresión, empezaba a 
 Me dio tanta curiosidad que me olvidé por completo del libro que llevaba en mis brazos.
 
 
-"Quiero leer eso que él está escribiendo" Por alguna razón es lo que pensé fuertemente.
+§"Quiero leer eso que él está escribiendo" | | yuma § Por alguna razón es lo que pensé fuertemente.
 
 
 Y entonces como si Dios hubiera escuchado mis deseos, de la nada una fuerte ventisca entró a la biblioteca.
@@ -142,7 +142,7 @@ Por un momento vacilé, pero ambas de mis manos ligeramente empiezan a recoger e
 Mientras me disculpaba en mi mente, con algo de miedo le eché un vistazo.
 
 
-"Ningen Gekijou" (Teatro humano)
+§"Ningen Gekijou" (Teatro humano) | | key§
 
 
 Eso estaba escrito en la posición que uno pensaría que es el título.
@@ -151,7 +151,7 @@ Eso estaba escrito en la posición que uno pensaría que es el título.
 
 
 ----------------------------------------
-"Em disculpa, eso es mío ..."
+§"Em disculpa, eso es mío ..." | | toudou§
 ----------------------------------------
 
 
@@ -166,10 +166,10 @@ Entonces para intentar detenerlo, yo dije:
 
 
 ----------------------------------------
-"¿Esto es una novela que tú escribiste?"
+§"¿Esto es una novela que tú escribiste?" | | yuma§
 
 
-"... Así es"
+§"... Así es" | | toudou§
 ----------------------------------------
 
 
@@ -177,7 +177,7 @@ Ante mi pregunta, él desvió su mirada hacia sus hojas mientras giraba su cuerp
 
 
 ----------------------------------------
-"A mí también me gustan las novelas... si no te importa, me gustaría que me dejes leer la tuya..."
+§"A mí también me gustan las novelas... si no te importa, me gustaría que me dejes leer la tuya..." | | yuma§
 ----------------------------------------
 
 
@@ -189,10 +189,10 @@ Por un momento él se quedó en silencio y yo estaba por explotar de los nervios
 
 
 ----------------------------------------
-"No es algo que se pueda mostrar a los demás"
+§"No es algo que se pueda mostrar a los demás" | | toudou§
 
 
-"Ah, ya veo... Perdón por decir estupideces de la nada"
+§"Ah, ya veo... Perdón por decir estupideces de la nada" | | yuma§
 ----------------------------------------
 
 
@@ -206,7 +206,7 @@ Pensé que debería de decir algún comentario interesantes, pero nada se le ocu
 
 
 ----------------------------------------
-"Aún ..."
+§"Aún ..." | | toudou§
 ----------------------------------------
 
 
@@ -217,10 +217,10 @@ Yo estaba esperando con ansias sus siguientes palabras.
 
 
 ----------------------------------------
-"Aún no he escrito lo suficiente como para mostrárselo a alguien más... por eso cuando esté terminado, si te gustaría..."
+§"Aún no he escrito lo suficiente como para mostrárselo a alguien más... por eso cuando esté terminado, si te gustaría..." | | toudou§
 
 
-"Claro! Esperaré con ansias!"
+§"Claro! Esperaré con ansias!" | | yuma§
 ----------------------------------------
 
 
@@ -244,7 +244,7 @@ Sin embargo ese día fue distinto. Él estaba parado a un lado de la salida. Tan
 
 
 ----------------------------------------
-"Esto... esto es lo que he podido escribir"
+§"Esto... esto es lo que he podido escribir" | | toudou§
 ----------------------------------------
 
 
@@ -256,7 +256,7 @@ Pude sentir el peso de todo el tiempo que él invirtió.
 
 
 ----------------------------------------
-"Gracias, lo leeré con mucho aprecio."
+§"Gracias, lo leeré con mucho aprecio." | | yuma§
 ----------------------------------------
 
 
@@ -306,7 +306,7 @@ Mamá ha sido quien me enseñó a tocar el piano, pero no soy capaz de recordar 
 A pesar de que con los años acumulaba experiencia, no era suficiente para superar sus expectativas.
 
 
-“¿Por qué lo haces tan mal?” —eso era lo que sentía que pensaba, cada vez que me veía practicar.
+§“¿Por qué lo haces tan mal?” | | § —eso era lo que sentía que pensaba, cada vez que me veía practicar.
 
 
 Al contrario, papá me elogiaba mucho.
@@ -337,7 +337,7 @@ Luego de un rato, lo vi por el pasillo.
 
 
 ----------------------------------------
-"Hey, toma"
+§"Hey, toma" | | yuma§
 ----------------------------------------
 
 
@@ -345,10 +345,10 @@ Luego de un rato, lo vi por el pasillo.
 
 
 ----------------------------------------
-"¿Ya lo leíste?... qué veloz!"
+§"¿Ya lo leíste?... qué veloz!" | | toudou§
 
 
-"Es que, mientras más lo leía más me interesaba... y al final terminé leyéndolo todo en una noche"
+§"Es que, mientras más lo leía más me interesaba... y al final terminé leyéndolo todo en una noche" | | yuma§
 ----------------------------------------
 
 
@@ -356,10 +356,10 @@ Luego de un rato, lo vi por el pasillo.
 
 
 ----------------------------------------
-"Estuvo muy bueno! Muchas gracias por dejarme leerlo!"
+§"Estuvo muy bueno! Muchas gracias por dejarme leerlo!" | | yuma§
 
 
-"... No, yo te doy las gracias por leerlo"
+§"... No, yo te doy las gracias por leerlo" | | toudou§
 ----------------------------------------
 
 
@@ -371,10 +371,10 @@ Quiero saber más sobre qué tipo de persona es él.
 
 
 ----------------------------------------
-"¿Podemos charlar en otro lugar?"
+§"¿Podemos charlar en otro lugar?" | | yuma§
 
 
-"... Está bien"
+§"... Está bien" | | toudou§
 ----------------------------------------
 
 
@@ -387,28 +387,28 @@ Al ser consiente de eso, me llené de nervios.
 
 
 ----------------------------------------
-"Tokawa. Me llamo Tokawa Yui"
+§"Tokawa. Me llamo Tokawa Yui" | | yuma§
 
 
-"¿Tokawa Yui?... ¿Cómo se escribe?"
+§"¿Tokawa Yui?... ¿Cómo se escribe?" | | toudou§
 
 
-"Con el kanji 兎 de la palabra "Conejo", el kanji 川 de la palabra "Río" y el kanji 唯 de la palabra "Único". Tokawa Yui 兎川　唯"
+§"Con el kanji 兎 de la palabra "Conejo", el kanji 川 de la palabra "Río" y el kanji 唯 de la palabra "Único". Tokawa Yui 兎川　唯" | | yuma§
 ----------------------------------------
 
-(Nota: "Kanji" son los carácteres chinos. Hay nombres japoneses que a pesar de que se pronuncian igual, se escriben con kanjis distintos, por eso es usual preguntar ¿Cómo se escribe? cuando alguien te dice su nombre)
+§(Nota: "Kanji" son los carácteres chinos. Hay nombres japoneses que a pesar de que se pronuncian igual, se escriben con kanjis distintos, por eso es usual preguntar ¿Cómo se escribe? cuando alguien te dice su nombre) | | nota§
 
 
 Trataba de explicarle escribiendo mi nombre en el aire.
-Entonces él me respondió "Ah ya entiendo" y luego de un pequeño momento de silencio él dijo:
+Entonces él me respondió §"Ah ya entiendo" | | toudou§ y luego de un pequeño momento de silencio él dijo:
 
 
 
 ---------------------------------------
-"Yo soy Toudou"
+§"Yo soy Toudou" | | toudou§
 
 
-"Otra vez, gusto en conocerte Toudou-kun"
+§"Otra vez, gusto en conocerte Toudou-kun" | | yuma§
 ----------------------------------------
 
 
@@ -420,10 +420,10 @@ Al mirar hacia el cielo ni siquiera podía distinguir si estaba nublado o despej
 
 
 ---------------------------------------
-"Toudou-kun ¿Por qué empezaste a escribir novelas?"
+§"Toudou-kun ¿Por qué empezaste a escribir novelas?" | | yuma§
 
 
-"... ¿Por qué será? Creo que es porque me gusta"
+§"... ¿Por qué será? Creo que es porque me gusta" | | toudou§
 ----------------------------------------
 
 
@@ -434,9 +434,9 @@ Pude notar que las puntas de sus dedos presionan con un poco de fuerza.
 
 
 ---------------------------------------
-"Desde hace mucho tiempo me gustan los libros.
+§"Desde hace mucho tiempo me gustan los libros.
 Leyendo libros mantengo mi cabeza ocupada y logro olvidarme de las cosas que me desagradan.
-Por así decirlo, es como si escapara de la realidad"
+Por así decirlo, es como si escapara de la realidad" | | toudou§
 ---------------------------------------
 
 
@@ -448,11 +448,11 @@ No es un asunto en el que alguien como yo deba entrometerse.
 
 
 ---------------------------------------
-"Entonces ¿Planeas ser escritor en el futuro?"
+§"Entonces ¿Planeas ser escritor en el futuro?" | | yuma§
 
-"No lo sé... O sea, sí tengo ganas de serlo, pero es que no creo en mi propio talento"
+§"No lo sé... O sea, sí tengo ganas de serlo, pero es que no creo en mi propio talento" | | toudou§
 
-"No digas eso!"
+§"No digas eso!" | | yuma§
 ---------------------------------------
 
 
@@ -460,10 +460,10 @@ Lo dije con una voz fuerte y él me miró con una cara de sorpresa.
 
 
 ---------------------------------------
-"Yo empecé a leer novelas hace poco, pero creo que tus novelas son admirables.
+§"Yo empecé a leer novelas hace poco, pero creo que tus novelas son admirables.
 A mí también me gustaría ser capaz de lograr algo como esto.
 No hay nada de especial en mí y por eso creo que... no, no por eso, pero...
-Aunque no tenga ningún fundamento, yo pienso que Toudou-kun es una increíble persona."
+Aunque no tenga ningún fundamento, yo pienso que Toudou-kun es una increíble persona." | | yuma§
 ---------------------------------------
 
 
@@ -474,7 +474,7 @@ Debido a mi respuesta frenética, una pequeña sonrisa se dibujó en su rostro q
 
 
 ---------------------------------------
-"Gracias"
+§"Gracias" | | toudou§
 ---------------------------------------
 
 
@@ -488,12 +488,12 @@ El cielo estaba envuelto por el atardecer, la fresca ventisca atravesaba mi cabe
 
 
 ---------------------------------------
-"Yo tocaba el piano desde que era una niña, pero lo dejé hace poco"
+§"Yo tocaba el piano desde que era una niña, pero lo dejé hace poco" | | yuma§
 
-"¿Por qué?"
+§"¿Por qué?" | | toudou§
 
-"Pienso que no tengo talento para el piano. Pero en realidad tal vez solo me faltó esforzarme más.
-Creo que simplemente huí echándole la culpa al talento."
+§"Pienso que no tengo talento para el piano. Pero en realidad tal vez solo me faltó esforzarme más.
+Creo que simplemente huí echándole la culpa al talento." | | yuma§
 ---------------------------------------
 
 
@@ -504,9 +504,9 @@ Mientras hablaba recordaba aquellos concursos de piano y mis dedos se entumecía
 
 
 ---------------------------------------
-"Mi mamá me obligaba a aprender así que al inicio no me gustaba, pero poco a poco empecé a agarrarle el gusto.
+§"Mi mamá me obligaba a aprender así que al inicio no me gustaba, pero poco a poco empecé a agarrarle el gusto.
 Sin embargo, tenía muchas ganas de mejorar e intentaba no defraudar a mi madre.
-Al final no pude superar sus expectativas. Intentaba empatizar con sus sentimientos, pero claramente no pude alcanzar sus ideales"
+Al final no pude superar sus expectativas. Intentaba empatizar con sus sentimientos, pero claramente no pude alcanzar sus ideales" | | yuma§
 ---------------------------------------
 
 
@@ -514,10 +514,10 @@ De la nada, empecé a decir todo lo que pensaba como si me estuviera quejando, y
 
 
 ---------------------------------------
-"Entonces ¿Qué te parece si de ahora en adelante intentas hacer lo que más te gusta?"
+§"Entonces ¿Qué te parece si de ahora en adelante intentas hacer lo que más te gusta?" | | toudou§
 
 
-"Lo que más me gusta..."
+§"Lo que más me gusta..." | | yuma§
 ---------------------------------------
 
 
@@ -528,11 +528,11 @@ Siempre me estuve engañando a mí misma, eso me di cuenta al conocer a Toudou-k
 
 
 ---------------------------------------
-"Yo empecé a escribir novelas solamente porque sentí que me llenaba.
-Por ahora, soy solamente una imitación, pero algún día me gustaría escribir algo que alguien pudiera disfrutar"
+§"Yo empecé a escribir novelas solamente porque sentí que me llenaba.
+Por ahora, soy solamente una imitación, pero algún día me gustaría escribir algo que alguien pudiera disfrutar" | | toudou§
 
 
-"Si se trata de ti, puedes lograrlo Toudou-kun"
+§"Si se trata de ti, puedes lograrlo Toudou-kun" | | yuma§
 ---------------------------------------
 
 
@@ -540,7 +540,7 @@ Tal vez sea irresponsable de mi parte, y no tengo base alguna para decir eso, pe
 
 
 ---------------------------------------
-"Algún día yo también quisiera ser algo... quisiera ser algo para alguien"
+§"Algún día yo también quisiera ser algo... quisiera ser algo para alguien" | | yuma§
 ---------------------------------------
 
 
@@ -551,7 +551,7 @@ Aquello es el talento.
 
 
 Pero en él veo un gran esfuerzo y una sobresaliente habilidad pulida por aquel esfuerzo.
-Viéndolo así, la idea del "Talento" me parece como si despreciara aquel esfuerzo.
+Viéndolo así, la idea del §"Talento" | | key§ me parece como si despreciara aquel esfuerzo.
 
 
 

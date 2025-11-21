@@ -1,0 +1,44 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "ningen/chpt3/",
+        "traductionsFolderName": "ningen/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_3.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "浪々",
+            "romajiTitle": "Rourou",
+            "esTitle": "Capítulo 3: Sin rumbo",
+            "videoLink": "https://www.youtube.com/watch?v=0qY9rsBAKPk"
+        },
+        "nextChapterLink": "/ningen/chapter-4",
+        "previousChapterLink": "/ningen/chapter-2",
+        "listChaptersLink": "/ningen/",
+        "commentsSection": {
+            "section": "ningen/chapters/chpt3",
+            "commentsBG": "ningen/comment_bg"
+        },
+        "videoLinks": [],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

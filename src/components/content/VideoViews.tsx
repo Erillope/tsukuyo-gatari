@@ -10,10 +10,10 @@ export interface VideoViewsProp {
     subtitle?: string;
 }
 
-export const VideoViews = (props: { videoViews: VideoViewsProp[] }) => {
+export const VideoViews = (props: { videoViews?: VideoViewsProp[] }) => {
     return <RBox display={'flex'} alignItems={'center'} flexDirection={'column'} width={'100%'}>
         <LectureTitle text="Canciones relacionadas" />
-        {props.videoViews.map((view) => (
+        {props.videoViews?.map((view) => (
             <Box key={view.videoLink} display="flex" flexDirection="column" alignItems="center" width={'100%'}>
                 <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 }, width: '90%' }} />
                 <VideoView {...view} />

@@ -10,7 +10,7 @@ Hubo una época en donde creía que todo podía ser distinto.
 Sin embargo, la realidad recae sobre mis ojos como una fuerte lluvia.
 Y ningún grito de esperanza es capaz de cambiar esa inevitable narrativa.
 
-"Cambiar el futuro" "Salvar una vida"
+§"Cambiar el futuro" "Salvar una vida" | | key§
 No es mi intención reflexionar sobre la extraordinaria esperanza.
 
 Es solo que... Yo no quiero morir.
@@ -27,7 +27,7 @@ Pero asumen que solo aplica para los demás y lo olvidan.
 Al fin y al cabo, es solo un efímero suceso entre los miles de años de historia.
 
 En eso reflexionaba.
-Y de pronto, el irreal concepto de la "Muerte" cayó frente a mis ojos.
+Y de pronto, el irreal concepto de la §"Muerte" | | key§ cayó frente a mis ojos.
 
 ¡Pum!
 
@@ -56,7 +56,7 @@ Estoy segura de haberla olvidado, pero aquella escena que jamás antes había vi
 
 Había visto algo en las noticias o en la televisión, y entonces algunos recuerdos vinieron a mí.
 
-"Espera...¿Esto ya lo he visto en algún sueño?"
+§"Espera...¿Esto ya lo he visto en algún sueño?" | | chiharu§
 Pero al investigar sobre aquel lugar, no encontré nada sobre algún incidente.
 Incluso pregunté a los policías de la zona sobre algún suicidio desde aquel edificio, pero ellos no tenía idea de lo que hablaba.
 

@@ -75,7 +75,7 @@ Yo alcé la voz y le dije.
 
 
 ----------------------------------------
-"Emm oye... estuvo genial la canción"
+§"Emm oye... estuvo genial la canción" | | lino§
 ----------------------------------------
 
 
@@ -86,25 +86,25 @@ y sin querer, le hablé con una incómoda formalidad.
 
 
 ----------------------------------------
-"Me estabas escuchando ¿no?, muchas gracias"
+§"Me estabas escuchando ¿no?, muchas gracias" | | yuma§
 
-"¿Cantas aquí a menudo?"
+§"¿Cantas aquí a menudo?" | | lino§
 
-"Sí, mas o menos dos veces al mes, es un poco lejos pero, no quiero que la gente de la escuela se entere que tengo una doble vida en la calle, bueno aunque tú ya me descubriste jaja"
+§"Sí, mas o menos dos veces al mes, es un poco lejos pero, no quiero que la gente de la escuela se entere que tengo una doble vida en la calle, bueno aunque tú ya me descubriste jaja" | | yuma§
 ----------------------------------------
 
 
 
 Mientras decía eso, se le notaba que también estaba algo nerviosa.
-Me fijé que había un tablero en el suelo, estaba escrito el nombre de "Yuma"
+Me fijé que había un tablero en el suelo, estaba escrito el nombre de §"Yuma" | |§
 
 
 
 ----------------------------------------
-"Ahh este es mi nombre artístico. Me lo dio mi maestro"
+§"Ahh este es mi nombre artístico. Me lo dio mi maestro" | | yuma§
 
 
-"Wow qué bonito nombre"
+§"Wow qué bonito nombre" | | lino§
 ----------------------------------------
 
 
@@ -112,10 +112,10 @@ Iba a preguntarle su nombre real, pero ella como si fuera una adivina, se adelan
 
 
 ----------------------------------------
-"Mi verdadero nombre no me gusta mucho, por eso te di este otro nombre, lo siento"
+§"Mi verdadero nombre no me gusta mucho, por eso te di este otro nombre, lo siento" | | yuma§
 
 
-"Entiendo, no te preocupes"
+§"Entiendo, no te preocupes" | | lino§
 ----------------------------------------
 
 
@@ -123,11 +123,11 @@ Ella guardó su guitarra, cerró la cremallera de su funda y la cargó en su esp
 
 
 ----------------------------------------
-"Llámame Yuma"
+§"Llámame Yuma" | | yuma§
 ----------------------------------------
 
 
-"Yuma" yo murmuraba su nombre y ella sonreía. 
+§"Yuma"| |§ yo murmuraba su nombre y ella sonreía. 
 
 Esa fue la primera vez que la vi sonreír.
 

@@ -63,6 +63,7 @@ export const useNovelResumeData = (props: { sumaryFile?: string }) => {
             section: data.section,
             commentsBG: getFromNovelImageFolder(data.commentsBG),
             includeSubsections: data.includeSubsections,
+            bgPosition: data.bgPosition,
         }
     }
 

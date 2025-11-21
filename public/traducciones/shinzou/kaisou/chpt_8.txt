@@ -36,7 +36,7 @@ Mientras esperaba a que la lluvia cesara, me quedé de pie, mirando el suelo moj
 
 
 ----------------------------------------
-"Hey vamos juntas"
+§"Hey vamos juntas" | | yuma§
 ----------------------------------------
 
 
@@ -47,7 +47,7 @@ Fue tan amable que me cubrió con su paraguas rojo.
 
 
 ----------------------------------------
-"Ah muchas gracias"
+§"Ah muchas gracias" | | lino§
 ----------------------------------------
 
 
@@ -59,10 +59,10 @@ Yo camino a su mismo ritmo debajo del paraguas.
 
 
 ----------------------------------------
-"Oye realmente te lo agradezco, te debo una... No tenía idea de que hoy llovería"
+§"Oye realmente te lo agradezco, te debo una... No tenía idea de que hoy llovería" | | lino§
 
 
-"Está bien, a veces el clima cambia drásticamente"
+§"Está bien, a veces el clima cambia drásticamente" | | yuma§
 ----------------------------------------
 
 
@@ -81,11 +81,11 @@ Luego de caminar un rato, ella me habló.
 
 
 ----------------------------------------
-"¿Siempre tomas el mismo bus?"
+§"¿Siempre tomas el mismo bus?" | | yuma§
 
-"Sí. Espera! ¿Aparte de hoy hemos viajado juntas en el mismo bus todo este tiempo?"
+§"Sí. Espera! ¿Aparte de hoy hemos viajado juntas en el mismo bus todo este tiempo?" | | lino§
 
-"Quién sabe...Suelo subir un poco tarde."
+§"Quién sabe...Suelo subir un poco tarde." | | yuma§
 ----------------------------------------
 
 
@@ -97,10 +97,10 @@ Pero ahora ya lo entiendo.
 
 
 ----------------------------------------
-"Entiendo...¿Y por qué hoy subiste temprano?"
+§"Entiendo...¿Y por qué hoy subiste temprano?" | | lino§
 
 
-"Normalmente subo tarde, pero lo de hoy fue solo un capricho. A veces me dan ganas de subir más temprano"
+§"Normalmente subo tarde, pero lo de hoy fue solo un capricho. A veces me dan ganas de subir más temprano" | | yuma§
 ----------------------------------------
 
 
@@ -117,7 +117,7 @@ Ya veo, es por eso que no pude atinar qué tipo de persona es.
 
 
 ----------------------------------------
-"......Por cierto, hace un momento llevabas puestos unos audífonos, ¿Escuchabas música?"
+§"......Por cierto, hace un momento llevabas puestos unos audífonos, ¿Escuchabas música?" | | lino§
 ----------------------------------------
 
 
@@ -128,7 +128,7 @@ En el peor de los casos pensará que soy de las que pregunta cosas raras.
 
 
 ----------------------------------------
-"Sí, es música"
+§"Sí, es música" | | yuma§
 ----------------------------------------
 
 
@@ -136,7 +136,7 @@ Fue una respuesta desinteresada, pero no siento frialdad.
 
 
 ----------------------------------------
-"¿Qué tipo de música te gusta?"
+§"¿Qué tipo de música te gusta?" | | lino§
 ----------------------------------------
 
 
@@ -153,7 +153,7 @@ Inconscientemente tragué saliva ante su mirada.
 
 
 ----------------------------------------
-"Es un secreto"
+§"Es un secreto" | | yuma§
 ----------------------------------------
 
 

@@ -41,7 +41,7 @@ export const NovelSummary = (props: NovelSummaryProps) => {
 
 export const FileNovelSummary = (props: { sumaryFile: string, infoChaptersComponent?: React.ReactNode }) => {
     const { novelSummary } = useNovelResumeData({ sumaryFile: props.sumaryFile });
-
+    
     return <NovelSummary {...novelSummary} infoChaptersComponent={props.infoChaptersComponent} />
 }
 
@@ -51,4 +51,12 @@ export const ShinzouFileNovelSummary = () => {
 
 export const SorekamiFileNovelSummary = () => {
     return <FileNovelSummary sumaryFile="sorekami/sorekami_summary" />
+}
+
+export const ParadeFileNovelSummary = () => {
+    return <FileNovelSummary sumaryFile="parade/parade_summary" />
+}
+
+export const NingenFileNovelSummary = () => {
+    return <FileNovelSummary sumaryFile="ningen/ningen_summary" />
 }

@@ -95,9 +95,10 @@ Bueno para empezar, en el bachillerato debido a una situación familiar me cambi
 Tuve una amistad con la que hice una promesa.
 Bueno más que promesa, le hablé sobre mis aspiraciones.
 
-
-"Cuando sea una cantautora profesional, daré un gran concierto en el Nippon Budokan. Definitivamente tienes que venir a verme!"
-
+----------------------------------------
+§"Cuando sea una cantautora profesional, daré un gran concierto en el Nippon Budokan.
+Definitivamente tienes que venir a verme!" | | lino§
+----------------------------------------
 
 ¿Cómo pude haber dicho esa absurda promesa?
 Es ahora cuando me doy cuenta de lo tonta que era.
@@ -105,7 +106,7 @@ Es ahora cuando me doy cuenta de lo tonta que era.
 
 
 ----------------------------------------
-"Se que lo lograrás!"
+§"Se que lo lograrás!" | | yuma§
 ----------------------------------------
 
 

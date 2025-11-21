@@ -5,7 +5,7 @@
 }
 
 .black-bg {
-    background: url("/public/assets/bg.jpg") center top / 100% repeat-y;
+    background: url("/assets/bg.jpg") center top / 100% repeat-y;
     width: 100%;
 }
 
@@ -231,4 +231,147 @@
     color: white;
     font-family: "Marcellus", "Roboto", sans-serif;
     text-shadow: 1px 1px 2px black;
+}
+
+.character {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+}
+
+.character1 {
+    color: rgb(213, 252, 153);
+}
+
+.lino {
+    color: #ffb588;
+}
+
+.yuma {
+    color: #8cbff9;
+}
+
+.toudou {
+    color: #a18100;
+}
+
+.nota {
+    color: #888888;
+}
+
+.key {
+    color: rgb(255, 100, 126);
+}
+
+.character-1 {
+    color: rgb(255, 77, 255);
+}
+
+.hagino {
+    color: rgb(100, 139, 255);
+}
+
+.character-2 {
+    color: yellow;
+}
+
+.character-3 {
+    color: rgb(253, 137, 137);  
+}
+
+.gawara {
+    color: rgb(100, 255, 146);
+}
+
+.nagisa {
+    color: rgb(255, 100, 152);
+}
+
+.link {
+    color: rgb(255, 100, 126);
+    cursor: pointer;
+}
+
+.link:hover {
+    color: rgb(255, 100, 126);
+    text-shadow: 0 0 5px rgba(255, 0, 128, 0.5);
+}
+
+.link2 {
+    color: rgb(100, 255, 146);
+    cursor: pointer;
+}
+
+.link2:hover {
+    color: rgb(100, 255, 146);
+    text-shadow: 0 0 5px rgba(100, 255, 146, 0.5);
+}
+
+.link3 {
+    color: rgb(100, 146, 255);
+    cursor: pointer;
+}
+
+.link3:hover {
+    color: rgb(100, 146, 255);
+    text-shadow: 0 0 5px rgba(100, 146, 255, 0.5);
+}
+
+.chiharu {
+    color: rgb(255, 100, 152);
+}
+
+.teruna {
+    color: rgb(100, 255, 146);
+}
+
+.luli {
+    color: #8cbff9;
+}
+
+.yuna {
+    color: #ffb588;
+}
+
+.ryuuichi {
+    color: rgb(115, 251, 203);
+}
+
+.mamiko {
+    color: rgb(227, 153, 252);
+}
+
+.character-4 {
+    color: pink;
+}
+
+.ishigami {
+    color: rgb(255, 210, 113);
+}
+
+.character-5 {
+    color: rgb(227, 153, 252);
+}
+
+.character-6{
+    color: rgb(98, 105, 201);
+}
+
+.character-7 {
+    color: pink;
+}
+
+.character-8 {
+    color: rgb(255, 210, 113);
+}
+
+.character-9 {
+    color: rgb(141, 251, 101);
+}
+
+.character-10 {
+    color: rgb(227, 153, 252);
+}
+
+.character-11 {
+    color: #ffb588;
 }

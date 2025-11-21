@@ -39,7 +39,7 @@ body {
   overflow-x: hidden;
   height: 100%;
   color: white;
-  background: url("/public/assets/noise.png") center top #363636;
+  background: url("/assets/noise.png") center top #363636;
 	background-size: 80px auto;
   background-attachment: fixed;
 }

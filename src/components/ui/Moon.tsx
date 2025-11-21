@@ -1,6 +1,6 @@
 import { Avatar, Box } from "@mui/material"
-import MoonIcon from "../../../public/assets/moon.png";
-import Logo from "../../../public/assets/logo.svg";
+import MoonIcon from "../../assets/moon.png";
+import Logo from "../../assets/logo.svg";
 import "../../styles.css";
 
 export const Moon = ({ small } : { small?: boolean }) => {

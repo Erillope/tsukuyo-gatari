@@ -1,5 +1,5 @@
 
-¿Qué es aquello que "Tiene valor"?
+¿Qué es aquello que §"Tiene valor" | | §?
 
 ¿Será aquello que muchos desean?
 
@@ -36,7 +36,7 @@ En esos momentos, yo pensé que no me hacía falta nada.
 Desde entonces, los libros se han vuelto el centro de mi vida.
 
 
-Mi primer acercamientos a la literatura, fue "Yodaka no Hoshi" (También conocido como "The Nighthawk Star") de Kenji Miyazawa.
+Mi primer acercamientos a la literatura, fue §"Yodaka no Hoshi" (También conocido como "The Nighthawk Star") | | key§ de Kenji Miyazawa.
 
 
 Al darme cuenta de esto, las descripciones del libro empezaron a coincidir con la realidad que me rodeaba.
@@ -70,7 +70,7 @@ Esos momentos eran un consuelo para mi aburrido estilo de vida.
 
 
 Cada mes terminaba de leer un libro, y comenzaba a escribir otra novela.
-Fue entonces cuando se me vino a la mente la idea de "Quiero ser un escritor de novelas".
+Fue entonces cuando se me vino a la mente la idea de §"Quiero ser un escritor de novelas" | | toudou§.
 Por supuesto que era consciente de que se trata de una fantasía, pero no puedo negar que sentí una fuerte fuerza de voluntad brotar en lo profundo de mi pecho.
 
 
@@ -164,7 +164,7 @@ No podía imaginar que de esta forma sería como alguien leería una de mis nove
 
 
 ---------------------------------------
-"Em disculpa, eso es mío ..."
+§"Em disculpa, eso es mío ..." | | toudou§
 ---------------------------------------
 
 
@@ -176,7 +176,7 @@ Yo estiré torpemente mis manos y tomé la hoja, agradecí con una pequeña reve
 
 
 ---------------------------------------
-"¿Esto es una novela que tú escribiste?"
+§"¿Esto es una novela que tú escribiste?" | | yuma§
 ---------------------------------------
 
 
