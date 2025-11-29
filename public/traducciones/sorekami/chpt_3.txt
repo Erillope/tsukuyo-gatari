@@ -16,7 +16,7 @@ El sonido de mis zapatos rozando contra el suelo, se sentían como bizarros y mo
 
 Mi columna se retorcía del miedo advirtiéndome que estoy pisando áreas que no debo.
 
-Terminaré de subir la última escalera.
+Termino de subir la última escalera.
 La puerta que se encuentra al continuar hacía la azotea, se abre tan despacio que no levanta ningún sonido.
 
 La luz penetra mis pupilas como si las fuera a perforar.
@@ -31,10 +31,10 @@ A través de la brecha entre mis dedos, pude ver su figura.
 ----------------------------------------
 
 La voz de Chiharu, fríamente es absorbida por el pacífico viento.
-Poco a poco sus ojos se adaptaban a la luz y puede ver el panorama. 
+Poco a poco sus ojos se adaptaban a la luz y pudo ver el panorama. 
 
 De lado de la valla, La figura de Teruna dando la espalda y parada sobre el borde del edificio.
-Su cabello a la altura de su cuello se balancea junto al viento dejando ver ocasionalmente su blanca nuca del cuello.
+Su cabello a la altura de su cuello se balancea junto al viento dejando ver ocasionalmente la blanca nuca de su cuello.
 
 ----------------------------------------
 §"Hey, ¿Qué haces?" | | chiharu§
@@ -51,7 +51,7 @@ Mientras responde eso, gira levemente su rostro hacía aquí.
 Debido a la corriente del viento, a través de su cabello solamente se pueden ver sus pestañas, mas no su expresión facial.
 Está claro que esta es una situación bizarra y que Chiharu fácilmente imaginaba que un terrible escenario estaba por suceder.
 
-Los pies de Teruna poco a poco cambian tanto de posición como de ángulo, hasta que su cuerpo apuntaba perfectamente en esta dirección.
+Los pies de Teruna poco a poco cambian tanto de posición como de ángulo, hasta que su cuerpo apunta perfectamente en esta dirección.
 Una horrorizada Chiharu observaba la situación.
 
 Teruna lentamente extiende sus dos brazos y como si fuera un ave su silueta forma una cruz.
@@ -95,7 +95,7 @@ Seguramente sea a causa de haber pensado mucho en las escenas de muerte que he v
 
 Ya he soñado antes con la muerte de Teruna, ¡Es por eso que sé que todo estará bien!
 Lo que vi hoy fue solo una pesadilla.
-Con esas palabras de consuelo, trata de persuadirme a mí misma.
+Con esas palabras de consuelo, trato de persuadirme a mí misma.
 
 Antes que nada, ¿Estás premoniciones de mis sueños siguen algún tipo de regla?
 Lo que veo en mis sueños, se vuelve realidad.
@@ -109,7 +109,9 @@ Ahg, por ahora dejaré de pensar.
 Abro la ventana y reviso lo que hay afuera.
 El cielo está oscuro, solamente en la carretera una leve luz blanca reflejada por las farolas.
 
-Aunque fui a la escuela, el sueño que vi hoy me perturba y no me puedo calmar.
+**********************************************
+
+Asisto a la escuela, aun así, el sueño que vi hoy me perturba y no me puedo calmar.
 No he recibido una respuesta del mensaje que envié antes de ir a la escuela.
 Bueno es del tipo de persona que no responde rápido los mensajes, así que no es extrañar.
 Pero justamente hoy eso me tiene tan preocupada.
@@ -128,7 +130,7 @@ Alguien me está llamando por mi nombre.
 Enfoco mis ojos tratando de ver la figura de la persona que esta delante mío.
 Camino con un poco de timidez.
 Poco a poco, la voz y el contorno de aquella figura se vuelve más claro.
-Me es familiar, quien está ahí era Teruna.
+Me es familiar, quien está ahí es Teruna.
 
 Justo cuando me acerco a ella, una grieta aparece debajo de mis pies, y de inmediato las paredes y superficies que cubrían la habitación se fragmentan en trozos como si de vidrio se tratase.
 Cuando lo noté, había sido lanzada hacia a lo más alto del cielo, más que caer, tuve una misteriosa sensación como si estuviera flotando.
@@ -148,7 +150,7 @@ La corriente atmosférica que las rodea es turbia y en un abrir y cerrar de ojos
 Un remolino se enrolla centrándose en aquella columna vertebral gigante, era como si estuvieran en el ojo de un huracán.
 
 Chiharu y Teruna gritan los nombres de la una a la otra a la misma vez.
-Sin embargo como si sus voces fueran arrasadas por la ráfaga de viento, o como si fueran tragadas por un rugido atronador, se perdió sin poder llegar al oído de la otra.
+Sin embargo, como si sus voces fueran arrasadas por la ráfaga de viento, o como si fueran tragadas por un rugido atronador, se perdió sin poder llegar al oído de la otra.
 
 Para empeorar, sus cuerpos son disparados por la corriente que se volvía más salvaje.
 Chiharu perdió de vista a Teruna.
@@ -191,14 +193,11 @@ Teruna está desconcertada, pero para corresponderle, nerviosamente también abr
 
 Como si hubiera captado la preocupación que se hallaba en la voz de Chiharu, Teruna amablemente acaricia su espalda.
 
-----------------------------------------
 §"Ahh al fin lo entiendo, tengo miedo de perder a Teruna" | | chiharu§
-----------------------------------------
-
 Es lo que pensó Chiharu.
 
-Teruna, que ha caído fuera de la rueda del destino, es una esperanza que desafía la "muerte" cuyo potencial está oculto aún.
-Es por eso que pienso que es necesario.
+Teruna, que ha caído fuera de la rueda del destino, es una esperanza que desafía la §"muerte" | | key§ cuyo potencial está oculto aún.
+Es por eso que pienso que ella necesaria para mí.
 Eso no es todo, no se trata de algo egoísta, simplemente es alguien a quien no quiero perder.
 
 ----------------------------------------
@@ -237,8 +236,5 @@ Chiharu inclina su cuello.
 
 Ambas empiezan a reír a carcajadas.
 
-----------------------------------------
 §"Se tratan de tontos sueños, pero Teruna realmente podría ser quien pueda salvarme" | | chiharu§
-----------------------------------------
-
 Pensó Chiharu.

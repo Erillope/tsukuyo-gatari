@@ -8,8 +8,8 @@
         "titleData": {
             "smallTitleImg": "title",
             "largeTitleImg": "title",
-            "jpTitle": "死よりうるわしい",
-            "romajiTitle": "Shi yori uruwashii",
+            "jpTitle": "死よりうるわし",
+            "romajiTitle": "Shi yori uruwashi",
             "esTitle": "Capítulo 1: Más hermoso que la muerte",
             "videoLink": "https://www.youtube.com/watch?v=7RkQ8X6P_3k"
         },
@@ -19,7 +19,18 @@
             "section": "sorekami/chapters/chpt1",
             "commentsBG": "sorekami/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/7RkQ8X6P_3k?si=sPfF-Ifb0JWJFZ-r",
+                "title": "Más hermoso que la muerte",
+                "subtitle": "Shi yori uruwashi - 死よりうるわし"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/X9G5154u884?si=8t_c8WcJ-sLfKorD",
+                "title": "Ruri",
+                "subtitle": "Ruri - るり"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 10,

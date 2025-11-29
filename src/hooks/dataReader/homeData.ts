@@ -43,7 +43,7 @@ export const useHomeData = () => {
 
     const buildNovelResume = (data: any): NovelResumeProps => {
         return {
-            sumaryFile: getFromTraductionsFolder(data.sumaryFile),
+            sumaryFile: data.sumaryFile && getFromTraductionsFolder(data.sumaryFile),
             image: getFromNovelImageFolder(data.image),
             to: data.to,
             videoLink: data.videoLink,

@@ -19,7 +19,18 @@
             "section": "parade/parade/chpt1",
             "commentsBG": "parade/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/7awIdGqyr40?si=86vF7-Zvbb9DgTtO",
+                "title": "Suicide Parade",
+                "subtitle": "スーサイドパレヱド"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/xQG0cYa-mM4?si=Cret1guzLPG6GIsn",
+                "title": "Bakemono Gurui",
+                "subtitle": "ばけものぐるい"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 15,

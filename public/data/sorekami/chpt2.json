@@ -20,7 +20,13 @@
             "section": "sorekami/chapters/chpt2",
             "commentsBG": "sorekami/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/vrEG95vkeMs?si=a2YwUjtA7FgbV5DR",
+                "title": "Narrative",
+                "subtitle": "ナラティブ"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 16,

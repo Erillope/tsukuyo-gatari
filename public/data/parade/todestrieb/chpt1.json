@@ -20,7 +20,13 @@
             "section": "parade/todestrieb/chpt1",
             "commentsBG": "parade/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/6gR3oJj-jaU?si=1u3frgim_6ZrbEQf",
+                "title": "Todestrieb",
+                "subtitle": "トーデス・トリープ"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 30,

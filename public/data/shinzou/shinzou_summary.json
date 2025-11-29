@@ -22,6 +22,14 @@
                 "text": "Extras"
             },
             {
+                "to": "interview",
+                "text": "Entrevista autor"
+            },
+            {
+                "to": "review",
+                "text": "Reseña"
+            },
+            {
                 "to": "comentarios",
                 "text": "Comentarios"
             }
@@ -222,6 +230,14 @@
                 "title": "I want to be your heart"
             }
         ],
+        "interview": {
+            "interviewPath": "shinzou_interview.txt",
+            "backgroundImage": "shinzou/interview_bg"
+        },
+        "review": {
+            "reviewPath": "shinzou_review.txt",
+            "backgroundImage": "shinzou/review_bg"
+        },
         "commentSection": {
             "section": "shinzou",
             "includeSubsections": true,

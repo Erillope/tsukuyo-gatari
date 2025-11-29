@@ -42,7 +42,7 @@ Yuna no tuvo más opción que aceptar esa realidad.
 
 Ella acerca su rostro al vidrio de la ventana intentando mirar las hojas de otoño.
 Aún quedan pocas hojas verdes en ese árbol.
-¿A esto es a lo que se le llama “Usukouyou” no? (Usukouyou es un término para referirse al color de las hojas de un árbol cuando están en esa transición de otoño, es decir se ven algo verde cambiando a carmesí)
+¿A esto es a lo que se le llama §“Usukouyou” | | key§ no? §(Usukouyou es un término para referirse al color de las hojas de un árbol cuando están en esa transición de otoño, es decir se ven algo verde cambiando a carmesí) | | nota§
 
 Al contemplar la vista del patio, encontró a un par de chicas observando la sala del hospital.
 Una de ellas tenía una larga cabellera negra hasta la cintura, y la otra en contraste tenía cabello corto.
@@ -97,6 +97,8 @@ Aunque yo me parta a pedazos, este mundo no cambiará en lo absoluto.
 Eso lo tengo claro.
 Yo... Otoño de quince años.
 
+**********************************************
+
 En el atardecer del día siguiente, me dieron ganas de caminar después de mucho tiempo.
 Caminé en circulo dentro del hospital.
 
@@ -116,7 +118,7 @@ Un día en la tarde, cuando ella echó un vistazo al patio desde la ventana de l
 Ella se lamentaba de que aún no le hayan dado de alta, pero a la vez le aliviaba tener a un compañero que comparta sus mismas circunstancias.
 
 Al igual que antes, estaba dibujando un cuadro.
-Algo a resaltar es que ya no estaba usando lápices de colores si no acuarelas.
+Algo a resaltar es que ya no estaba usando lápices de colores sino acuarelas.
 
 Yuna indirectamente se sentó a su lado y a escondidas observa las hojas de dibujo que hay en su caballete.
 Al ver sus dibujos se sorprendió.
@@ -153,7 +155,7 @@ Desde que charlaron en el patio, Yuna y Ryuuichi empezaron a hablar poco a poco.
 
 Charlamos sobre que la comida del hospital es malísima.
 Sobre que da mucha pereza las clases online.
-Sobre cuales eran sus enfermeros favoritos.
+Sobre cuáles eran sus enfermeros favoritos.
 
 Charlas sobre nada importante.
 Luego charlamos sobre libros y películas.
@@ -260,7 +262,7 @@ Yuna no dijo nada al respecto, solamente le regresó una ligera sonrisa.
 
 Por un momento continuó un tranquilo silencio.
 Dentro de todo el tiempo que hemos pasado juntos, estoy segura de que ha habido muchos ratos en los que la hemos pasado sin conversar nada, aun así ¿Será por qué nos estamos enfrentando?
-Trato de encontrar las palabras pero cuanto más lo intente no sé qué decir.
+Trato de encontrar las palabras, pero cuanto más lo intente no sé qué decir.
 Yuna dice mientras mira hacia el suelo:
 
 ----------------------------------------
@@ -288,6 +290,8 @@ Luego de quedarse de pie hasta que el sonido del auto desapareciera, Ryuuichi le
 El cielo estaba coloreado de azul, como si fuera un día de verano.
 La digna atmosfera de la primavera se mezcla con los cálidos rayos del sol.
 Ryuuichi se quedó inmóvil de pie admirando el sakura en pleno florecimiento imponiendo su presencia en todo el patio.
+
+**********************************************
 
 Medio año y luego de un tiempo después, Yuna estaba sentada de vuelta en la banca del patio del hospital.
 No de visita, sino como paciente.
@@ -326,7 +330,7 @@ Me senté en la banca mientras pensaba en qué hacer, de repente delante de mis 
 Yuna se levantó inmediatamente y corrió hacia aquel anciano.
 
 ----------------------------------------
-§"Oiga, disculpe!" | | yuna§
+§"¡Oiga, disculpe!" | | yuna§
 
 §"Mmm? ¿Qué sucede?" | | character1§
 ----------------------------------------
@@ -499,7 +503,7 @@ Solamente son las sinceras palabras que vienen desde el fondo del corazón de Yu
 §"Aunque dibujes esto para mí... No me hace feliz si ya no estás aquí" | | yuna§
 ----------------------------------------
 
-Sé que estoy diciendo estupideces, aun así no puedo evitar arrojar y desahogar esta desbordante tristeza, este increíble vació sin destino a donde ir.
+Sé que estoy diciendo estupideces, aun así, no puedo evitar arrojar y desahogar esta desbordante tristeza, este increíble vació sin destino a donde ir.
 Pasar por eso fue muy duro para una niña de catorce años como Yuna.
 
 Mamiko sintió como si Yuna fuera su portavoz capaz de decir todo lo que ella se había estado guardando hasta el momento.
@@ -518,6 +522,8 @@ Seguramente se trata del nombre de esta obra.
 §"Aki urara" (Glorioso otoño) | https://www.youtube.com/watch?v=Yyqw-BHRmfw | link§
 
 Lo leyó mientras cerraba fuertemente sus dientes.
+
+**********************************************
 
 Yuna ya tiene quince años, estamos en la puerta del invierno.
 Se puede ver desde la ventana como las hojas del árbol caen como si estuvieran caducadas.
@@ -580,7 +586,7 @@ En una de esas ramas hay dos hojas de otoño que han perdido un poco de su color
 Como si se aferrasen aún siguen conectadas a la rama.
 
 Al ver eso Yuna piensa que es como Ryuuichi y ella.
-No pudo evitar reírse de si misma. 
+No pudo evitar reírse de sí misma. 
 
 Sin embargo, incluso en estos melancólicos momentos donde pareciera que el viento se la llevará consigo, el corazón de Yuna se agita.
 

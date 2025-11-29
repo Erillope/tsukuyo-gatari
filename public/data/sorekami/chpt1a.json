@@ -20,7 +20,13 @@
             "section": "sorekami/chapters/chpt1-04",
             "commentsBG": "sorekami/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/vjbTpBPGvBw?si=qGUYBODt7XKFRmfo",
+                "title": "Corazón ardiente",
+                "subtitle": "Kokoro Moyu - 心燃ゆ"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 13,

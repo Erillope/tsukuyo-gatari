@@ -78,7 +78,7 @@ Todo eso mezclado con estos sentimientos de ajetreo, me agrada." | | teruna§
 
 Chiharu observa su rostro reflejado en la ventana y recuerda su niñez.
 La navidad y el año nuevo eran fechas que la hacían estallar de la emoción.
-A medida de que ha crecido, esa emoción ha ido desapareciendo.
+A medida que ha crecido, esa emoción ha ido desapareciendo.
 
 Cuando era una niña no era capaz de imaginar cosas como:
 ¿Cuál será mi proyección hacia el futuro?
@@ -87,11 +87,13 @@ Cuando era una niña no era capaz de imaginar cosas como:
 ¿Qué tipo de vida llevaré?
 
 Desde hace aproximadamente un año, empecé a soñar estas premoniciones.
-Mis sueños se llenó de gente muriendo, y todo empezó a asquearme.
+Mis sueños se llenaron de gente muriendo, y todo empezó a asquearme.
 
 Pero ahora es distinto.
 
 Mi corazón que era prisionero de la muerte, ha cambiado gracias al tiempo que he pasado junto a Teruna.
+
+**********************************************
 
 Ishigami espera a las chicas en una cafetería cerca de la estación de trenes.
 La puerta de la cafetería se abre, dándole la entrada a Chiharu y Teruna.
@@ -127,7 +129,7 @@ Ishigami da un sorbo a su café, luego mira a ambas a los ojos y decide romper e
 §"Fui a averiguar sobre aquel hotel" | | ishigami§
 ----------------------------------------
 
-Con tan solo esa palabras, Chiharu y Teruna ya intuían lo que Ishigami estaba a punto de decir.
+Con tan solo esas palabras, Chiharu y Teruna ya intuían lo que Ishigami estaba a punto de decir.
 
 ----------------------------------------
 §"En una de las habitaciones del hotel, un hombre cometió suicidio... Se ahorcó" | | ishigami§
@@ -239,7 +241,7 @@ Ishigami por un momento guarda silencio ante la pregunta de Teruna, luego respon
 
 ----------------------------------------
 §"Estoy investigando un caso.
-Misteriosas muertes consecutivas ocurridas en el área metropolitana de Tokyo... A simple vista parecen suicidios... Pero estoy seguro de que se tratan de asesinatos" | | ishigami§
+Misteriosas muertes consecutivas ocurridas en el área metropolitana de Tokio... A simple vista parecen suicidios... Pero estoy seguro de que se tratan de asesinatos" | | ishigami§
 ----------------------------------------
 
 Chiharu y Teruna son sorprendidas por esta repentina historia.
@@ -370,7 +372,7 @@ Sin embargo..." | | ishigami§
 Chiharu intuye lo que piensa Ishigami, e inconscientemente deja soltar su voz.
 
 ----------------------------------------
-§"Gracias a tu premonición, ahora estoy seguro al cien porciento." | | ishigami§
+§"Gracias a tu premonición, ahora estoy seguro al cien por ciento." | | ishigami§
 ----------------------------------------
 
 Al escuchar eso, Chiharu siente una indescriptible presión en su pecho.
@@ -384,7 +386,7 @@ Al escuchar eso, Chiharu siente una indescriptible presión en su pecho.
 Ishigami responde imponentemente.
 
 ----------------------------------------
-§"No puede... Es muy peligroso!" | | chiharu§
+§"No puede... ¡Es muy peligroso!" | | chiharu§
 ----------------------------------------
 
 Sin pensarlo, Chiharu alza su tono de voz y se inclina hacia Ishigami.
@@ -508,7 +510,7 @@ Entonces tímidamente continúa charlando.
 §"Sobredosis..." | | ishigami§
 ----------------------------------------
 
-Ishigami duda en responder pero finalmente sus palabras salen ante la insistencia de Teruna.
+Ishigami duda en responder, pero finalmente sus palabras salen ante la insistencia de Teruna.
 
 ----------------------------------------
 §"Sobre...dosis?...... ¿Cómo es eso posible?" | | teruna§
@@ -567,7 +569,7 @@ Ishigami continúa hablando mientras dirige su mirada hacia el asiento donde est
 Ishigami quiso indagar más, pero se quedó en silencio esperando la respuesta de Teruna.
 
 ----------------------------------------
-§"¿Por qué murió Luli?... Realmente quiero saberlo, pero una parte de mí no quiere saber." | | teruna§§
+§"¿Por qué murió Luli?... Realmente quiero saberlo, pero una parte de mí no quiere saber." | | teruna§
 ----------------------------------------
 
 Teruna cierra sus ojos.
@@ -576,7 +578,7 @@ Luego continúa su palabra.
 
 ----------------------------------------
 §"No hay necesidad de sobre-exigirse buscando una respuesta.
-Deberías de tomartelo a tu propio ritmo, no hay razón para apresurarse." | | ishigami§§
+Deberías de tomartelo a tu propio ritmo, no hay razón para apresurarse." | | ishigami§
 ----------------------------------------
 
 Teruna asiente, pero se puede notar el conflicto en su rostro.

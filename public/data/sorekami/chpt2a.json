@@ -20,7 +20,13 @@
             "section": "sorekami/chapters/chpt2-307",
             "commentsBG": "sorekami/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/Yyqw-BHRmfw?si=JB8Oss1A3_IK19dH",
+                "title": "Glorioso otoño",
+                "subtitle": "Aki urara - 秋うらら"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 10,

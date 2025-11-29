@@ -20,7 +20,13 @@
             "section": "parade/kesera/chpt2",
             "commentsBG": "parade/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/cNvsug-S38Y?si=dYfbQUgoO5E9qckv",
+                "title": "Kesera Rhythm",
+                "subtitle": "ケセラリズム"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 10,

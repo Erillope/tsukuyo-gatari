@@ -19,7 +19,7 @@ Chiharu dijo eso mientras estaba en la parte trasera de la bicicleta saludando c
 Ella señala hacia la salida.
 
 ----------------------------------------
-§"Montar juntas la bicicleta va en contra de las leyes de transito" | | teruna§
+§"Montar juntas la bicicleta va en contra de las leyes de tránsito" | | teruna§
 
 §"No es momento de preocuparse por eso, solo pedalea" | | chiharu§
 ----------------------------------------
@@ -69,7 +69,7 @@ Hay una foto en donde los jugadores del equipo estan sonriendo, el título dice 
 ----------------------------------------
 §"¿Y eso qué tiene que ver?" | | teruna§
 
-§"...... En la estación, en la escena en donde alguien moría, habían personas que llevaban un periódico con este mismo contenido" | | chiharu§
+§"...... En la estación, en la escena en donde alguien moría, había personas que llevaban un periódico con este mismo contenido" | | chiharu§
 
 §"Ese alguien...... ¿Qué tipo de persona es?" | | teruna§
 
@@ -84,13 +84,13 @@ Abrumada por las dudas, Teruna pregunta:
 ----------------------------------------
 §"...... ¿Y esa persona cómo morirá?" | | teruna§
 
-§"Un accidente en donde chocará con un tren... ... O en otras palabras, un suicidio arrojándose a las vías del tren" | | chiharu§
+§"Un accidente en donde chocará con un tren...... O en otras palabras, un suicidio arrojándose a las vías del tren" | | chiharu§
 ----------------------------------------
 
 Desde que escuché §"Estación" | | key§ ya me lo intuía.
 
 ----------------------------------------
-§"Dices que habían varias personas con el mismo periódico, entonces es altamente probable de que se distribuya cerca de esa estación ¿No tienes alguna otra pista?" | | teruna§
+§"Dices que había varias personas con el mismo periódico, entonces es altamente probable que se distribuya cerca de esa estación ¿No tienes alguna otra pista?" | | teruna§
 ----------------------------------------
 
 Ante la pregunta de Teruna, Chiharu da un pequeño grito y responde luego de pensar.
@@ -130,11 +130,11 @@ Apresuradamente saca su celular y empieza a buscar algo en internet.
 Teruna le muestra a Chiharu las imágenes resultantes de su búsqueda.
 
 ----------------------------------------
-§"Sí! Es esa torre blanca!" | | chiharu§
+§"Sí! ¡Es esa torre blanca!" | | chiharu§
 ----------------------------------------
 
 Esa es la chimenea instalada en la Planta Incineradora de Toyojima.
-Está por el distrito de comercial así que para evitar el humo, se planificó como un edificio de más de doscientos metros, y tiene un hermoso diseño poco característico de una chimenea para no dañar las vistas del área.
+Está por el distrito de comercial así que, para evitar el humo, se planificó como un edificio de más de doscientos metros, y tiene un hermoso diseño poco característico de una chimenea para no dañar las vistas del área.
 
 ----------------------------------------
 §"Solo hay una estación que cumple con todas las condiciones. No llegaremos a tiempo en bicicleta, debemos ir en tren. Ahora mismo busco desde qué estación partir" | | teruna§
@@ -155,7 +155,7 @@ De camino a la estación se empeza a formar poco a poco una pendiente.
 La figura de Chiharu pedaleando usando cada músculo de su cuerpo, es como si su vida dependiera de llegar al sitio de destino.
 El cuerpo de Teruna también tiembla debido a la vibración con el suelo, y su cabello es alborotado por la resistencia del viento.
 
-Chiharu continua pedaleando sin disminuir la velocidad, el paisaje del alrededor se ve como si fluyera.
+Chiharu continúa pedaleando sin disminuir la velocidad, el paisaje del alrededor se ve como si fluyera.
 En esta batalla contra el tiempo, Chiharu solamente pedalea ferozmente mientras respira agitada.
 Teruna no puede hacer nada más que observarla.
 
@@ -167,9 +167,9 @@ Teruna empieza a pensar que tal vez sea mejor creerle en vez de dudar.
 ----------------------------------------
 
 Teruna confirma el horario en su celular, y al escucharla Chiharu pedalea aún con más fuerza.
-Es tanta la fuerza que a veces pareciera que perderá el equilibrio, sin embargo continua pujando sin aflojar el ritmo.
+Es tanta la fuerza que a veces pareciera que perderá el equilibrio, sin embargo, continúa pujando sin aflojar el ritmo.
 
-Finalmente la entrada a la estación está a la vista.
+Finalmente, la entrada a la estación está a la vista.
 Chiharu frena bruscamente y enseguida ambas salen corriendo pasando por los boletos.
 Mirando a los alrededores encuentran las escaleras que dirigen hacia el tren expreso.
 
@@ -181,11 +181,11 @@ Cuando suben las escaleras, se escucha el sonido del tren llegando.
 El cuerpo de Chiharu llegó a su límite y sus pasos se volvien lentos, colgaba del barandal como si se estuviera desmoronando.
 
 ----------------------------------------
-§"Lo si...siento. Ve tú!" | | chiharu§
+§"Lo si...siento. ¡Ve tú!" | | chiharu§
 ----------------------------------------
 
 Dijo eso como si la estuviesen ahorcando mientras respiraba terriblemente agitada.
-No hay tiempo para vacilar, Teruna deja atrás a Chiharu y continua subiendo las escaleras.
+No hay tiempo para vacilar, Teruna deja atrás a Chiharu y continúa subiendo las escaleras.
 
 Mientras las puertas del tren se cierran, Teruna alcanza a entrar por los pelos.
 Las puertas se cerraron, y el tren lentamente empezó a moverse.
@@ -198,7 +198,7 @@ Su cabeza da miles vueltas.
 En algún lugar, tal vez alguien está por desechar su vida.
 De ser verdad, incluso aunque nos hayamos esforzado por llegar hasta ahí ¿Seremos capaces de cambiar algo?
 
-Si es que la muerte de esa persona ya esta decidida
+Si es que la muerte de esa persona ya está decidida
 ¿Acaso podremos oponer resistencia?
 Para empezar, la premonición o lo que sea que haya visto Agata Chiharu ¿Realmente se cumplirá?
 
@@ -207,16 +207,16 @@ Sin embargo, al mirar la desesperación de Chiharu, no le queda más opción que
 
 Teruna se bajó del tren cuando llegó a la estación.
 Aquí es el subterráneo, pero no es el lugar de la premonición.
-El nombre de la estación es el mismo, pero las vías del tren están hechas por otra empresa, por lo tanto este subterráneo y mi lugar de destino todavía están un poco alejados.
+El nombre de la estación es el mismo, pero las vías del tren están hechas por otra empresa, por lo tanto, este subterráneo y mi lugar de destino todavía están un poco alejados.
 
 Me apresuro hacia la estación mientras mi aliento se corta, reviso a cada momento el reloj de mi celular y corro abriéndome paso entre la multitud.
-Tardo unos minutos pero finalmente llego a la estación.
+Tardo unos minutos, pero finalmente llego a la estación.
 
 Cuando pasé por la boletería, mis piernas se detuvieron.
 Esta estación cuenta con varias líneas, entonces subo por la primera escalera que ven mis ojos.
 
 Al llegar al terminal, pude ver a las personas con el mismo periódico justo como lo dijo Chiharu.
-Sin embargo rápidamente noté que este no era el lugar ya que tenía instaladas puertas de prevención a suicidios.
+Sin embargo, rápidamente noté que este no era el lugar ya que tenía instaladas puertas de prevención a suicidios.
 
 Esta estación cuenta con un total de ocho vías, debe de haber un lugar donde no estén instaladas las puertas de prevención.
 Miro a mi alrededor mientras siento como la impaciencia aprieta mi corazón fuertemente.
@@ -225,7 +225,7 @@ Miro a mi alrededor mientras siento como la impaciencia aprieta mi corazón fuer
 §"Es el andén número ocho, solo ahí no hay puertas de prevención" | | teruna§
 ----------------------------------------
 
-Teruna rápidamente baja las escaleras, atraviesa el pasillo, y sube corriendo las escaleras que conectan con el andén numero ocho.
+Teruna rápidamente baja las escaleras, atraviesa el pasillo, y sube corriendo las escaleras que conectan con el andén número ocho.
 En ese momento, desde un lugar sin techo pude ver una chimenea similar a una torre blanca de la que hablaba Chiharu.
 
 Las posibilidades de que las palabras de Chiharu sean reales incrementan y los latidos del corazón de Teruna se aceleran más.
@@ -242,7 +242,7 @@ La descripción que me dio Chiharu están clavadas en mi cabeza, miro a mis alre
 
 Ese fue el anuncio de la venida del tren.
 La desesperación y ansiedad se apoderan de Teruna.
-§"Cálmate y piensa" | | teruna§ Teruna se lo repite a si misma para calmarse.
+§"Cálmate y piensa" | | teruna§ Teruna se lo repite a sí misma para calmarse.
 
 §¿Qué haría si fuera yo?
 ¿Qué haría si quisiera asegurar mi muerte arrojándome? | | teruna§
@@ -317,7 +317,7 @@ Abruptamente mi pecho se bloquea.
 §"Agata...... perdóname" | | teruna§
 ----------------------------------------
 
-Mi débil y temblorosa voz a penas llega a los oídos de Chiharu.
+Mi débil y temblorosa voz apenas llega a los oídos de Chiharu.
 Chiharu voltea su rostro un poco mirando hacia la lona azul.
 
 ----------------------------------------
@@ -325,7 +325,7 @@ Chiharu voltea su rostro un poco mirando hacia la lona azul.
 ----------------------------------------
 
 La voz de Chiharu suena calmada.
-Sin embargo se nota que lo dice con una terrible impotencia.
+Sin embargo, se nota que lo dice con una terrible impotencia.
 
 Teruna pierde sus palabras, solamente está ahí callada en silencio.
 Se expande por todo su cuerpo la sensación de que algo pesado se hundiera dentro de su pecho.
@@ -337,7 +337,7 @@ Estrujan fuertemente mi corazón.
 
 ----------------------------------------
 §"Este tipo de cosas, las he visto incontables veces...
-...Cada vez que tengo una premonición en mis sueños, intento hacer algo al respecto pero...... al final no puedo cambiar nada" | | chiharu§
+...Cada vez que tengo una premonición en mis sueños, intento hacer algo al respecto, pero...... al final no puedo cambiar nada" | | chiharu§
 ----------------------------------------
 
 La espalda de Chiharu se ve como si cargara ella sola con toda la tristeza, al ver eso busqué algunas palabras que decir.
@@ -358,7 +358,7 @@ Conecta sus palabras después de dar un pequeño respiro.
 ----------------------------------------
 
 Ambas dejaron la estación, y sin propósito alguno caminaron vagando por las calles de la ciudad.
-Entre ellas no hubo palabras aún, sin embargo ese silencio fue extrañamente agradable.
+Entre ellas no hubo palabras aún, sin embargo, ese silencio fue extrañamente agradable.
 
 Al darse cuenta, habían llegado hasta un parque.
 No era un parque convencional con suelo de arena y adoquín, sino que estaba cubierto por un verde césped.
@@ -369,7 +369,7 @@ Fue agradable la textura del césped tocando mis pies.
 Chiharu se sienta encima del césped.
 De esa forma se tumba en el suelo lentamente mirando hacia el cielo.
 
-Teruna también se sienta al aldo de Chiharu.
+Teruna también se sienta al lado de Chiharu.
 Sus cuerpos son envueltos suavemente por el césped, las estrellas del cielo nocturno parpadean, el cielo despejado se hunde en sus corazones.
 
 Teruna da un gran respiro.
@@ -387,7 +387,7 @@ Siento como si fuera un milagro.
 
 Teruna dejó caer esa pregunta mientras miraba hacia el cielo nocturno.
 Chiharu se queda callada por un breve momento, solamente se escucha el sonido de la brisa de la noche.
-Luego finalmente abrie la boca.
+Luego finalmente abre la boca.
 
 ----------------------------------------
 §"La gente muere, como si siguiera una narrativa predeterminada. Yo quise oponerme a ese flujo de eventos, eso es lo que pensaba" | | chiharu§
@@ -461,6 +461,8 @@ La brisa nocturna sobando nuestro cabello.
 El calor de sus cuerpos.
 Se siente una tranquilidad como si el tiempo se detuviese.
 
+**********************************************
+
 Al día siguiente después de clases. Teruna fue llamada por Chiharu.
 Nuevamente Chiharu se sube en la parte trasera de la bicicleta, y salen juntas de la escuela.
 Chiharu se apoya firmemente en la espalda de Teruna y una ligera brisa agita sus cabellos.
@@ -484,7 +486,7 @@ Teruna le responde a Chiharu con una amarga sonrisa.
 ----------------------------------------
 
 Ciertamente se disculpó, pero no se sintió serio.
-Teruna no pensó que sería una molestia, al contrario es más confortable que sentirse sola.
+Teruna no pensó que sería una molestia, al contrario, es más confortable que sentirse sola.
 
 ----------------------------------------
 §"Bueno, el día de hoy acabará super rápido" | | chiharu§
@@ -505,7 +507,7 @@ Teruna dice unas pocas palabras.
 §"Mmm más o menos" | | chiharu§
 
 §"Es que en tus sueños...... miras a la gente morir ¿no?
-Si es que cada vez que sueñas miras eso...... A mi me daría tanto miedo que no podría dormir" | | teruna§
+Si es que cada vez que sueñas miras eso...... A mí me daría tanto miedo que no podría dormir" | | teruna§
 ----------------------------------------
 
 Mi rígida mano sostiene el mango de la bicicleta.
@@ -595,7 +597,7 @@ Chiharu se sorprende y se queda atónita mirando su espalda.
 §"Jaja, bromita" | | teruna§
 ----------------------------------------
 
-La §"broma" | | § que Teruna añadió fue lanzada en un tono algo ligero, pero no había verdadera ligereza en sus palabras.
+La §"broma" | | key§ que Teruna añadió fue lanzada en un tono algo ligero, pero no había verdadera ligereza en sus palabras.
 Chiharu devuelve las palabras con una leve sonrisa.
 
 ----------------------------------------
@@ -604,10 +606,10 @@ Chiharu devuelve las palabras con una leve sonrisa.
 
 Teruna sonrió amargamente.
 
-Es verdad que quisiera matar a ese asesino, sin embargo eso sería imperdonable.
+Es verdad que quisiera matar a ese asesino, sin embargo, eso sería imperdonable.
 Me rebajaría a su mismo nivel.
 
-Aún así no puedo hacer nada para contener esta ira o tristeza, pero entiendo que ella lo dice siendo gentil a su manera.
+Aun así no puedo hacer nada para contener esta ira o tristeza, pero entiendo que ella lo dice siendo gentil a su manera.
 
 ----------------------------------------
 §"Gracias" | | teruna§

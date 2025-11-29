@@ -30,6 +30,14 @@
                 "text": "Capítulo final: La dura realidad / Efímero"
             },
             {
+                "to": "interview",
+                "text": "Entrevista autor"
+            },
+            {
+                "to": "review",
+                "text": "Reseña"
+            },
+            {
                 "to": "comentarios",
                 "text": "Comentarios"
             }
@@ -112,6 +120,14 @@
                 ]
             }
         ],
+        "interview": {
+            "interviewPath": "sorekami_interview.txt",
+            "backgroundImage": "sorekami/interview_bg"
+        },
+        "review": {
+            "reviewPath": "sorekami_review.txt",
+            "backgroundImage": "sorekami/review_bg"
+        },
         "commentSection": {
             "section": "sorekami",
             "includeSubsections": true,

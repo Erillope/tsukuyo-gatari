@@ -59,7 +59,7 @@ Lo que queda después de la muerte, es nada.
 Para los seres vivos, probablemente no hay nada más irreal que esto.
 En mi caso, uno de mis pies está pisando aquella irrealidad.
 
-Tal vez me sea posible escuchar el Río Sanzu (En el budismo, el río Sanzu, es un río que deben cruzar los muertos para llegar al más allá).
+Tal vez me sea posible escuchar el Río Sanzu §(En el budismo, el río Sanzu, es un río que deben cruzar los muertos para llegar al más allá). | | nota§
 
 Sin embargo, no es fantástico, incluso aunque escuche la voz del dios de la muerte.
 
@@ -71,7 +71,7 @@ Sin embargo, no es fantástico, incluso aunque escuche la voz del dios de la mue
 
 Imposible.
 Claramente esa fue la voz de un ser humano.
-Es más, parecía ser la voz de mi kouhai (Kouhai es un término que se usa para las personas con menos experiencia laboral o escolar.)
+Es más, parecía ser la voz de mi kouhai §(Kouhai es un término que se usa para las personas con menos experiencia laboral o escolar.) | | nota§
 
 Al voltearme, efectivamente había una chica humana.
 Del otro lado de la valla, estaba ella observando profundamente mi rostro.
@@ -143,7 +143,7 @@ Otras técnicas como ahorcarse o ahogarse, parecen dolorosas ¿verdad?" | | chih
 §"........." | | teruna§
 ----------------------------------------
 
-No respondí nada, ni tampoco me interesaba, aun así ella continuó con su charla.
+No respondí nada, ni tampoco me interesaba, aun así, ella continuó con su charla.
 
 ----------------------------------------
 §"¿Pero suicidarse lanzándose, al final es una molestia no crees?
@@ -162,7 +162,7 @@ Sin embargo, ella sigue hablando como si nada hubiera pasado.
 ----------------------------------------
 §"Lo entendería si fuera algo improvisado.
 Pero personas como tú que se molestan en escribir una carta de suicidio, creo que seguramente tienen el tiempo de planearlo.
-No necesariamente tiene que ser un lugar público como este, si no... Mmm por ejemplo ahorcarse dentro de la casa propia de uno. | | chiharu"
+No necesariamente tiene que ser un lugar público como este, si no... Mmm por ejemplo ahorcarse dentro de la casa propia de uno."| | chiharu§
 ----------------------------------------
 
 Ella continúa parloteando mientras camina lentamente.
@@ -252,7 +252,7 @@ Perdí la noción del tiempo, este preciso momento lo siento como si fuera etern
 De repente escuché la voz de "aquella persona".
 Es imposible, solamente se trata de los restos de mis recuerdos.
 
-De repente, aquellos fuertemente arraigados recuerdos se empezan a reproducir como una película.
+De repente, aquellos fuertemente arraigados recuerdos se empiezan a reproducir como una película.
 Vívidamente estoy parada en el lugar de aquel día como si hubiera revertido el tiempo hacia aquellos momentos.
 
 Ella y yo, en aquella época cuando teníamos 16 años.
@@ -379,7 +379,7 @@ Encaja muy bien con el término §"Mashou no onna" | | key§ §(Mashou no onna, 
 Ella me extiende su mano, pero yo la ignoro y me levanto con mis propias fuerzas.
 
 ----------------------------------------
-§"Hey! para empezar, ¿Qué haces sola en un lugar como ese?" | | teruna§
+§"Hey! para empezar, ¿Qué haces sola en un lugar como este?" | | teruna§
 
 §"Mmmm aunque te lo diga, no me creerás" | | chiharu§
 
@@ -399,7 +399,7 @@ La chica cruza sus manos traseras dándole la espalda a la valla, y mientras son
 ----------------------------------------
 §"Ya sabía que tú ibas a venir aquí" | | chiharu§
 
-§"A qué te refieres con que "Ya sabías" " | | teruna§
+§"A qué te refieres con que "Ya sabía" " | | teruna§
 
 §"¿Tal vez me refiero a que literalmente lo sabía?" | | chiharu§
 ----------------------------------------
@@ -443,6 +443,8 @@ Mientras Agata cierra los ojos, lentamente asiente su cabeza.
 §"Tuve un sueño en el que te lanzabas de aquí" | | chiharu§
 ----------------------------------------
 
+**********************************************
+
 ----------------------------------------
 §"...... en la carretera número xxx un auto chocó en un poste se señal de semáforo.
 El conductor con nombre xxx fue trasladado al hospital, pero luego de una hora y media su muerte fue confirmada, en cuanto a la razón del accidente, la policía ..........." | | nota§
@@ -477,9 +479,9 @@ No supe como tomarme esas palabras.
 Desde ese día, no he pensado en nada más que en Agata Chiharu.
 Aunque me haya mentido, no puedo negar que me salvó la vida.
 
-!Espera! !Nunca trató de detenerme!
-Al contrario, sospecho que esperaba a que me lanzara!
-!Qué tipa más rara!
+¡Espera! ¡Nunca trató de detenerme!
+¡Al contrario, sospecho que esperaba a que me lanzara!
+¡Qué tipa más rara!
 
 Aun así, si ella no hubiera estado ahí, siento que yo hubiera muerto justo como lo había planeado.
 Haya o no haya sido una premonición basada en su sueño
@@ -488,4 +490,4 @@ Haya o no haya sido una premonición basada en su sueño
 No dejo de pensar en la poética palabra §"Destino" | | key§
 ¡Seguramente algo debe de andar mal en mí!
 
-Yo soy Uebaru Teruna, estudiante de tercer año de bachillerato.
+Yo soy §Uebaru Teruna | | teruna§, estudiante de tercer año de bachillerato.

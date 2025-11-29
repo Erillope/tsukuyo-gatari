@@ -20,7 +20,13 @@
             "section": "sorekami/chapters/chpt4-05",
             "commentsBG": "sorekami/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/7RkQ8X6P_3k?si=sPfF-Ifb0JWJFZ-r",
+                "title": "Más hermoso que la muerte",
+                "subtitle": "Shi yori uruwashi - 死よりうるわし"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 13,

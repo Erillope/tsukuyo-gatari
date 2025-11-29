@@ -19,7 +19,18 @@
             "section": "ningen/chapters/chpt4",
             "commentsBG": "ningen/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/0qY9rsBAKPk?si=77wqCLtgDyCgukOq",
+                "title": "Humanly",
+                "subtitle": "Ningen Rashii - 人間らしい"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/G69S4nkoFgk?si=PzJg2wzKOxJplWMq",
+                "title": "Toward X",
+                "subtitle": "Taishou ki - 対象x"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 20,

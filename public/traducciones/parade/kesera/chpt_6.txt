@@ -16,7 +16,7 @@ De alguna manera intenta huir, pero por más que se resista, su cuerpo no se mue
 De hecho, mientras más intenta mover sus manos atadas, la cuerda de paja roza contra él causándole daño.
 
 En ese momento, El joven sintió pasos que se acercaban, como si hubieran notado que estaba despierto.
-Finalmente las puertas del fondo del salón de música se abren, y alguien entra.
+Finalmente, las puertas del fondo del salón de música se abren, y alguien entra.
 A la vez, las luces se encienden iluminando al joven. Y luego alguien se dirige hacia el escenario.
 
 ----------------------------------------
@@ -24,7 +24,7 @@ A la vez, las luces se encienden iluminando al joven. Y luego alguien se dirige 
 ----------------------------------------
 
 El dueño de aquella voz, llevaba una máscara que cubre su rostro desde su mandíbula hasta su frente.
-Su voz era amortiguaba por la máscara, pero se puede escuchar que se trata de la voz de un hombre de más de veinte años.
+Su voz era amortiguada por la máscara, pero se puede escuchar que se trata de la voz de un hombre de más de veinte años.
 El joven no sentía miedo hacia este hombre, más bien sentía un fuerte desagrado.
 
 ----------------------------------------
@@ -39,7 +39,7 @@ El joven pregunta serenamente.
 
 El joven pensó §"Yo soy el que quiero ser salvado" | | character-11§
 §"Nos salves" | | character-7§ Eso quiere decir que este tipo no es el único involucrado.
-Huir por la fuerza es complicado, por eso el joven se resigno a escuchar lo que tenía que decir el hombre.
+Huir por la fuerza es complicado, por eso el joven se resignó a escuchar lo que tenía que decir el hombre.
 
 ----------------------------------------
 §"¿Qué quieres de mí?" | | character-11§
@@ -56,7 +56,7 @@ El joven quedó un poco conmocionado por esas palabras.
 El hombre ríe levemente.
 
 ----------------------------------------
-§"Vamos no digas eso. Sabes, moriste una vez hace tres días ¿No lo recuerdas?. Yo quiero darle provecho a esa vida que desechaste inútilmente" | | character-7§
+§"Vamos no digas eso. Sabes, moriste una vez hace tres días ¿No lo recuerdas? Yo quiero darle provecho a esa vida que desechaste inútilmente" | | character-7§
 ----------------------------------------
 
 §"Moriste una vez hace tres días" | | character-7§
@@ -65,7 +65,7 @@ No, más bien lo recordó.
 
 Recordó que trató de ahorcarse en su propia habitación.
 Colocó una soga en su cuello, pateó la silla donde posaba sus pies y entonces perdió la conciencia.
-Sin embargo no pudo morir.
+Sin embargo, no pudo morir.
 
 El joven suelta un pequeño suspiro.
 Ni siquiera él sabía si lo que sentía era desánimo o alivio.
@@ -74,7 +74,7 @@ Ni siquiera él sabía si lo que sentía era desánimo o alivio.
 §"Fuiste encontrado en un estado inconsciente en tu habitación e inmediatamente te llevaron al hospital.
 Lamentablemente no pudiste morir...... Al parecer se rompió la barandilla del desván al que ataste tu soga.
 La barandilla debió romperse inmediatamente después de perder el conocimiento debido al reflejo del seno carotídeo causado por la presión de la cuerda.
-Pero me alegra de que no tuviste daños secundarios" | | character-7§
+Pero me alegra que no tuviste daños secundarios" | | character-7§
 ----------------------------------------
 
 El hombre aplaude burlándose del joven.
@@ -155,7 +155,7 @@ Entonces el hombre continuó relatando.
 §"Un arma biológica. Parte de su plan fue una limpieza étnica, pero no una masacre.
 A lo que ellos apuntaban fue a la vacunación de la enfermedad.
 Los ciudadanos muertos de miedo por la enfermedad, deseaban una vacuna.
-Esa era la oportunidad perfecta para implantar el "Umid Chip" una maquina a nivel celular.
+Esa era la oportunidad perfecta para implantar el | | character-7§ §"Umid Chip" | | key§ §una maquina a nivel celular.
 Tanto como los infectados como los ciudadanos fueron controlados.
 Esa mortífera enfermedad fue creada para llevar a cabo ese plan. Entonces..." | | character-7§
 
@@ -163,7 +163,7 @@ Esa mortífera enfermedad fue creada para llevar a cabo ese plan. Entonces..." |
 ----------------------------------------
 
 El corazón del joven se desborda de muchos sentimientos.
-¿Si lo que dice este hombre es verdad, mi familia fue arrebatada debido a este plan?
+§¿Si lo que dice este hombre es verdad, mi familia fue arrebatada debido a este plan? | | character-11§
 Es lo que abruma los pensamientos del joven.
 
 ----------------------------------------
@@ -180,13 +180,13 @@ Era la primera vez que el joven veía algo así, pero enseguida notó que se tra
 §"¿Me estás amenazando?" | | character-11§
 ----------------------------------------
 
-El hombre coloca el dedo en el gatillo del arma, sin embargo el joven no muestra miedo.
+El hombre coloca el dedo en el gatillo del arma, sin embargo, el joven no muestra miedo.
 
 ----------------------------------------
 §"Aquel día tú creíste haber muerto.
 Podrías cumplir tu deseo y morir ahora mismo.
 Es tan sencillo como que yo presione el gatillo.
-Además nosotros somos una organización secreta, no podemos dejarte ir así de fácil." | | character-7§
+Además, nosotros somos una organización secreta, no podemos dejarte ir así de fácil." | | character-7§
 ----------------------------------------
 
 El joven entendió que el hombre estaba dispuesto a disparar.
@@ -199,7 +199,7 @@ Algunos son motivados por el dinero, venganza o justicia, pero todos apuntamos a
 ----------------------------------------
 
 El joven siente como su sudor desliza sobre su mandíbula.
-El hombre se da un respiro y continua charlando.
+El hombre se da un respiro y continúa charlando.
 
 ----------------------------------------
 §"¿Vas a abandonar tu vida y tu rencor?
@@ -265,7 +265,7 @@ Al soltarse las manos, el hombre regresó a las butacas.
 §"¿Cuál es tu nombre?" | | character-11§
 
 §"Aquí todos nos llamamos con un alias secreto.
-Después de todo actuamos desde las sombras, por lo tanto tenemos una vida pública y secreta." | | character-7§
+Después de todo actuamos desde las sombras, por lo tanto, tenemos una vida pública y secreta." | | character-7§
 ----------------------------------------
 
 El hombre voltea y dice

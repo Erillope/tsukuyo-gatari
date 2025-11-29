@@ -3,14 +3,14 @@ Nuevamente, soñé con aquella época.
 Bostezo levemente mientras la luz que se filtra por las aperturas de las cortinas deslumbra mis ojos.
 Paso por las abarrotadas puertas de la estación, subo al mismo tren a la misma hora que siempre y espero tranquilamente a que llegue, mirando por la ventana como si todavía estuviera allí.
 
-La ruta del tren pasa por muchas escuelas, por lo tanto hay muchos estudiantes a bordo.
+La ruta del tren pasa por muchas escuelas, por lo tanto, hay muchos estudiantes a bordo.
 Al ver a un chico de mi misma edad, casualmente lo recordé.
 
 Lo que recordé fue a un muchacho que siempre carga una mirada muy amable.
 Cuando vi sus ojos reflejados detrás de mis párpados, sentí que iba a llorar.
 
 Ya han pasado diez años.
-Nos conocimos cuando éramos niños, vivíamos juntos en un instalación.
+Nos conocimos cuando éramos niños, vivíamos juntos en una instalación.
 
 ¿Qué fue lo primero que charlamos?... No lo recuerdo.
 Crecimos en las mismas circunstancias, y por eso solo los dos nos entendíamos mutuamente.
@@ -38,7 +38,7 @@ Los alumnos charlan amistosamente en la parte trasera del aula.
 ----------------------------------------
 §"Oigan ¿Conocen al nuevo estudiante de segundo año que llegó la semana pasada?" | | character-1§
 
-§"Ah! ¿Te refieres a ese chico super cool? Lo vi, lo vi!" | | character1§
+§"Ah! ¿Te refieres a ese chico super cool? ¡Lo vi, lo vi!" | | character1§
 ----------------------------------------
 
 La típica conversación de chicas de bachillerato.
@@ -110,12 +110,12 @@ Una pequeña mano recibe el bolígrafo.
 Es un niño.
 
 ----------------------------------------
-§"No te preocupes. Yo no moriré tan fácil!" | | character-6§
+§"No te preocupes. ¡Yo no moriré tan fácil!" | | character-6§
 ----------------------------------------
 
 El hombre acaricia la cabeza del niño mientras le dice eso.
 
-Confirmaré la identidad del niño viendo su rostro
+Estoy por confirmar la identidad del niño viendo su rostro
 ... Eh?!
 
 Imposible...Este niño, es aquella persona que vive en mis recuerdos desde hace muchos años.

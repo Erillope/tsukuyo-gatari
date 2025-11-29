@@ -13,6 +13,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+*::selection {
+  background: rgba(255, 255, 255, 0.2);
+  color: black;
+}
+
 html {
   scroll-behavior: smooth !important;
 }

@@ -4,7 +4,7 @@ En la entrada del cementerio, ahí se encuentra Teruna.
 La fría ventisca azota las hojas de los árboles aledaños.
 Teruna avanza lentamente por el pequeño camino de adoquines mientras carga consigo un ramo de flores.
 
-La razón por la se que se encuentra aquí, es para visitar la tumba de su amiga quien falleció el año pasado.
+La razón por la que se encuentra aquí, es para visitar la tumba de su amiga quien falleció el año pasado.
 Para visitar la tumba de Luli.
 
 Teruna siente un horror al notar que sus pies se han acostumbrado a caminar por este sitio.
@@ -93,11 +93,11 @@ Da un gran respiro para volver a ordenar su respiración.
 §"Perdón. Contarte esto no resolverá nada" | | teruna§
 ----------------------------------------
 
-La voz de Teruna se torna más alegre y su expresión más relajadas en comparación a antes.
+La voz de Teruna se torna más alegre y su expresión más relajada en comparación a antes.
 Cambia de conversación para así dejar a un lado aquellos oscuros sentimientos.
 
 ----------------------------------------
-§"Es cierto! Sabes, recientemente hice una amiga!... Ahh bueno, no sé si ella me considere igual.
+§"Es cierto! ¡Sabes, recientemente hice una amiga!... Ahh bueno, no sé si ella me considere igual.
 Ella es super delgada y hermosa, en cierto punto se parece a ti.
 Pero también es algo rara a veces" | | teruna§
 ----------------------------------------
@@ -116,7 +116,7 @@ Su voz se nubla poco a poco. Luego de una pequeña pausa continúa.
 ----------------------------------------
 
 Comienzo a recordar todas las escenas de muerte que he visto hasta ahora.
-Cada una de ellas están fuera del sentido de la realidad, sin embargo han quedado marcadas detalladamente en mis ojos y mente.
+Cada una de ellas están fuera del sentido de la realidad, sin embargo, han quedado marcadas detalladamente en mis ojos y mente.
 
 Ese momento en el que una vida se pierde.
 Sin ser capaz de hacer nada, aquellos sueños premonitorios cumplen su narrativa.
@@ -132,7 +132,7 @@ Aún al día de hoy desconozco la causa de su muerte.
 Es lo que pensé una y otra vez sin obtener alguna respuesta.
 
 ----------------------------------------
-§"No he pensado en nada más que en morir..... Pero" | | teruna§
+§"No he pensado en nada más que en morir...... Pero" | | teruna§
 ----------------------------------------
 
 Teruna duda un poco antes de continuar.
@@ -152,7 +152,7 @@ Como era de esperarse, no recibe ninguna respuesta.
 Esa pregunta no era solo para Luli, sino también para sí misma.
 
 ----------------------------------------
-§"En verdad, quiero ir contigo Luli. Pero... siento que si muero ahora, tal vez me arrepentiré" | | teruna§
+§"En verdad, quiero ir contigo Luli. Pero... siento que, si muero ahora, tal vez me arrepentiré" | | teruna§
 ----------------------------------------
 
 Teruna trata de poner en palabras sus descontrolados sentimientos.
@@ -180,10 +180,10 @@ Teruna acaricia por última vez la lápida de Luli.
 
 Reacia a despedirse, deja aquel lugar.
 Cargando en su espalda una pequeña determinación, Teruna desaparece entre la oscura noche.
-Mientras camina por el cementerio, Teruna siente como su corazón se siente más ligero.
+Mientras camina por el cementerio, Teruna siente como su corazón se aligera.
 
 Al acercarse a la entrada del cementerio, detiene su paso.
-Su intención era regresar por el mismo camino por el que vino, sin embargo una voz la llama.
+Su intención era regresar por el mismo camino por el que vino, sin embargo, una voz la llama.
 
 ----------------------------------------
 §"Teruna" | | luli§
@@ -209,7 +209,7 @@ Teruna devuelve la sonrisa mientras se acerca hacia ella caminando.
 
 §"Todo bien" | | teruna§
 
-§"Bien, entonces regresemos a casa!" | | chiharu§
+§"¡Bien, entonces regresemos a casa!" | | chiharu§
 ----------------------------------------
 
 Chiharu extiende su mano.

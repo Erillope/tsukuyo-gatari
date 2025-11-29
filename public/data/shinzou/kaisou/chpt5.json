@@ -41,7 +41,7 @@
                 "imageSrc": "3"
             },
             {
-                "breakpoint": 20,
+                "breakpoint": 30,
                 "opacity": 0.75,
                 "imageSrc": "1"
             }
@@ -63,7 +63,7 @@
                 "imageSrc": "title"
             },
             {
-                "breakpoint": 20,
+                "breakpoint": 30,
                 "opacity": 0.75,
                 "imageSrc": "2"
             }

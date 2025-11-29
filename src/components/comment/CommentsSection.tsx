@@ -17,7 +17,7 @@ export interface CommentsSectionProps {
 export const CommentsSection = (props: CommentsSectionProps) => {
     const { backgroundImage, comments, submitComment } = useCommentSection(props);
 
-    return <Box className="comment-section" border={1} gap={2} display={'flex'} paddingBottom={5}
+    return <Box className="section-box" border={1} gap={2} display={'flex'} paddingBottom={5}
         sx={{ backgroundImage: backgroundImage, backgroundPosition: props.bgPosition }}>
         <WriteComment submit={submitComment} />
         {comments.length === 0 ?

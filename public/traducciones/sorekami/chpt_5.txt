@@ -24,7 +24,7 @@ Chiharu guarda silencio por un momento y cierra los ojos mientras busca una resp
 ----------------------------------------
 §".......¿Crees que hemos cambiado algo con tan solo hablar con el señor Ishigami?" | | chiharu§
 
-§"...Creo que al escucharnos, y ser consciente de su propia muerte, lo cambia todo ¿no?" | | teruna§
+§"...Creo que, al escucharnos, y ser consciente de su propia muerte, lo cambia todo ¿no?" | | teruna§
 ----------------------------------------
 
 Chiharu escucha a Teruna mientras sigue pensando.
@@ -49,7 +49,7 @@ Teruna comprende lo que siente Chiharu al verla a los ojos, y entonces dice:
 La voz de Teruna tiembla reflejando el conflicto en su corazón.
 
 ----------------------------------------
-§"El oponente es un asesino serial... ¿Podremos salir de esta ilesas?" | | teruna
+§"El oponente es un asesino serial... ¿Podremos salir de esta ilesas?" | | teruna§
 ----------------------------------------
 
 Teruna termina de hablar, entonces Chiharu abre sus ojos como si se le hubiera ocurrido algo.
@@ -59,10 +59,12 @@ Teruna termina de hablar, entonces Chiharu abre sus ojos como si se le hubiera o
 
 §"...Eh?!" | | teruna§
 
-§"No tengo pruebas pero tampoco dudas" | | chiharu§
+§"No tengo pruebas, pero tampoco dudas" | | chiharu§
 ----------------------------------------
 
 Chiharu dijo eso con una expresión como si ocultara algo.
+
+**********************************************
 
 Ishigami llega finalmente al edificio abandonado.
 Registra los aldrededores con mucho cuidado.
@@ -87,7 +89,7 @@ Lleva puesto un abrigo negro con una capucha, su figura recibe la luz y se alza 
 Se acerca hacia acá mientras suelta unas frías palabras.
 
 ----------------------------------------
-§"Kamiyama... ¿Verdad?" | | charcater-6§
+§"Kamiyama... ¿Verdad?" | | character-6§
 ----------------------------------------
 
 §"Kamiyama" | | ishigami§ es el nombre falso de Ishigami con el que se ha estado contactando con el asesino.
@@ -141,7 +143,7 @@ Las palabras de Shiranuma son tan frías que intimidan a Ishigami.
 
 Oprime el puño con la que sujeta la carta de suicidio, su cuerpo empieza a temblar un poco y toma un gran respiro.
 Shiranuma se siente complacida ante esa reacción, y se acerca caminando sin mostrar ninguna expresión.
-Su pasos resuenan en silencio, y los latidos de Ishigami se aceleran.
+Sus pasos resuenan en silencio, y los latidos de Ishigami se aceleran.
 
 Shiranuma continúa acercándose, el frío viento envuelve a Ishigami.
 Su corazón late como una campana, y agarra con fuerza el maletín.
@@ -171,18 +173,18 @@ Escucha la respiración de Shiranuma, y su ritmo logra calmarlo poco a poco.
 Sin entender qué está sucediendo, Ishigami intenta poner en orden sus emociones.
 
 Luego de un momento de silencio, Shiranuma suelta con cuidado a Ishigami mientras él la mira fijamente.
-Entonces finalmente pude ver con claridad el rostro de Shiranuma.
+Entonces finalmente pudo ver con claridad el rostro de Shiranuma.
 
 Shiranuma se alza la capucha, y le da la espalda.
 
 ----------------------------------------
-§"Bien, empecemos!" | | character-6§
+§"¡Bien, empecemos!" | | character-6§
 ----------------------------------------
 
 Dice eso mientras se dirige hacia las escaleras.
 
 ----------------------------------------
-§"...Oye!" | | ishigami§§
+§"...Oye!" | | ishigami§
 ----------------------------------------
 
 Ishigami la llama para detenerla.
@@ -254,7 +256,7 @@ Shiranuma ni se inmuta, nada parece romper aquella indiferente expresión.
 Los ojos de Shiranuma se agudizan y ella continúa.
 
 ----------------------------------------
-§"Su deseos por morir. La tan anhelada muerte que desean pero no son capaces de alcanzar... Ahh qué miseria ¿no crees?.
+§"Sus deseos por morir. La tan anhelada muerte que desean, pero no son capaces de alcanzar... Ahh qué miseria ¿no crees?
 Por eso yo los guío hacia ella, podrías llamarme su salvador" | | character-6§
 
 §"No me jodas..." | | ishigami§
@@ -297,7 +299,7 @@ Ishigami se sorprende ante la repentina confesión de Shiranuma.
 §"Habiamos prometido morir juntos... Me insistía una y otra vez con que quería morir ¿Pero sabes qué?
 Se acobardó en pleno acto diciendome "Oye... mejor ya no" ¿Puedes creerlo? Eso fue una traición" | | character-6§
 
-§"¿Lo mataste?..." | | ishigami§§
+§"¿Lo mataste?..." | | ishigami§
 ----------------------------------------
 
 Ishigami pregunta mientras la mira con odio.
@@ -330,7 +332,7 @@ Shiranuma habla como si estuviera orgullosa de sus acciones, lo cual produce una
 ----------------------------------------
 §"Pero sabes, de entre todos esos idiotas. Solo hubo una persona distinta...... Y esa persona fue ella." | | character-6§
 
-§"¿A quien te refieres con ella?..." | | ishigami§
+§"¿A quién te refieres con ella?..." | | ishigami§
 ----------------------------------------
 
 Ishigami rompió su silencio.
@@ -347,14 +349,14 @@ Su corazón se estremece como las olas.
 
 ----------------------------------------
 §"Ella sí que deseaba la muerte, y la llevó a cabo hasta el final sin oposición.
-Ah! Es más, hasta me lo agradeció." | | character-6§
+¡Ah! Es más, hasta me lo agradeció." | | character-6§
 ----------------------------------------
 
 Las palabras de Shiranuma como afiladas espadas cortan profundamente el corazón de Ishigami.
 Ishigami siente como si su mundo se derrumbara.
 
 ----------------------------------------
-§"Mi... Mientes!" | | ishigami§
+§"Mi... ¡Mientes!" | | ishigami§
 ----------------------------------------
 
 Ishigami pierde sus fuerzas y cae de rodillas.
@@ -368,10 +370,12 @@ Shiranuma camina hacia Ishigami mientras habla con su frío tono de voz.
 Ishigami se siente confundido, pero de pronto recuerda algo.
 
 ----------------------------------------
-§"Las premoniciones que veo en mis sueños... Todas se tratan de suicidios..." | | chiharu§§
+§"Las premoniciones que veo en mis sueños... Todas se tratan de suicidios..." | | chiharu§
 ----------------------------------------
 
 Ishigami finalmente entiende las palabras de Chiharu.
+
+**********************************************
 
 Teruna y Chiharu avanzan por el húmedo ambiente del distrito comercial.
 Todas las tiendas ya han cerrado y solo se escucha el sonido del viento ocasionalmente.
@@ -396,7 +400,7 @@ Chiharu mira fijamente el edificio mientras murmura.
 §"No, no es nada" | | chiharu§
 ----------------------------------------
 
-Chiharu voltea la mirada observando los alrededores. Siente algo que la incomoda, y una sensación que le preocupa.
+Chiharu voltea la mirada observando los alrededores. Siente algo que la incómoda, y una sensación que le preocupa.
 
 ----------------------------------------
 §"El señor Ishigami debería de estar a dentro del edificio ya" | | teruna§
@@ -433,7 +437,7 @@ Teruna asiente sin decir ni una palabra mientras registra los alrededores.
 
 Al acercarse a las escaleras, suben cada escalón con mucho cuidado.
 En estos momentos solamente resuena la presencia de ambas mientras suben por estos viejos escalones.
-Cada escalón las ponen más nerviosas.
+Cada escalón las pone más nerviosas.
 
 Finalmente se encuentran cara a cara con la azotea, entonces detienen el paso.
 Chiharu y Teruna se miran mutuamente y asienten la cabeza en señal de determinación.
@@ -472,7 +476,7 @@ Entonces observa el panorama de la azotea, y se da cuenta que es ligeramente dis
 Efectivamente se trata de un edificio abandonado del distrito comercial, pero definitivamente no es el lugar correcto.
 
 ----------------------------------------
-§"Teruna...... Este no es el lugar... Este no es el lugar que yo vi en mi sueño...!" | | chiharu§
+§"Teruna...... Este no es el lugar... ¡Este no es el lugar que yo vi en mi sueño...!" | | chiharu§
 ----------------------------------------
 
 Chiharu alza la voz convencida.
@@ -494,7 +498,7 @@ En los ojos de Teruna se puede notar la desesperación.
 Chiharu llama a Ishigami, pero no contesta y el sonido de la llamada entrante solo la preocupa más.
 
 ----------------------------------------
-§"Mierda...! No contesta...!" | | chiharu§
+§"Mierda...! ¡No contesta...!" | | chiharu§
 
 §"Chiharu, debemos ir a buscarlo!" | | teruna§
 ----------------------------------------
@@ -520,7 +524,7 @@ Miran de izquierda a derecha, corriendo buscando alguna pista de aquel edificio 
 A medida que pasa el tiempo, la lluvia se intensifica junto con la impaciencia.
 
 De pronto, Teruna encuentra un edificio abandonado a unos cuantos metros cerca.
-Aquel edificio está en tan mal estado que pareciera apartado de la ciudad, su aspecto es desagradable pero Teruna no tiene más opción que ir a allí.
+Aquel edificio está en tan mal estado que pareciera apartado de la ciudad, su aspecto es desagradable, pero Teruna no tiene más opción que ir a allí.
 
 ----------------------------------------
 §"Es aquel...!" | | teruna§
@@ -544,7 +548,7 @@ Un segundo.
 Dos segundos.
 Tres segundos.
 
-¡Pum!
+§¡Pum! | | key§
 
 Resuena un impacto de caída.
 Un gran sonido sordo llega a los tímpanos de Teruna.

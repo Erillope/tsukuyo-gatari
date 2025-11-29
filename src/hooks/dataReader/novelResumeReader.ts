@@ -4,6 +4,8 @@ import type { ChapterSectionProps } from "../../components/content/ChapterSectio
 import type { CommentsViewProps } from "../../components/comment/CommentsView"
 import type { NovelTitleProps } from "../../components/content/NovelTitle"
 import type { NovelSummaryProps } from "../../pages/NovelSummary"
+import type { ReviewProps } from "../../components/content/Review"
+import type { InterviewProps } from "../../components/content/Interview"
 
 export const useNovelResumeData = (props: { sumaryFile?: string }) => {
     const [novelSummary, setNovelSummary] = useState<NovelSummaryProps>({})
@@ -27,6 +29,8 @@ export const useNovelResumeData = (props: { sumaryFile?: string }) => {
             teaserVideoLink: summaryData.teaserVideoLink,
             chapterSections: summaryData.chapterSections.map((section: any) => getChapterSection(section, bgImageFolderName, traductionsFolderName)),
             visualNovelVideoLinks: summaryData.visualNovelVideoLinks,
+            interview: summaryData.interview && getInterviewData(summaryData.interview, traductionsFolderName),
+            review: summaryData.review && getReviewData(summaryData.review, traductionsFolderName),
             commentSection: getCommentSection(summaryData.commentSection),
         }
     }
@@ -64,6 +68,20 @@ export const useNovelResumeData = (props: { sumaryFile?: string }) => {
             commentsBG: getFromNovelImageFolder(data.commentsBG),
             includeSubsections: data.includeSubsections,
             bgPosition: data.bgPosition,
+        }
+    }
+
+    const getInterviewData = (data: any, traductionsFolderName: string): InterviewProps => {
+        return {
+            interviewPath: getFromTraductionsFolder(traductionsFolderName + data.interviewPath),
+            backgroundImage: getFromNovelImageFolder(data.backgroundImage),
+        }
+    }
+
+    const getReviewData = (data: any, traductionsFolderName: string): ReviewProps => {
+        return {
+            reviewPath: getFromTraductionsFolder(traductionsFolderName + data.reviewPath),
+            backgroundImage: getFromNovelImageFolder(data.backgroundImage),
         }
     }
 

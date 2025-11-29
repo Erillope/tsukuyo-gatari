@@ -129,6 +129,10 @@ const useRTypographyStyles = (props: { variant?: string }) => {
             opacity: visible ? 1 : 0,
             transform: visible ? 'translateY(0)' : 'translateY(20px)',
             transition: 'opacity 0.8s ease-out, transform 0.8s ease-out',
+            "& ::selection": {
+                background: 'rgba(255, 255, 255, 0.5)',
+                color: 'black',
+            }
         }
     }
 

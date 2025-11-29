@@ -8,7 +8,9 @@ export interface IntroductionProps {
 
 export const Introduction = (props: IntroductionProps) => {
     const { introductionBody } = useIntroduction({ summaryFilePath: props.summaryFilePath });
-
+    if (!introductionBody || introductionBody.trim() === "") {
+        return null;
+    }
     return (
         <RBox className="black-bg"
             component="section">

@@ -18,6 +18,10 @@
                 "text": "Parte 3: Todestrieb"
             },
             {
+                "to": "review",
+                "text": "Reseña"
+            },
+            {
                 "to": "comentarios",
                 "text": "Comentarios"
             }
@@ -136,6 +140,10 @@
                 ]
             }
         ],
+        "review": {
+            "reviewPath": "parade_review.txt",
+            "backgroundImage": "parade/review_bg"
+        },
         "commentSection": {
             "section": "parade",
             "includeSubsections": true,

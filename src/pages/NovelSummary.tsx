@@ -8,6 +8,8 @@ import { type ChapterSectionProps, ChapterSection } from "../components/content/
 import { TraductionDetails } from "../components/content/TraductionDetails";
 import { type VisualNovelProps, TeaserVideo, VisualNovel } from "../components/content/VideoViews";
 import { ShinzouInfoChapters } from "../components/content/ShinzouInfoChapters";
+import { Interview, type InterviewProps } from "../components/content/Interview";
+import { Review, type ReviewProps } from "../components/content/Review";
 
 export interface NovelSummaryProps {
     menuOptionsData?: MenuOptionData[];
@@ -18,6 +20,8 @@ export interface NovelSummaryProps {
     teaserVideoLink?: string;
     chapterSections?: ChapterSectionProps[];
     visualNovelVideoLinks?: VisualNovelProps[];
+    interview?: InterviewProps;
+    review?: ReviewProps;
     commentSection?: CommentsViewProps;
 }
 
@@ -35,13 +39,22 @@ export const NovelSummary = (props: NovelSummaryProps) => {
             <ChapterSection key={section.summaryFilePath} {...section} />
         ))}
         {props.visualNovelVideoLinks && <VisualNovel visualNovelData={props.visualNovelVideoLinks} />}
+        {props.interview && <>
+            <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 } }} />
+            <Interview {...props.interview} />
+        </>}
+
+        {props.review && <>
+            <Divider sx={{ borderColor: 'black', borderBottomWidth: 2, my: 2, margin: { xs: 2, md: 5 } }} />
+            <Review {...props.review} />
+        </>}
         <CommentsView {...props.commentSection} />
     </Box>
 }
 
 export const FileNovelSummary = (props: { sumaryFile: string, infoChaptersComponent?: React.ReactNode }) => {
     const { novelSummary } = useNovelResumeData({ sumaryFile: props.sumaryFile });
-    
+
     return <NovelSummary {...novelSummary} infoChaptersComponent={props.infoChaptersComponent} />
 }
 

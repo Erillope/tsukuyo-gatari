@@ -17,7 +17,13 @@
             "section": "jigoku/chapters/chpt",
             "commentsBG": "jigoku/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/QRJRGtxfWpk?si=egBT1xIep15Lvjv7",
+                "title": "Shoujo Jigoku",
+                "subtitle": "少女地獄"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 13,

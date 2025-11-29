@@ -20,7 +20,23 @@
             "section": "sorekami/chapters/chpt6",
             "commentsBG": "sorekami/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/l9DGrug2n58?si=y15RvO6gwcK9UBgC",
+                "title": "Lapislázuli del amanecer",
+                "subtitle": "Yoake no Lazuli - 夜明けのラズリ"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/vjbTpBPGvBw?si=qGUYBODt7XKFRmfo",
+                "title": "Corazón ardiente",
+                "subtitle": "Kokoro Moyu - 心燃ゆ"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/X9G5154u884?si=8t_c8WcJ-sLfKorD",
+                "title": "Ruri",
+                "subtitle": "Ruri - るり"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 13,

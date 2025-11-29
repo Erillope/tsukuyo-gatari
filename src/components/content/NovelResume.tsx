@@ -5,8 +5,9 @@ import { NovelBody } from "./NovelBody";
 import AnimatedButton from "../ui/AnimatedButton";
 import { LectureTitle } from "../ui/LectureTitle";
 import { RBox } from "../ui/RBox";
-import { Image } from "../ui/Image"
+import { Image, ImageNoLink } from "../ui/Image"
 import { LectureTypography } from "../ui/RTypography";
+import { publicFileReader } from "../../hooks/dataReader/publicFileReader";
 
 export interface NovelResumeProps {
     sumaryFile?: string;
@@ -45,10 +46,19 @@ const NovelTitles = (props: SumaryInfo) => {
 }
 
 const NovelResumeContent = (props: { to?: string, sumaryInfo: SumaryInfo, navigate: (to: string) => void }) => {
+    const { getFromPublicImageFolder } = publicFileReader();
     return <Box display={"flex"} flexDirection="column" width={'100%'}>
-        <NovelBody bodyParagraphs={props.sumaryInfo.bodyParagraphs} />
+        {props.sumaryInfo.bodyParagraphs.length > 0 ?
+        <NovelBody bodyParagraphs={props.sumaryInfo.bodyParagraphs} /> :
+        <NoContent imageSrc={getFromPublicImageFolder("assets/yomu")} />}
         <Box component={'a'} href={`#/${props.to}`}>
             <AnimatedButton text="Leer más" marginTop="30px" onClick={() => props.to && props.navigate(props.to)} />
         </Box>
+    </Box>
+}
+
+const NoContent = (props: { imageSrc: string }) => {
+    return <Box display={"flex"} flexDirection="column" width={'100%'} justifyContent="center" alignItems="center" gap={2}>
+        <ImageNoLink width={'70%'} height={'100%'} src={props.imageSrc} sx={{ opacity: 0.3}}/>
     </Box>
 }

@@ -1,9 +1,7 @@
-
 Fue una persona muy amable.
 
 No culpa a nadie por sus errores.
 Tampoco lastima a nadie.
-
 
 Fue alguien capaz de sacrificarse para los demás.
 Fue alguien capaz de extender su mano a las personas que las necesitaban.
@@ -11,15 +9,15 @@ Fue alguien capaz de salvar a una hermosa mariposa luchando en peligro.
 
 -*-
 
-Conciencia.
+§Conciencia.
 Sentidos.
 Negación.
-Aislamiento.
+Aislamiento. | | key§
 
 Caóticas palabras producto de un caótico cerebro.
 Un miedo insoportable.
 Un dolor que gotea como una fuerte lluvia.
-Aquello que se ha congelado, no ha sido mi cuerpo, sino mi corazón?
+Aquello que se ha congelado, no ha sido mi cuerpo, ¿sino mi corazón?
 
 Una frialdad que no es posible notarla a simple vista, pero al tocarla puedes sentir como te congela sin límites.
 
@@ -35,14 +33,12 @@ Ella ni siquiera sabe qué demonios es el amor.
 ¿Será perdonar los errores que ha cometido en el pasado?
 ¿Será brindarle aquello que tanto desea?
 
-
 Sin importar de qué se trate, nada es capaz de llenar su corazón.
 Tal vez sea un error las preguntas y respuestas. Permanece ahí sin progreso alguno.
 
-
-Egoísmo.
+§Egoísmo.
 Autoestima.
-Misantropía.
+Misantropía. | | key§
 
 ----------------------------------------
 §"Qué asco"
@@ -65,9 +61,8 @@ Este mundo está repleto de cosas innecesarias.
 Ella estuvo en busca de algo que fuera capaz derretir todas sus congeladas imágenes mentales.
 Ella estuvo en busca de algo que fuera capaz de darle color a todos sus grises paisajes.
 
-
 ----------------------------------------
-§"Vive humanamente!" | | §
+§"Vive humanamente!" | | key§
 ----------------------------------------
 
 Esas simples palabras conllevan un gran peso en su pequeña espalda.
@@ -77,13 +72,8 @@ Esas simples palabras conllevan un gran peso en su pequeña espalda.
 Si notarlo, lo bueno y lo malo se mezclan.
 Y son llevados por estos monótonos sentimientos.
 
-
-
 Las preguntas y respuestas, están todas equivocadas.
 Son todos unos tontos ¿Aún no te das cuenta?
 
-
-
 Las palabras que salen de mi boca me lastiman.
 Son como una espada y les tengo miedo.
-

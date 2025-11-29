@@ -19,7 +19,18 @@
             "section": "sorekami/chapters/chpt7",
             "commentsBG": "sorekami/comment_bg"
         },
-        "videoLinks": [],
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/eSpqMUOvRkw?si=-qJzty09MClAXq-0",
+                "title": "Efímero",
+                "subtitle": "Hakumei - ハクメイ"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/-qE9d3r1jIE?si=6qHB_maA_oBStzMI",
+                "title": "We call it the deity",
+                "subtitle": "Sore wo bokura wa kami sama to yobu - それを僕らは神様と呼ぶ"
+            }
+        ],
         "chapterLargeBreakpoints": [
             {
                 "breakpoint": 11,
@@ -57,7 +68,7 @@
                 "imageSrc": "4"
             },
             {
-                "breakpoint": 97,
+                "breakpoint": 98,
                 "opacity": 0.7,
                 "imageSrc": "5"
             },
@@ -129,7 +140,7 @@
                 "imageSrc": "8"
             },
             {
-                "breakpoint": 97,
+                "breakpoint": 98,
                 "opacity": 0.7,
                 "imageSrc": "9"
             },

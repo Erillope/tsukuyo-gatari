@@ -1,7 +1,7 @@
 Una habitación rodeada por varias cámaras.
 Las paredes manchadas de rojo por la oxidación.
 
-Delante de algo a lo que denominaron como "Payaso", se encontraba un pedazo de carne tan deformado que no era posible determinar su origen.
+Delante de algo a lo que denominaron como §"Payaso" | | key§, se encontraba un pedazo de carne tan deformado que no era posible determinar su origen.
 El trozo de carne está girando.
 Un hombre de alta estatura que llevaba puesto un traje, junto a sus subordinados observaban la situación delante del monitor.
 
@@ -21,7 +21,7 @@ Estaba a punto de dejar su taza de café en la mesa, pero entonces su mano se de
 Los subordinados que estaban a su lado, se sorprendieron al escuchar esa voz.
 
 ----------------------------------------
-§"¿Qué es esto? Acaso él está..." | | character-5§
+§"¿Qué es esto? Acaso aquello está..." | | character-5§
 
 §"Eh! eso es... imposible" | | character-6§
 ----------------------------------------
